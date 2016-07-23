@@ -1,5610 +1,5610 @@
 var inputstream = [{
-"codes": [
-  {
-    "NUMBER": 2,
-    "OFFICE": "Ahero",
-    "CODE": "40101",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando/Muhoroni",
-    "LOCATION": ["-0.1744386","34.9203383"]
-  },
-  {
-    "NUMBER": 3,
-    "OFFICE": "Ainabkoi",
-    "CODE": "30101",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Ainabkoi",
-    "LOCATION": ["0.1883986","35.5302127"]
-  },
-  {
-    "NUMBER": 4,
-    "OFFICE": "Akala",
-    "CODE": "40139",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["-0.066667","34.433333"]
-  },
-  {
-    "NUMBER": 5,
-    "OFFICE": "Amagoro",
-    "CODE": "50244",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Teso",
-    "LOCATION": ["0.627871","34.332576"]
-  },
-  {
-    "NUMBER": 6,
-    "OFFICE": "Amalo",
-    "CODE": "20424",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Bomet East",
-    "LOCATION": ["-0.5929936","35.6855464"]
-  },
-  {
-    "NUMBER": 7,
-    "OFFICE": "Amukura",
-    "CODE": "50403",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Teso",
-    "LOCATION": ["0.5623429","34.2733526"]
-  },
-  {
-    "NUMBER": 8,
-    "OFFICE": "Asumbi",
-    "CODE": "40309",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Rangwe",
-    "LOCATION": ["-0.61972","34.6133903"]
-  },
-  {
-    "NUMBER": 9,
-    "OFFICE": "Athi River",
-    "CODE": "00204",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mavoko",
-    "LOCATION": ["-1.4577245","36.9785033"]
-  },
-  {
-    "NUMBER": 10,
-    "OFFICE": "Awasi",
-    "CODE": "40122",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando",
-    "LOCATION": ["-0.1616445","35.0732265"]
-  },
-  {
-    "NUMBER": 11,
-    "OFFICE": "Bahati",
-    "CODE": "20113",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Bahati",
-    "LOCATION": ["-1.2916424","36.8586637"]
-  },
-  {
-    "NUMBER": 12,
-    "OFFICE": "Bamba",
-    "CODE": "80211",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Ganze",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 13,
-    "OFFICE": "Bamburi",
-    "CODE": "80101",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Kisauni",
-    "LOCATION": ["-4","39.716667"]
-  },
-  {
-    "NUMBER": 14,
-    "OFFICE": "Banja",
-    "CODE": "50316",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ["-1.2920659","36.8219462"]
-  },
-  {
-    "NUMBER": 15,
-    "OFFICE": "Baragoi",
-    "CODE": "20601",
-    "STATUS": "Departmental",
-    "COUNTY": "Samburu",
-    "CONSTITUENCY": "Samburu North",
-    "LOCATION": ["1.783333","36.783333"]
-  },
-  {
-    "NUMBER": 16,
-    "OFFICE": "Baraton",
-    "CODE": "30306",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Chesumei",
-    "LOCATION": ["0.5162002","35.2733847"]
-  },
-  {
-    "NUMBER": 17,
-    "OFFICE": "Baricho",
-    "CODE": "10302",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Ndia",
-    "LOCATION": ["-1.3017641","36.8262145"]
-  },
-  {
-    "NUMBER": 18,
-    "OFFICE": "Bissel",
-    "CODE": "01101",
-    "STATUS": "Sub",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado Central",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 19,
-    "OFFICE": "Bokoli",
-    "CODE": "50206",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ["0.7069788","34.6645984"]
-  },
-  {
-    "NUMBER": 20,
-    "OFFICE": "Bomet",
-    "CODE": "20400",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Bomet East",
-    "LOCATION": ["-0.782104","35.3408601"]
-  },
-  {
-    "NUMBER": 21,
-    "OFFICE": "Bondeni",
-    "CODE": "20101",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Nakuru",
-    "LOCATION": ["-1.2920659","36.8219462"]
-  },
-  {
-    "NUMBER": 22,
-    "OFFICE": "Bondo",
-    "CODE": "40601",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Bondo",
-    "LOCATION": ["-1.3050429","36.8321335"]
-  },
-  {
-    "NUMBER": 23,
-    "OFFICE": "Booker",
-    "CODE": "50137",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Mumias",
-    "LOCATION": ["0.3541674","34.5035398"]
-  },
-  {
-    "NUMBER": 24,
-    "OFFICE": "Boro",
-    "CODE": "40620",
-    "STATUS": "Sub",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Alego Usonga",
-    "LOCATION": ["2.6288889","37.7994444"]
-  },
-  {
-    "NUMBER": 25,
-    "OFFICE": "Brigadier",
-    "CODE": "50245",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ["-1.2920659","36.8219462"]
-  },
-  {
-    "NUMBER": 26,
-    "OFFICE": "Bukura",
-    "CODE": "50105",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lurambi",
-    "LOCATION": ["0.2986781","34.626987"]
-  },
-  {
-    "NUMBER": 27,
-    "OFFICE": "Bulimbo",
-    "CODE": "50109",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Matungu",
-    "LOCATION": ["0.4383662","34.5116397"]
-  },
-  {
-    "NUMBER": 28,
-    "OFFICE": "Bumala",
-    "CODE": "50404",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Busia",
-    "LOCATION": ["0.3","34.2"]
-  },
-  {
-    "NUMBER": 29,
-    "OFFICE": "BUNGOMA",
-    "CODE": "50200",
-    "STATUS": "Head",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma South",
-    "LOCATION": ["0.5695252","34.5583766"]
-  },
-  {
-    "NUMBER": 30,
-    "OFFICE": "Bura Tana",
-    "CODE": "70104",
-    "STATUS": "Departmental",
-    "COUNTY": "Tana River",
-    "CONSTITUENCY": "Bura",
-    "LOCATION": ["-1.5","40.033333"]
-  },
-  {
-    "NUMBER": 31,
-    "OFFICE": "Burnt Forest",
-    "CODE": "30102",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Ainabkoi",
-    "LOCATION": ["0.21803","35.43075"]
-  },
-  {
-    "NUMBER": 32,
-    "OFFICE": "Buru Buru",
-    "CODE": "00515",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Makadara",
-    "LOCATION": ["-1.2823645","36.8787984"]
-  },
-  {
-    "NUMBER": 33,
-    "OFFICE": "BUSIA",
-    "CODE": "50400",
-    "STATUS": "Head",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Busia",
-    "LOCATION": ["0.4607691","34.1114621"]
-  },
-  {
-    "NUMBER": 34,
-    "OFFICE": "Butere",
-    "CODE": "50101",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Butere",
-    "LOCATION": ["0.216667","34.5"]
-  },
-  {
-    "NUMBER": 35,
-    "OFFICE": "Butula",
-    "CODE": "50405",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Busia",
-    "LOCATION": ["0.3416124","34.3352003"]
-  },
-  {
-    "NUMBER": 36,
-    "OFFICE": "Buyofu",
-    "CODE": "50210",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma South",
-    "LOCATION": ["0.4819594","34.386886"]
-  },
-  {
-    "NUMBER": 37,
-    "OFFICE": "Chamakanga",
-    "CODE": "50302",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Sabatia",
-    "LOCATION": ["0.1457269","34.7963485"]
-  },
-  {
-    "NUMBER": 38,
-    "OFFICE": "Changamwe",
-    "CODE": "80102",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Changamwe",
-    "LOCATION": ["-4.026111","39.630556"]
-  },
-  {
-    "NUMBER": 39,
-    "OFFICE": "Chavakali",
-    "CODE": "50317",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Sabatia",
-    "LOCATION": ["0.1166116","34.731949"]
-  },
-  {
-    "NUMBER": 40,
-    "OFFICE": "Chebiemit",
-    "CODE": "30706",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Marakwet",
-    "LOCATION": ["0.85822","35.488392"]
-  },
-  {
-    "NUMBER": 41,
-    "OFFICE": "Cheborge",
-    "CODE": "20215",
-    "STATUS": "Sub",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Bureti",
-    "LOCATION": ["-0.3688967","35.286286"]
-  },
-  {
-    "NUMBER": 42,
-    "OFFICE": "Chebunyo",
-    "CODE": "20401",
-    "STATUS": "Sub",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Chepalungu",
-    "LOCATION": ["-0.7836045","35.3383954"]
-  },
-  {
-    "NUMBER": 43,
-    "OFFICE": "Chemelil",
-    "CODE": "40116",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Muhoroni",
-    "LOCATION": ["-0.083333","35.133333"]
-  },
-  {
-    "NUMBER": 44,
-    "OFFICE": "Chepareria",
-    "CODE": "30605",
-    "STATUS": "Departmental",
-    "COUNTY": "West Pokot",
-    "CONSTITUENCY": "Pokot South",
-    "LOCATION": ["1.3081095","35.2066038"]
-  },
-  {
-    "NUMBER": 45,
-    "OFFICE": "Chepkoilel",
-    "CODE": "30133",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Moiben",
-    "LOCATION": ["0.5784297","35.3020364"]
-  },
-  {
-    "NUMBER": 46,
-    "OFFICE": "Chepkorio",
-    "CODE": "30129",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Keiyo",
-    "LOCATION": ["0.383333","35.533333"]
-  },
-  {
-    "NUMBER": 47,
-    "OFFICE": "Cheptais",
-    "CODE": "50201",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Mt. Elgon",
-    "LOCATION": ["0.8083481","34.4540906"]
-  },
-  {
-    "NUMBER": 48,
-    "OFFICE": "Chesinendet",
-    "CODE": "20217",
-    "STATUS": "Sub",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Kipkelion East",
-    "LOCATION": ["-0.2645936","35.4807222"]
-  },
-  {
-    "NUMBER": 49,
-    "OFFICE": "Chiakariga",
-    "CODE": "60409",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["0.0514721","37.6456042"]
-  },
-  {
-    "NUMBER": 50,
-    "OFFICE": "Chogoria",
-    "CODE": "60401",
-    "STATUS": "Departmental",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Maara",
-    "LOCATION": ["-0.2279535","37.6306782"]
-  },
-  {
-    "NUMBER": 51,
-    "OFFICE": "Chuka",
-    "CODE": "60400",
-    "STATUS": "Departmental",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Chuka/Igambang'ombe",
-    "LOCATION": ["-0.2925655","37.6184093"]
-  },
-  {
-    "NUMBER": 52,
-    "OFFICE": "Chumvi",
-    "CODE": "90147",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Machakos",
-    "LOCATION": ["0.1674554","37.2473323"]
-  },
-  {
-    "NUMBER": 53,
-    "OFFICE": "Chumvini",
-    "CODE": "80314",
-    "STATUS": "Sub",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Taveta",
-    "LOCATION": ["-3.2094559","37.7078184"]
-  },
-  {
-    "NUMBER": 54,
-    "OFFICE": "Chwele",
-    "CODE": "50202",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Sirisia",
-    "LOCATION": ["0.7358836","34.5777565"]
-  },
-  {
-    "NUMBER": 55,
-    "OFFICE": "CITY SQUARE",
-    "CODE": "00200",
-    "STATUS": "Head",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ["-1.2863609","36.8263731"]
-  },
-  {
-    "NUMBER": 56,
-    "OFFICE": "Coast Gen. Hospital",
-    "CODE": "80103",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Mvita",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 57,
-    "OFFICE": "Dadaab",
-    "CODE": "70103",
-    "STATUS": "Departmental",
-    "COUNTY": "Garissa",
-    "CONSTITUENCY": "Dadaab",
-    "LOCATION": ["0.051","40.314"]
-  },
-  {
-    "NUMBER": 58,
-    "OFFICE": "Dago",
-    "CODE": "40112",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu West",
-    "LOCATION": ["-0.0129028","34.7239356"]
-  },
-  {
-    "NUMBER": 59,
-    "OFFICE": "Dandora",
-    "CODE": "00516",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Embakasi North",
-    "LOCATION": ["-1.25","36.9"]
-  },
-  {
-    "NUMBER": 60,
-    "OFFICE": "Daraja Mbili",
-    "CODE": "40117",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu Central",
-    "LOCATION": ["-1.0037626","35.6335752"]
-  },
-  {
-    "NUMBER": 61,
-    "OFFICE": "Daystar",
-    "CODE": "90145",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Machakos",
-    "LOCATION": ["-1.44173","37.04612"]
-  },
-  {
-    "NUMBER": 62,
-    "OFFICE": "Diani Beach",
-    "CODE": "80401",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Msambweni",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 63,
-    "OFFICE": "Docks",
-    "CODE": "80104",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Mvita",
-    "LOCATION": ["-4.0592668","39.6490896"]
-  },
-  {
-    "NUMBER": 64,
-    "OFFICE": "Doldol",
-    "CODE": "10401",
-    "STATUS": "Sub",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia North/East",
-    "LOCATION": ["1.2833333","36.7166667"]
-  },
-  {
-    "NUMBER": 65,
-    "OFFICE": "Donyosabuk",
-    "CODE": "01027",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kangundo",
-    "LOCATION": ["-1.0847064","37.2530884"]
-  },
-  {
-    "NUMBER": 66,
-    "OFFICE": "Eastleigh",
-    "CODE": "00610",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Kamkunji",
-    "LOCATION": ["-1.266667","36.85"]
-  },
-  {
-    "NUMBER": 67,
-    "OFFICE": "Egerton",
-    "CODE": "20115",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Njoro",
-    "LOCATION": ["-0.331626","35.944938"]
-  },
-  {
-    "NUMBER": 68,
-    "OFFICE": "Ekalakala",
-    "CODE": "90139",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Masinga",
-    "LOCATION": ["-0.9687381","37.472141"]
-  },
-  {
-    "NUMBER": 69,
-    "OFFICE": "Elburgon",
-    "CODE": "20102",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Molo",
-    "LOCATION": ["-0.3","35.816667"]
-  },
-  {
-    "NUMBER": 70,
-    "OFFICE": "Eldama Ravine",
-    "CODE": "20103",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Eldama Ravine",
-    "LOCATION": ["0.05","35.716667"]
-  },
-  {
-    "NUMBER": 71,
-    "OFFICE": "ELDORET",
-    "CODE": "30100",
-    "STATUS": "Head",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Kapseret",
-    "LOCATION": ["0.516667","35.283333"]
-  },
-  {
-    "NUMBER": 72,
-    "OFFICE": "Elwak",
-    "CODE": "70301",
-    "STATUS": "Departmental",
-    "COUNTY": "Mandera",
-    "CONSTITUENCY": "Mandera South",
-    "LOCATION": ["2.816667","40.933333"]
-  },
-  {
-    "NUMBER": 73,
-    "OFFICE": "Emali",
-    "CODE": "90121",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi West/Makueni",
-    "LOCATION": ["-2.079689","37.4731352"]
-  },
-  {
-    "NUMBER": 74,
-    "OFFICE": "Embakasi Village",
-    "CODE": "00521",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Embakasi East",
-    "LOCATION": ["-1.3","36.916667"]
-  },
-  {
-    "NUMBER": 75,
-    "OFFICE": "EMBU",
-    "CODE": "60100",
-    "STATUS": "Head",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Manyatta",
-    "LOCATION": ["-0.5388381","37.4596409"]
-  },
-  {
-    "NUMBER": 76,
-    "OFFICE": "Emuhaya",
-    "CODE": "50314",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Emuhaya",
-    "LOCATION": ["0.0358944","34.6269965"]
-  },
-  {
-    "NUMBER": 77,
-    "OFFICE": "Endarasha",
-    "CODE": "10107",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Kieni",
-    "LOCATION": ["-0.3100511","36.7933416"]
-  },
-  {
-    "NUMBER": 78,
-    "OFFICE": "Endebess",
-    "CODE": "30201",
-    "STATUS": "Departmental",
-    "COUNTY": "Trans Nzoia",
-    "CONSTITUENCY": "Endebess",
-    "LOCATION": ["1.0677188","34.8596574"]
-  },
-  {
-    "NUMBER": 79,
-    "OFFICE": "Enterprise Road",
-    "CODE": "00500",
-    "STATUS": "Head",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Makadara",
-    "LOCATION": ["-1.3188059","36.8646598"]
-  },
-  {
-    "NUMBER": 80,
-    "OFFICE": "Etago",
-    "CODE": "40208",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "South Mugirango",
-    "LOCATION": ["-0.9166667","34.6666667"]
-  },
-  {
-    "NUMBER": 81,
-    "OFFICE": "Faza",
-    "CODE": "80501",
-    "STATUS": "Departmental",
-    "COUNTY": "Lamu",
-    "CONSTITUENCY": "Lamu East",
-    "LOCATION": ["-2.06","41.11"]
-  },
-  {
-    "NUMBER": 82,
-    "OFFICE": "Fort Ternan",
-    "CODE": "20209",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Kipkelion West",
-    "LOCATION": ["-0.2205489","35.2958607"]
-  },
-  {
-    "NUMBER": 83,
-    "OFFICE": "Funyula",
-    "CODE": "50406",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Bunyala",
-    "LOCATION": ["0.279642","34.1177232"]
-  },
-  {
-    "NUMBER": 84,
-    "OFFICE": "Gacharage-ini",
-    "CODE": "10210",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kigumo /Kandara",
-    "LOCATION": ["-0.7226404","36.8652597"]
-  },
-  {
-    "NUMBER": 85,
-    "OFFICE": "Gaitu",
-    "CODE": "60209",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti Central",
-    "LOCATION": ["-0.0181961","37.7335095"]
-  },
-  {
-    "NUMBER": 86,
-    "OFFICE": "Gakere Road",
-    "CODE": "10109",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri South",
-    "LOCATION": ["-0.4240027","36.9540501"]
-  },
-  {
-    "NUMBER": 87,
-    "OFFICE": "Gakindu",
-    "CODE": "10111",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Mukurweni",
-    "LOCATION": ["-0.5640702","36.9995499"]
-  },
-  {
-    "NUMBER": 88,
-    "OFFICE": "Gakungu",
-    "CODE": "10232",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Maragua",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 89,
-    "OFFICE": "Gambogi",
-    "CODE": "50318",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ["0.0010125","34.7409864"]
-  },
-  {
-    "NUMBER": 90,
-    "OFFICE": "Garba Tulla",
-    "CODE": "60301",
-    "STATUS": "Departmental",
-    "COUNTY": "Isiolo",
-    "CONSTITUENCY": "Isiolo South",
-    "LOCATION": ["0.533333","38.516667"]
-  },
-  {
-    "NUMBER": 91,
-    "OFFICE": "GARISSA",
-    "CODE": "70100",
-    "STATUS": "Head",
-    "COUNTY": "Garissa",
-    "CONSTITUENCY": "Dujis",
-    "LOCATION": ["-0.4532293","39.6460988"]
-  },
-  {
-    "NUMBER": 92,
-    "OFFICE": "Garsen",
-    "CODE": "80201",
-    "STATUS": "Departmental",
-    "COUNTY": "Tana River",
-    "CONSTITUENCY": "Garsen",
-    "LOCATION": ["-2.268333","40.110833"]
-  },
-  {
-    "NUMBER": 93,
-    "OFFICE": "Gathugu",
-    "CODE": "00240",
-    "STATUS": "Sub",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Githunguri",
-    "LOCATION": ["-0.9003188","36.9720063"]
-  },
-  {
-    "NUMBER": 94,
-    "OFFICE": "Gatitu",
-    "CODE": "10114",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri Town",
-    "LOCATION": ["-0.894142","37.03957"]
-  },
-  {
-    "NUMBER": 95,
-    "OFFICE": "Gatukuyu",
-    "CODE": "01028",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Gatundu North",
-    "LOCATION": ["-0.983208","36.9662502"]
-  },
-  {
-    "NUMBER": 96,
-    "OFFICE": "Gatundu",
-    "CODE": "01030",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Gatundu",
-    "LOCATION": ["-1.0130645","36.9050566"]
-  },
-  {
-    "NUMBER": 97,
-    "OFFICE": "Gatunga",
-    "CODE": "60404",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["-0.101202","38.0075815"]
-  },
-  {
-    "NUMBER": 98,
-    "OFFICE": "Gatura",
-    "CODE": "01013",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Gatanga",
-    "LOCATION": ["-0.5387694","37.0373502"]
-  },
-  {
-    "NUMBER": 99,
-    "OFFICE": "Gede",
-    "CODE": "80208",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Ganze",
-    "LOCATION": ["-3.305644","40.011802"]
-  },
-  {
-    "NUMBER": 100,
-    "OFFICE": "Gesima",
-    "CODE": "40503",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Kitutu Masaba",
-    "LOCATION": ["-0.7091781","34.992827"]
-  },
-  {
-    "NUMBER": 101,
-    "OFFICE": "Gesusu",
-    "CODE": "40201",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Nyaribari Masaba",
-    "LOCATION": ["-0.8333333","34.65"]
-  },
-  {
-    "NUMBER": 102,
-    "OFFICE": "Giakanja",
-    "CODE": "10108",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Tetu / Nyeri Town",
-    "LOCATION": ["-0.4582234","36.9490691"]
-  },
-  {
-    "NUMBER": 103,
-    "OFFICE": "Gigiri",
-    "CODE": "00601",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ["-1.2323282","36.8075304"]
-  },
-  {
-    "NUMBER": 104,
-    "OFFICE": "Gikoe",
-    "CODE": "10213",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Mathioya",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 105,
-    "OFFICE": "Gilgil",
-    "CODE": "20116",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Gilgil",
-    "LOCATION": ["-0.4922735","36.3172993"]
-  },
-  {
-    "NUMBER": 106,
-    "OFFICE": "Gitemene",
-    "CODE": "60212",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 107,
-    "OFFICE": "Githongo",
-    "CODE": "60205",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Meru Central",
-    "LOCATION": ["-0.0083256","37.5924897"]
-  },
-  {
-    "NUMBER": 108,
-    "OFFICE": "Githunguri",
-    "CODE": "00216",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Githunguri",
-    "LOCATION": ["-1.0589995","36.7747995"]
-  },
-  {
-    "NUMBER": 109,
-    "OFFICE": "Gituamba",
-    "CODE": "01003",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga/Kiambu",
-    "CONSTITUENCY": "Gatanga/Gatundu North/Lari",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 110,
-    "OFFICE": "Gitugi",
-    "CODE": "10209",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Mathioya",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 111,
-    "OFFICE": "Gongoni",
-    "CODE": "80206",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Magarini",
-    "LOCATION": ["-3.03399","40.14069"]
-  },
-  {
-    "NUMBER": 112,
-    "OFFICE": "Griftu",
-    "CODE": "70202",
-    "STATUS": "Departmental",
-    "COUNTY": "Wajir",
-    "CONSTITUENCY": "Eldas",
-    "LOCATION": ["2.0060326","39.750917"]
-  },
-  {
-    "NUMBER": 113,
-    "OFFICE": "Habaswein",
-    "CODE": "70201",
-    "STATUS": "Departmental",
-    "COUNTY": "Wajir",
-    "CONSTITUENCY": "Wajir South",
-    "LOCATION": ["1.0168475","39.4929916"]
-  },
-  {
-    "NUMBER": 114,
-    "OFFICE": "Hamisi",
-    "CODE": "50312",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 115,
-    "OFFICE": "Hawinga",
-    "CODE": "40640",
-    "STATUS": "Sub",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Alego Usonga",
-    "LOCATION": ["0.0789857","34.1529241"]
-  },
-  {
-    "NUMBER": 116,
-    "OFFICE": "Hola",
-    "CODE": "70101",
-    "STATUS": "Departmental",
-    "COUNTY": "Tana River",
-    "CONSTITUENCY": "Galole",
-    "LOCATION": ["-1.5","40.033333"]
-  },
-  {
-    "NUMBER": 117,
-    "OFFICE": "HOMA BAY",
-    "CODE": "40300",
-    "STATUS": "Head",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Homa Bay Town",
-    "LOCATION": ["-0.5350427","34.4530968"]
-  },
-  {
-    "NUMBER": 118,
-    "OFFICE": "Huruma",
-    "CODE": "30109",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Turbo",
-    "LOCATION": ["-1.2564898","36.8721139"]
-  },
-  {
-    "NUMBER": 119,
-    "OFFICE": "Igare",
-    "CODE": "40209",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bobasi",
-    "LOCATION": ["-0.8069713","34.8033606"]
-  },
-  {
-    "NUMBER": 120,
-    "OFFICE": "Igoji",
-    "CODE": "60402",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "South Imenti",
-    "LOCATION": ["-0.1813733","37.6759087"]
-  },
-  {
-    "NUMBER": 121,
-    "OFFICE": "Igwamiti",
-    "CODE": "20307",
-    "STATUS": "Departmental",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["-0.0246871","36.2769949"]
-  },
-  {
-    "NUMBER": 122,
-    "OFFICE": "Iiani",
-    "CODE": "90120",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Masinga",
-    "LOCATION": ["-1.0179118","37.4260184"]
-  },
-  {
-    "NUMBER": 123,
-    "OFFICE": "Ikalaasa",
-    "CODE": "90135",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ["-1.53","37.67"]
-  },
-  {
-    "NUMBER": 124,
-    "OFFICE": "Ikonge",
-    "CODE": "40501",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "North Mugirango",
-    "LOCATION": ["-0.5305884","35.0240934"]
-  },
-  {
-    "NUMBER": 125,
-    "OFFICE": "Ikutha",
-    "CODE": "90207",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui South",
-    "LOCATION": ["-2.07","38.18"]
-  },
-  {
-    "NUMBER": 126,
-    "OFFICE": "Ikuu",
-    "CODE": "60405",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Igembe South",
-    "LOCATION": ["-0.3750881","37.6727331"]
-  },
-  {
-    "NUMBER": 127,
-    "OFFICE": "Ishiara",
-    "CODE": "60102",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Siakago",
-    "LOCATION": ["-0.4547835","37.7848732"]
-  },
-  {
-    "NUMBER": 128,
-    "OFFICE": "Isibania",
-    "CODE": "40414",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Kuria West",
-    "LOCATION": ["-1.2448469","34.4766572"]
-  },
-  {
-    "NUMBER": 129,
-    "OFFICE": "Isiolo",
-    "CODE": "60300",
-    "STATUS": "Departmental",
-    "COUNTY": "Isiolo",
-    "CONSTITUENCY": "Isiolo",
-    "LOCATION": ["0.355636","37.5833061"]
-  },
-  {
-    "NUMBER": 130,
-    "OFFICE": "Iten",
-    "CODE": "30700",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Keiyo",
-    "LOCATION": ["0.673056","35.508333"]
-  },
-  {
-    "NUMBER": 131,
-    "OFFICE": "Ithanga",
-    "CODE": "01015",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Gatanga",
-    "LOCATION": ["-0.9333333","37.35"]
-  },
-  {
-    "NUMBER": 132,
-    "OFFICE": "JAMIA",
-    "CODE": "00101",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ["-1.2830177","36.8205037"]
-  },
-  {
-    "NUMBER": 133,
-    "OFFICE": "JKIA",
-    "CODE": "00501",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Embakasi East",
-    "LOCATION": ["-1.3227102","36.9260693"]
-  },
-  {
-    "NUMBER": 134,
-    "OFFICE": "Kabarak",
-    "CODE": "20157",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["-1.2853254","36.8225046"]
-  },
-  {
-    "NUMBER": 135,
-    "OFFICE": "Kabarnet",
-    "CODE": "30400",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["0.492755","35.7445567"]
-  },
-  {
-    "NUMBER": 136,
-    "OFFICE": "Kabartonjo",
-    "CODE": "30401",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo North",
-    "LOCATION": ["0.633333","35.8"]
-  },
-  {
-    "NUMBER": 137,
-    "OFFICE": "Kabati",
-    "CODE": "90205",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui",
-    "LOCATION": ["-0.95","37.1"]
-  },
-  {
-    "NUMBER": 138,
-    "OFFICE": "Kabazi",
-    "CODE": "20114",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Subukia",
-    "LOCATION": ["-0.0330019","36.199522"]
-  },
-  {
-    "NUMBER": 139,
-    "OFFICE": "Kabianga",
-    "CODE": "20201",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Belgut",
-    "LOCATION": ["-0.4460549","35.1378554"]
-  },
-  {
-    "NUMBER": 140,
-    "OFFICE": "Kabiyet",
-    "CODE": "30303",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Mosop",
-    "LOCATION": ["0.413503","35.075451"]
-  },
-  {
-    "NUMBER": 141,
-    "OFFICE": "Kacheliba",
-    "CODE": "30601",
-    "STATUS": "Departmental",
-    "COUNTY": "West Pokot",
-    "CONSTITUENCY": "Kacheliba",
-    "LOCATION": ["1.2901836","35.0797319"]
-  },
-  {
-    "NUMBER": 142,
-    "OFFICE": "Kadongo",
-    "CODE": "40223",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Rachuonyo",
-    "LOCATION": ["-0.4477504","34.8913824"]
-  },
-  {
-    "NUMBER": 143,
-    "OFFICE": "Kagio",
-    "CODE": "10306",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Ndia",
-    "LOCATION": ["-0.62515","37.2530686"]
-  },
-  {
-    "NUMBER": 144,
-    "OFFICE": "Kagumo",
-    "CODE": "10307",
-    "STATUS": "Sub",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Kirinyaga Central",
-    "LOCATION": ["-0.4765097","37.2363434"]
-  },
-  {
-    "NUMBER": 145,
-    "OFFICE": "Kagundu-ini",
-    "CODE": "01033",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kandara",
-    "LOCATION": ["-0.416667","36.95"]
-  },
-  {
-    "NUMBER": 146,
-    "OFFICE": "Kagwe",
-    "CODE": "00223",
-    "STATUS": "Sub",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Lari",
-    "LOCATION": ["-1.0038717","36.7439009"]
-  },
-  {
-    "NUMBER": 147,
-    "OFFICE": "Kaheho",
-    "CODE": "20304",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ndaragwa",
-    "LOCATION": ["-1.4577245","36.9785033"]
-  },
-  {
-    "NUMBER": 148,
-    "OFFICE": "Kahuhia",
-    "CODE": "10206",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kiharu",
-    "LOCATION": ["-0.7134403","37.0373502"]
-  },
-  {
-    "NUMBER": 149,
-    "OFFICE": "Kahuro",
-    "CODE": "10201",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kiharu",
-    "LOCATION": ["-1.1748105","36.8304102"]
-  },
-  {
-    "NUMBER": 150,
-    "OFFICE": "Kaimosi",
-    "CODE": "50305",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ["0.1255761","34.8444805"]
-  },
-  {
-    "NUMBER": 151,
-    "OFFICE": "Kajiado",
-    "CODE": "01100",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado Central",
-    "LOCATION": ["-1.8420731","36.7918599"]
-  },
-  {
-    "NUMBER": 152,
-    "OFFICE": "KAKAMEGA",
-    "CODE": "50100",
-    "STATUS": "Head",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lurambi",
-    "LOCATION": ["0.2827307","34.7518631"]
-  },
-  {
-    "NUMBER": 153,
-    "OFFICE": "Kakuma",
-    "CODE": "30501",
-    "STATUS": "Departmental",
-    "COUNTY": "Turkana",
-    "CONSTITUENCY": "Turkana West",
-    "LOCATION": ["3.7067943","34.8665552"]
-  },
-  {
-    "NUMBER": 154,
-    "OFFICE": "Kakunga",
-    "CODE": "50115",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Malava",
-    "LOCATION": ["3.7067943","37.524138"]
-  },
-  {
-    "NUMBER": 155,
-    "OFFICE": "Kalamba",
-    "CODE": "90122",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ["-1.8792614","37.524138"]
-  },
-  {
-    "NUMBER": 156,
-    "OFFICE": "Kalimoni",
-    "CODE": "01001",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Juja",
-    "LOCATION": ["-1.1170691","37.0091656"]
-  },
-  {
-    "NUMBER": 157,
-    "OFFICE": "Kalokol",
-    "CODE": "30502",
-    "STATUS": "Departmental",
-    "COUNTY": "Turkana",
-    "CONSTITUENCY": "Turkana Central",
-    "LOCATION": ["3.5341467","35.8593486"]
-  },
-  {
-    "NUMBER": 158,
-    "OFFICE": "Kaloleni",
-    "CODE": "80105",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Kaloleni",
-    "LOCATION": ["-1.2950104","36.8447113"]
-  },
-  {
-    "NUMBER": 159,
-    "OFFICE": "Kamakwa Rd",
-    "CODE": "10141",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri Town",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 160,
-    "OFFICE": "Kambiri",
-    "CODE": "50116",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Shinyalu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 161,
-    "OFFICE": "Kambiti",
-    "CODE": "10226",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Maragua",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 162,
-    "OFFICE": "Kamiti",
-    "CODE": "00607",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kiambu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 163,
-    "OFFICE": "Kampi-Ya-Samaki",
-    "CODE": "30406",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["0.7781044","34.7892687"]
-  },
-  {
-    "NUMBER": 164,
-    "OFFICE": "Kamukuywa",
-    "CODE": "50216",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma North",
-    "LOCATION": ["0.7781044","34.7892687"]
-  },
-  {
-    "NUMBER": 165,
-    "OFFICE": "Kamuriai",
-    "CODE": "50408",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Teso",
-    "LOCATION": ["0.6621409","34.2980343"]
-  },
-  {
-    "NUMBER": 166,
-    "OFFICE": "Kamuwongo",
-    "CODE": "90403",
-    "STATUS": "Sub",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Mwingi North",
-    "LOCATION": ["-0.7110725","38.0763683"]
-  },
-  {
-    "NUMBER": 167,
-    "OFFICE": "Kandara",
-    "CODE": "01034",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kandara",
-    "LOCATION": ["-0.8964137","37.0021177"]
-  },
-  {
-    "NUMBER": 168,
-    "OFFICE": "Kandiege",
-    "CODE": "40304",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Karachuonyo",
-    "LOCATION": ["-0.4289063","34.5524926"]
-  },
-  {
-    "NUMBER": 169,
-    "OFFICE": "Kangari",
-    "CODE": "10218",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kigumo",
-    "LOCATION": ["-0.7857493","36.9111145"]
-  },
-  {
-    "NUMBER": 170,
-    "OFFICE": "Kangema",
-    "CODE": "10202",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kangema",
-    "LOCATION": ["-0.68461","36.9635102"]
-  },
-  {
-    "NUMBER": 171,
-    "OFFICE": "Kangemi",
-    "CODE": "00625",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 172,
-    "OFFICE": "Kangundo",
-    "CODE": "90115",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kangundo",
-    "LOCATION": ["-1.3055671","37.3453215"]
-  },
-  {
-    "NUMBER": 173,
-    "OFFICE": "Kanja",
-    "CODE": "60118",
-    "STATUS": "Sub",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-0.3902947","37.5440459"]
-  },
-  {
-    "NUMBER": 174,
-    "OFFICE": "Kanjuku",
-    "CODE": "01004",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Gatundu North",
-    "LOCATION": ["-1.1748105","36.8304102"]
-  },
-  {
-    "NUMBER": 175,
-    "OFFICE": "Kanyakine",
-    "CODE": "60206",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti South",
-    "LOCATION": ["-0.1266649","37.6745788"]
-  },
-  {
-    "NUMBER": 176,
-    "OFFICE": "Kapcheno",
-    "CODE": "30304",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Aldai",
-    "LOCATION": ["-0.1266649","37.6745788"]
-  },
-  {
-    "NUMBER": 177,
-    "OFFICE": "Kapcherop",
-    "CODE": "30204",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Marakwet",
-    "LOCATION": ["1.0156135","35.2709091"]
-  },
-  {
-    "NUMBER": 178,
-    "OFFICE": "Kapenguria",
-    "CODE": "30600",
-    "STATUS": "Departmental",
-    "COUNTY": "West Pokot",
-    "CONSTITUENCY": "Kapenguria",
-    "LOCATION": ["1.2527278","35.0869203"]
-  },
-  {
-    "NUMBER": 179,
-    "OFFICE": "Kapkatet",
-    "CODE": "20214",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Bureti",
-    "LOCATION": ["0.202957","35.0978385"]
-  },
-  {
-    "NUMBER": 180,
-    "OFFICE": "Kapsabet",
-    "CODE": "30300",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Emgwen",
-    "LOCATION": ["-1.6201688","34.1993904"]
-  },
-  {
-    "NUMBER": 181,
-    "OFFICE": "Kapsoit",
-    "CODE": "20211",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Ainamoi",
-    "LOCATION": ["-0.3206518","35.2189682"]
-  },
-  {
-    "NUMBER": 182,
-    "OFFICE": "Kapsokwony",
-    "CODE": "50203",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Mt. Elgon",
-    "LOCATION": ["0.852222","34.701944"]
-  },
-  {
-    "NUMBER": 183,
-    "OFFICE": "Kapsowar",
-    "CODE": "30705",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Marakwet",
-    "LOCATION": ["0.948567","35.5084609"]
-  },
-  {
-    "NUMBER": 184,
-    "OFFICE": "Kaptagat",
-    "CODE": "30114",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Ainabkoi",
-    "LOCATION": ["0.436426","35.451241"]
-  },
-  {
-    "NUMBER": 185,
-    "OFFICE": "Kaptarakwa",
-    "CODE": "30701",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Keiyo",
-    "LOCATION": ["0.0816022","36.2267129"]
-  },
-  {
-    "NUMBER": 186,
-    "OFFICE": "Karaba",
-    "CODE": "60105",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Mbeere North",
-    "LOCATION": ["-0.7700832","37.3680322"]
-  },
-  {
-    "NUMBER": 187,
-    "OFFICE": "Karandi",
-    "CODE": "20328",
-    "STATUS": "Sub",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ndaragwa",
-    "LOCATION": ["0.2771382","36.3176381"]
-  },
-  {
-    "NUMBER": 188,
-    "OFFICE": "Karatina",
-    "CODE": "10101",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Mathira",
-    "LOCATION": ["-0.483158","37.1273549"]
-  },
-  {
-    "NUMBER": 189,
-    "OFFICE": "Karen",
-    "CODE": "00502",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Langata",
-    "LOCATION": ["-1.3117524","36.6985978"]
-  },
-  {
-    "NUMBER": 190,
-    "OFFICE": "Karungu",
-    "CODE": "40401",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Nyatike",
-    "LOCATION": ["-0.8433537","34.1573669"]
-  },
-  {
-    "NUMBER": 191,
-    "OFFICE": "Karuri",
-    "CODE": "00219",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kiambaa/Gatundu North",
-    "LOCATION": ["-0.7134403","37.0373502"]
-  },
-  {
-    "NUMBER": 192,
-    "OFFICE": "Karurumo",
-    "CODE": "60117",
-    "STATUS": "Sub",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-0.466667","37.65"]
-  },
-  {
-    "NUMBER": 193,
-    "OFFICE": "Kasikeu",
-    "CODE": "90123",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kilome",
-    "LOCATION": ["-1.9495159","37.3853943"]
-  },
-  {
-    "NUMBER": 194,
-    "OFFICE": "Katangi",
-    "CODE": "90106",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Yatta",
-    "LOCATION": ["-1.4092763","37.6892062"]
-  },
-  {
-    "NUMBER": 195,
-    "OFFICE": "Kathiani",
-    "CODE": "90105",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kathiani",
-    "LOCATION": ["-1.4116892","37.3312907"]
-  },
-  {
-    "NUMBER": 196,
-    "OFFICE": "Kathonzweni",
-    "CODE": "90302",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ["-1.9131016","37.7317411"]
-  },
-  {
-    "NUMBER": 197,
-    "OFFICE": "Kathwana",
-    "CODE": "60406",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Chuka/Igambang'ombe",
-    "LOCATION": ["-0.3273618","37.8663808"]
-  },
-  {
-    "NUMBER": 198,
-    "OFFICE": "Katito",
-    "CODE": "40118",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyakach",
-    "LOCATION": ["-0.2692901","34.9697855"]
-  },
-  {
-    "NUMBER": 199,
-    "OFFICE": "Kaviani",
-    "CODE": "90107",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kathiani",
-    "LOCATION": ["-1.4724849","37.3091503"]
-  },
-  {
-    "NUMBER": 200,
-    "OFFICE": "Kayole",
-    "CODE": "00518",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Embakasi Central",
-    "LOCATION": ["-1.2761617","36.913794"]
-  },
-  {
-    "NUMBER": 201,
-    "OFFICE": "Kebirigo",
-    "CODE": "40506",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "West Mugirango",
-    "LOCATION": ["-0.6027575","34.9603088"]
-  },
-  {
-    "NUMBER": 202,
-    "OFFICE": "Kedowa",
-    "CODE": "20220",
-    "STATUS": "Sub",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Kipkelion East",
-    "LOCATION": ["-0.2097179","35.5706298"]
-  },
-  {
-    "NUMBER": 203,
-    "OFFICE": "Keekorok",
-    "CODE": "20501",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Narok South",
-    "LOCATION": ["-1.5876339","35.2361379"]
-  },
-  {
-    "NUMBER": 204,
-    "OFFICE": "Kehancha",
-    "CODE": "40413",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Kuria West / East",
-    "LOCATION": ["-1.1939843","34.6165033"]
-  },
-  {
-    "NUMBER": 205,
-    "OFFICE": "Kendu Bay",
-    "CODE": "40301",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Karachuonyo",
-    "LOCATION": ["-0.366667","34.65"]
-  },
-  {
-    "NUMBER": 206,
-    "OFFICE": "Kengeleni",
-    "CODE": "80122",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Kisauni",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 207,
-    "OFFICE": "Kenol",
-    "CODE": "01020",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Maragua",
-    "LOCATION": ["-1.3690902","37.2256372"]
-  },
-  {
-    "NUMBER": 208,
-    "OFFICE": "Kenyatta Hospital",
-    "CODE": "00202",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Nairobi West",
-    "LOCATION": ["-1.3010129","36.8071939"]
-  },
-  {
-    "NUMBER": 209,
-    "OFFICE": "Kenyatta University",
-    "CODE": "00609",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Roysambu",
-    "LOCATION": ["-1.1822338","36.9247055"]
-  },
-  {
-    "NUMBER": 210,
-    "OFFICE": "Kenyenya",
-    "CODE": "40211",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bomachoge Borabu",
-    "LOCATION": ["-0.8914659","34.7307229"]
-  },
-  {
-    "NUMBER": 211,
-    "OFFICE": "KERICHO",
-    "CODE": "20200",
-    "STATUS": "Head",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Ainamoi",
-    "LOCATION": ["-0.3688967","35.286286"]
-  },
-  {
-    "NUMBER": 212,
-    "OFFICE": "Keringet",
-    "CODE": "20131",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Kuresoi South",
-    "LOCATION": ["-0.4260762","35.6901698"]
-  },
-  {
-    "NUMBER": 213,
-    "OFFICE": "Keroka",
-    "CODE": "40202",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Kitutu Masaba",
-    "LOCATION": ["-0.7771138","34.9458389"]
-  },
-  {
-    "NUMBER": 214,
-    "OFFICE": "KERUGOYA",
-    "CODE": "10300",
-    "STATUS": "Head",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Kirinyaga Central",
-    "LOCATION": ["-0.5","37.283333"]
-  },
-  {
-    "NUMBER": 215,
-    "OFFICE": "Kesogon",
-    "CODE": "30215",
-    "STATUS": "Sub",
-    "COUNTY": "Trans Nzoia",
-    "CONSTITUENCY": "Trans Nzoia",
-    "LOCATION": ["1.164846","35.1133561"]
-  },
-  {
-    "NUMBER": 216,
-    "OFFICE": "Keumbu",
-    "CODE": "40212",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Nyaribari Chache",
-    "LOCATION": ["-0.734444","34.8499997"]
-  },
-  {
-    "NUMBER": 217,
-    "OFFICE": "Khayega",
-    "CODE": "50104",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Shinyalu",
-    "LOCATION": ["0.2067389","34.7719431"]
-  },
-  {
-    "NUMBER": 218,
-    "OFFICE": "Khwisero",
-    "CODE": "50135",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Khwisero",
-    "LOCATION": ["0.1799594","34.6346638"]
-  },
-  {
-    "NUMBER": 219,
-    "OFFICE": "Kiamariga",
-    "CODE": "10122",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Mathira",
-    "LOCATION": ["-0.3833333","37.2333333"]
-  },
-  {
-    "NUMBER": 220,
-    "OFFICE": "Kiambu",
-    "CODE": "00900",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kiambu",
-    "LOCATION": ["-0.8914659","34.7307229"]
-  },
-  {
-    "NUMBER": 221,
-    "OFFICE": "Kiamutugu",
-    "CODE": "10309",
-    "STATUS": "Sub",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Gichugu",
-    "LOCATION": ["-0.3688967","35.286286"]
-  },
-  {
-    "NUMBER": 222,
-    "OFFICE": "Kianjai",
-    "CODE": "60602",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Tigania West",
-    "LOCATION": ["-0.4260762","35.6901698"]
-  },
-  {
-    "NUMBER": 223,
-    "OFFICE": "Kianjokoma",
-    "CODE": "60122",
-    "STATUS": "Sub",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-0.7771138","34.9458389"]
-  },
-  {
-    "NUMBER": 224,
-    "OFFICE": "Kianyaga",
-    "CODE": "10301",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Gichugu",
-    "LOCATION": ["-0.5","37.283333"]
-  },
-  {
-    "NUMBER": 225,
-    "OFFICE": "Kibirichia",
-    "CODE": "60201",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Meru Central",
-    "LOCATION": ["1.164846","35.1133561"]
-  },
-  {
-    "NUMBER": 226,
-    "OFFICE": "Kibwezi",
-    "CODE": "90137",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi East/West",
-    "LOCATION": ["-0.734444","34.8499997"]
-  },
-  {
-    "NUMBER": 227,
-    "OFFICE": "Kiganjo",
-    "CODE": "10102",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri Town",
-    "LOCATION": ["0.2067389","34.7719431"]
-  },
-  {
-    "NUMBER": 228,
-    "OFFICE": "Kigumo",
-    "CODE": "10203",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kigumo",
-    "LOCATION": ["0.1799594","34.6346638"]
-  },
-  {
-    "NUMBER": 229,
-    "OFFICE": "Kihoya",
-    "CODE": "10207",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kangema",
-    "LOCATION": ["-0.3833333","37.2333333"]
-  },
-  {
-    "NUMBER": 230,
-    "OFFICE": "Kiirua",
-    "CODE": "60207",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti North",
-    "LOCATION": ["0.1085543","37.5607753"]
-  },
-  {
-    "NUMBER": 231,
-    "OFFICE": "Kijabe",
-    "CODE": "00220",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Lari",
-    "LOCATION": ["-0.945","36.595"]
-  },
-  {
-    "NUMBER": 232,
-    "OFFICE": "Kikima",
-    "CODE": "90125",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Mbooni",
-    "LOCATION": ["-1.6613849","37.4491525"]
-  },
-  {
-    "NUMBER": 233,
-    "OFFICE": "Kikoneni",
-    "CODE": "80410",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Lunga lunga",
-    "LOCATION": ["-4.45","39.3"]
-  },
-  {
-    "NUMBER": 234,
-    "OFFICE": "Kikuyu",
-    "CODE": "00902",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kikuyu",
-    "LOCATION": ["-1.2543366","36.681661"]
-  },
-  {
-    "NUMBER": 235,
-    "OFFICE": "Kilala",
-    "CODE": "90305",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kaiti",
-    "LOCATION": ["-1.7666667","37.5333333"]
-  },
-  {
-    "NUMBER": 236,
-    "OFFICE": "Kilgoris",
-    "CODE": "40700",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Kilgoris",
-    "LOCATION": ["-1.006268","34.8789697"]
-  },
-  {
-    "NUMBER": 237,
-    "OFFICE": "Kilifi",
-    "CODE": "80108",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Kilifi",
-    "LOCATION": ["-3.5106508","39.9093269"]
-  },
-  {
-    "NUMBER": 238,
-    "OFFICE": "Kilindini",
-    "CODE": "80107",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Kilindini",
-    "LOCATION": ["0.1245038","34.6796027"]
-  },
-  {
-    "NUMBER": 239,
-    "OFFICE": "Kilingili",
-    "CODE": "50315",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Vihiga",
-    "LOCATION": ["-0.4266473","36.9631815"]
-  },
-  {
-    "NUMBER": 240,
-    "OFFICE": "Kimbimbi",
-    "CODE": "10310",
-    "STATUS": "Sub",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Mwea",
-    "LOCATION": ["-0.6204365","37.3653607"]
-  },
-  {
-    "NUMBER": 241,
-    "OFFICE": "Kimilili",
-    "CODE": "50204",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Kimilili",
-    "LOCATION": ["0.783333","34.716667"]
-  },
-  {
-    "NUMBER": 242,
-    "OFFICE": "Kiminini",
-    "CODE": "30209",
-    "STATUS": "Departmental",
-    "COUNTY": "Trans Nzoia/Bun",
-    "CONSTITUENCY": "Kiminini",
-    "LOCATION": ["0.8935153","34.9258526"]
-  },
-  {
-    "NUMBER": 243,
-    "OFFICE": "Kimulot",
-    "CODE": "20225",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Konoin",
-    "LOCATION": ["-0.5354095","35.2563935"]
-  },
-  {
-    "NUMBER": 244,
-    "OFFICE": "Kimwarer",
-    "CODE": "30128",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Keiyo",
-    "LOCATION": ["0.316667","35.633333"]
-  },
-  {
-    "NUMBER": 245,
-    "OFFICE": "KINALE / Kinari",
-    "CODE": "00227",
-    "STATUS": "Sub",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kiambu East",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 246,
-    "OFFICE": "Kinamba",
-    "CODE": "20320",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Naivasha",
-    "LOCATION": ["0.4131607","36.3213639"]
-  },
-  {
-    "NUMBER": 247,
-    "OFFICE": "Kinango",
-    "CODE": "80405",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Kinango",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 248,
-    "OFFICE": "Kindaruma",
-    "CODE": "01031",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Mbeere South",
-    "LOCATION": ["-0.8","37.8166667"]
-  },
-  {
-    "NUMBER": 249,
-    "OFFICE": "Kinoru",
-    "CODE": "60216",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti North",
-    "LOCATION": ["0.0538184","37.6369989"]
-  },
-  {
-    "NUMBER": 250,
-    "OFFICE": "Kionyo",
-    "CODE": "60211",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti South",
-    "LOCATION": ["-0.1179934","37.5961509"]
-  },
-  {
-    "NUMBER": 251,
-    "OFFICE": "Kipkabus",
-    "CODE": "30103",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Ainabkoi",
-    "LOCATION": ["0.3022349","35.489269"]
-  },
-  {
-    "NUMBER": 252,
-    "OFFICE": "Kipkarren River",
-    "CODE": "50241",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lugari",
-    "LOCATION": ["0.617437","34.96064"]
-  },
-  {
-    "NUMBER": 253,
-    "OFFICE": "Kipkelion",
-    "CODE": "20202",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Kipkelion West",
-    "LOCATION": ["-0.207704","35.4480605"]
-  },
-  {
-    "NUMBER": 254,
-    "OFFICE": "Kiptagich",
-    "CODE": "30402",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Kuresoi South",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 255,
-    "OFFICE": "Kiptere",
-    "CODE": "20213",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Belgut",
-    "LOCATION": ["-0.4","35.1"]
-  },
-  {
-    "NUMBER": 256,
-    "OFFICE": "Kiptugumo",
-    "CODE": "20208",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Sigowet",
-    "LOCATION": ["-0.2943014","35.1564029"]
-  },
-  {
-    "NUMBER": 257,
-    "OFFICE": "Kiriaini",
-    "CODE": "10204",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Mathioya",
-    "LOCATION": ["-0.6019027","36.9478936"]
-  },
-  {
-    "NUMBER": 258,
-    "OFFICE": "Kiritiri",
-    "CODE": "60113",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Mbeere South",
-    "LOCATION": ["-0.6859545","37.6479757"]
-  },
-  {
-    "NUMBER": 259,
-    "OFFICE": "Kiritu",
-    "CODE": "50313",
-    "STATUS": "Sub",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Vihiga",
-    "LOCATION": ["0.1046005","34.7578462"]
-  },
-  {
-    "NUMBER": 260,
-    "OFFICE": "Kirwara",
-    "CODE": "01018",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Gatanga",
-    "LOCATION": ["-0.743488","37.2982072"]
-  },
-  {
-    "NUMBER": 261,
-    "OFFICE": "Kiserian",
-    "CODE": "00206",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado North",
-    "LOCATION": ["-1.5036722","38.0300772"]
-  },
-  {
-    "NUMBER": 262,
-    "OFFICE": "KISII",
-    "CODE": "40200",
-    "STATUS": "Head",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Kitutu Chache South",
-    "LOCATION": ["-1.4251869","36.6936512"]
-  },
-  {
-    "NUMBER": 263,
-    "OFFICE": "Kisumu",
-    "CODE": "40100",
-    "STATUS": "Head",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu",
-    "LOCATION": ["-0.0917016","34.7679568"]
-  },
-  {
-    "NUMBER": 264,
-    "OFFICE": "KITALE",
-    "CODE": "30200",
-    "STATUS": "Head",
-    "COUNTY": "Trans Nzoia",
-    "CONSTITUENCY": "Saboti",
-    "LOCATION": ["1.019089","35.0023048"]
-  },
-  {
-    "NUMBER": 265,
-    "OFFICE": "Kitengela",
-    "CODE": "00241",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado East",
-    "LOCATION": ["-1.4752891","36.9620104"]
-  },
-  {
-    "NUMBER": 266,
-    "OFFICE": "Kithimani",
-    "CODE": "90124",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Yatta/Matungulu",
-    "LOCATION": ["-1.1840152","37.4461281"]
-  },
-  {
-    "NUMBER": 267,
-    "OFFICE": "Kithimu",
-    "CODE": "60114",
-    "STATUS": "Sub",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Manyatta",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 268,
-    "OFFICE": "Kithyoko",
-    "CODE": "90144",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Masinga",
-    "LOCATION": ["-1.0480513","37.8412813"]
-  },
-  {
-    "NUMBER": 269,
-    "OFFICE": "Kitise",
-    "CODE": "90303",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ["-2.0590828","37.8800766"]
-  },
-  {
-    "NUMBER": 270,
-    "OFFICE": "KITUI",
-    "CODE": "90200",
-    "STATUS": "Head",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui Central",
-    "LOCATION": ["-1.3750813","37.9952144"]
-  },
-  {
-    "NUMBER": 271,
-    "OFFICE": "Kivunga",
-    "CODE": "90111",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kithimani",
-    "LOCATION": ["-1.7454601","41.4887787"]
-  },
-  {
-    "NUMBER": 272,
-    "OFFICE": "Kobujoi",
-    "CODE": "30305",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Aldai",
-    "LOCATION": ["0.1056648","34.9660159"]
-  },
-  {
-    "NUMBER": 273,
-    "OFFICE": "Kola",
-    "CODE": "90108",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Machakos Town",
-    "LOCATION": ["-1.704507","37.34933"]
-  },
-  {
-    "NUMBER": 274,
-    "OFFICE": "Kombewa",
-    "CODE": "40102",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Seme",
-    "LOCATION": ["-0.1035198","34.5184046"]
-  },
-  {
-    "NUMBER": 275,
-    "OFFICE": "Kondele",
-    "CODE": "40103",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu Central",
-    "LOCATION": ["-0.0786108","34.7768412"]
-  },
-  {
-    "NUMBER": 276,
-    "OFFICE": "Kora",
-    "CODE": "10244",
-    "STATUS": "Sub",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Mathioya",
-    "LOCATION": ["-0.1047222","38.7583333"]
-  },
-  {
-    "NUMBER": 277,
-    "OFFICE": "Koru",
-    "CODE": "40104",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Muhoroni",
-    "LOCATION": ["-0.183333","35.266667"]
-  },
-  {
-    "NUMBER": 278,
-    "OFFICE": "Kosele",
-    "CODE": "40332",
-    "STATUS": "Sub",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Kasipul/Kabondo Kasipul",
-    "LOCATION": ["-0.4274687","34.689798"]
-  },
-  {
-    "NUMBER": 279,
-    "OFFICE": "Koyonzo",
-    "CODE": "50117",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Matungu",
-    "LOCATION": ["0.4190794","34.4267571"]
-  },
-  {
-    "NUMBER": 280,
-    "OFFICE": "Kubu Kubu",
-    "CODE": "60125",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Embu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 281,
-    "OFFICE": "Kutus",
-    "CODE": "10304",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Kirinyaga Central",
-    "LOCATION": ["-0.5735225","37.3252767"]
-  },
-  {
-    "NUMBER": 282,
-    "OFFICE": "Kwale",
-    "CODE": "80403",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Matuga",
-    "LOCATION": ["-4.166667","39.45"]
-  },
-  {
-    "NUMBER": 283,
-    "OFFICE": "Kyatune",
-    "CODE": "90220",
-    "STATUS": "Sub",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui South",
-    "LOCATION": ["-1.7791237","38.1144798"]
-  },
-  {
-    "NUMBER": 284,
-    "OFFICE": "Kyeni",
-    "CODE": "90209",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-0.4035665","37.5827551"]
-  },
-  {
-    "NUMBER": 285,
-    "OFFICE": "Kyuso",
-    "CODE": "90401",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Mwingi North",
-    "LOCATION": ["-0.5488252","38.219794"]
-  },
-  {
-    "NUMBER": 286,
-    "OFFICE": "Laare",
-    "CODE": "60601",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Igembe South",
-    "LOCATION": ["0.3299945","37.9374004"]
-  },
-  {
-    "NUMBER": 287,
-    "OFFICE": "Lafey",
-    "CODE": "70304",
-    "STATUS": "Departmental",
-    "COUNTY": "Mandera",
-    "CONSTITUENCY": "Lafey",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 288,
-    "OFFICE": "Laikipia Campus",
-    "CODE": "20330",
-    "STATUS": "Departmental",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["0.033136","36.276134"]
-  },
-  {
-    "NUMBER": 289,
-    "OFFICE": "Laisamis",
-    "CODE": "60502",
-    "STATUS": "Sub",
-    "COUNTY": "Marsabit",
-    "CONSTITUENCY": "Laisamis",
-    "LOCATION": ["1.6","37.8"]
-  },
-  {
-    "NUMBER": 290,
-    "OFFICE": "Lamu",
-    "CODE": "80500",
-    "STATUS": "Departmental",
-    "COUNTY": "Lamu",
-    "CONSTITUENCY": "Lamu East",
-    "LOCATION": ["-2.2695575","40.9006408"]
-  },
-  {
-    "NUMBER": 291,
-    "OFFICE": "Lanet",
-    "CODE": "20112",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Bahati",
-    "LOCATION": ["-0.2891843","36.1537013"]
-  },
-  {
-    "NUMBER": 292,
-    "OFFICE": "Langas",
-    "CODE": "30112",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Kapseret",
-    "LOCATION": ["0.4763464","35.255668"]
-  },
-  {
-    "NUMBER": 293,
-    "OFFICE": "Langata Hardy",
-    "CODE": "00509",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Langata",
-    "LOCATION": ["-1.366667","36.733333"]
-  },
-  {
-    "NUMBER": 294,
-    "OFFICE": "Lavington",
-    "CODE": "00603",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Dagoretti North",
-    "LOCATION": ["-1.280556","36.769444"]
-  },
-  {
-    "NUMBER": 295,
-    "OFFICE": "Lessos",
-    "CODE": "30302",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Tinderet",
-    "LOCATION": ["0.1850216","35.3383954"]
-  },
-  {
-    "NUMBER": 296,
-    "OFFICE": "Likoni",
-    "CODE": "80110",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Likoni",
-    "LOCATION": ["-4.0929017","39.6614446"]
-  },
-  {
-    "NUMBER": 297,
-    "OFFICE": "Limuru",
-    "CODE": "00217",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Limuru",
-    "LOCATION": ["-1.1069305","36.6431267"]
-  },
-  {
-    "NUMBER": 298,
-    "OFFICE": "Litein",
-    "CODE": "20210",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Bureti",
-    "LOCATION": ["-0.582624","35.1901151"]
-  },
-  {
-    "NUMBER": 299,
-    "OFFICE": "Lodwar",
-    "CODE": "30500",
-    "STATUS": "Departmental",
-    "COUNTY": "Turkana",
-    "CONSTITUENCY": "Turkana Central",
-    "LOCATION": ["3.116667","35.6"]
-  },
-  {
-    "NUMBER": 300,
-    "OFFICE": "Loitokitok",
-    "CODE": "00209",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado South",
-    "LOCATION": ["-2.900974","37.518197"]
-  },
-  {
-    "NUMBER": 301,
-    "OFFICE": "Loiyangalani",
-    "CODE": "60501",
-    "STATUS": "Sub",
-    "COUNTY": "Marsabit",
-    "CONSTITUENCY": "Laisamis",
-    "LOCATION": ["2.7603913","36.7199836"]
-  },
-  {
-    "NUMBER": 302,
-    "OFFICE": "Lokichoggio",
-    "CODE": "30503",
-    "STATUS": "Departmental",
-    "COUNTY": "Turkana",
-    "CONSTITUENCY": "Turkana West",
-    "LOCATION": ["4.2","34.35"]
-  },
-  {
-    "NUMBER": 303,
-    "OFFICE": "Lokitaung",
-    "CODE": "30504",
-    "STATUS": "Departmental",
-    "COUNTY": "Turkana",
-    "CONSTITUENCY": "Turkana North",
-    "LOCATION": ["4.27","35.75"]
-  },
-  {
-    "NUMBER": 304,
-    "OFFICE": "Lolgorian",
-    "CODE": "40701",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Kilgoris",
-    "LOCATION": ["-1.2848861","34.9270588"]
-  },
-  {
-    "NUMBER": 305,
-    "OFFICE": "Londiani",
-    "CODE": "20203",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Kipkelion East",
-    "LOCATION": ["-0.0985693","35.729768"]
-  },
-  {
-    "NUMBER": 306,
-    "OFFICE": "Longisa",
-    "CODE": "20402",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Bomet East",
-    "LOCATION": ["-0.8666667","35.3833333"]
-  },
-  {
-    "NUMBER": 307,
-    "OFFICE": "Lower Kabete",
-    "CODE": "00604",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kabete",
-    "LOCATION": ["-1.2427691","36.7617496"]
-  },
-  {
-    "NUMBER": 308,
-    "OFFICE": "Luanda",
-    "CODE": "50307",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Luanda",
-    "LOCATION": ["0.0240007","34.5874448"]
-  },
-  {
-    "NUMBER": 309,
-    "OFFICE": "Lubao",
-    "CODE": "50118",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Shinyalu",
-    "LOCATION": ["0.3343331","34.8134283"]
-  },
-  {
-    "NUMBER": 310,
-    "OFFICE": "Lugari",
-    "CODE": "50108",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lugari",
-    "LOCATION": ["0.6511579","34.8762111"]
-  },
-  {
-    "NUMBER": 311,
-    "OFFICE": "Lugulu",
-    "CODE": "50218",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 312,
-    "OFFICE": "Luhano",
-    "CODE": "40623",
-    "STATUS": "Sub",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Siaya",
-    "LOCATION": ["0.1769914","34.1684918"]
-  },
-  {
-    "NUMBER": 313,
-    "OFFICE": "Lukusi",
-    "CODE": "50230",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ["0.5695252","34.5583766"]
-  },
-  {
-    "NUMBER": 314,
-    "OFFICE": "Lumakanda",
-    "CODE": "50242",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lugari",
-    "LOCATION": ["0.6365917","35.0122243"]
-  },
-  {
-    "NUMBER": 315,
-    "OFFICE": "Lunga Lunga",
-    "CODE": "80402",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Lunga Lunga",
-    "LOCATION": ["-4.55","39.12"]
-  },
-  {
-    "NUMBER": 316,
-    "OFFICE": "Lunza",
-    "CODE": "50119",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Butere",
-    "LOCATION": ["0.2386301","34.5533538"]
-  },
-  {
-    "NUMBER": 317,
-    "OFFICE": "Lwakhakha",
-    "CODE": "50220",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma West",
-    "LOCATION": ["0.7892193","34.3794299"]
-  },
-  {
-    "NUMBER": 318,
-    "OFFICE": "Mabusi",
-    "CODE": "50235",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma North",
-    "LOCATION": ["0.5139228","34.4081611"]
-  },
-  {
-    "NUMBER": 319,
-    "OFFICE": "MACHAKOS",
-    "CODE": "90100",
-    "STATUS": "Head",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Machakos Town",
-    "LOCATION": ["-1.5176837","37.2634146"]
-  },
-  {
-    "NUMBER": 320,
-    "OFFICE": "Madaraka",
-    "CODE": "01002",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Thika",
-    "LOCATION": ["-1.307222","36.815278"]
-  },
-  {
-    "NUMBER": 321,
-    "OFFICE": "Madiany",
-    "CODE": "40613",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Bondo / Rarieda",
-    "LOCATION": ["-0.2840917","34.3211482"]
-  },
-  {
-    "NUMBER": 322,
-    "OFFICE": "Madina",
-    "CODE": "80207",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Magarini",
-    "LOCATION": ["-1.326153","36.8359609"]
-  },
-  {
-    "NUMBER": 323,
-    "OFFICE": "Magadi",
-    "CODE": "00205",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado West",
-    "LOCATION": ["-1.8996701","36.301039"]
-  },
-  {
-    "NUMBER": 324,
-    "OFFICE": "Magena",
-    "CODE": "40516",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bomachoge Borabu",
-    "LOCATION": ["-0.8995464","34.7965591"]
-  },
-  {
-    "NUMBER": 325,
-    "OFFICE": "Mago",
-    "CODE": "50325",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Vihiga",
-    "LOCATION": ["0.1155301","34.8175692"]
-  },
-  {
-    "NUMBER": 326,
-    "OFFICE": "Magombo",
-    "CODE": "40507",
-    "STATUS": "Sub",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Kitutu Masaba",
-    "LOCATION": ["-0.5669405","34.9341234"]
-  },
-  {
-    "NUMBER": 1,
-    "OFFICE": "Magunga",
-    "CODE": "40307",
-    "STATUS": "Sub",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba South",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 327,
-    "OFFICE": "Magumoni",
-    "CODE": "60403",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Chuka/Igambang'ombe",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 328,
-    "OFFICE": "Magutuni",
-    "CODE": "60407",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Maara",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 329,
-    "OFFICE": "Magwagwa",
-    "CODE": "40508",
-    "STATUS": "Sub",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "North Mugirango",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 330,
-    "OFFICE": "Mai Mahiu",
-    "CODE": "20147",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Naivasha",
-    "LOCATION": ["-0.7190438","36.4342515"]
-  },
-  {
-    "NUMBER": 331,
-    "OFFICE": "Makadara",
-    "CODE": "00522",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Makadara",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 332,
-    "OFFICE": "Makindu",
-    "CODE": "90138",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi West",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 333,
-    "OFFICE": "Makongeni",
-    "CODE": "00510",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Makadara",
-    "LOCATION": ["-1.2976047","36.8505924"]
-  },
-  {
-    "NUMBER": 334,
-    "OFFICE": "Makueni",
-    "CODE": "90300",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 335,
-    "OFFICE": "Makupa",
-    "CODE": "80112",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Mvita",
-    "LOCATION": ["-4.0375984","39.6556872"]
-  },
-  {
-    "NUMBER": 336,
-    "OFFICE": "Malakisi",
-    "CODE": "50209",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Sirisia",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 337,
-    "OFFICE": "Malava",
-    "CODE": "50103",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Malava",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 338,
-    "OFFICE": "MALINDI",
-    "CODE": "80200",
-    "STATUS": "Head",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Malindi",
-    "LOCATION": ["-3.2191864","40.1168906"]
-  },
-  {
-    "NUMBER": 339,
-    "OFFICE": "MANDERA",
-    "CODE": "70300",
-    "STATUS": "Head",
-    "COUNTY": "Mandera",
-    "CONSTITUENCY": "Mandera East",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 340,
-    "OFFICE": "Manyatta",
-    "CODE": "60101",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Manyatta",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 341,
-    "OFFICE": "Maragoli",
-    "CODE": "50300",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Vihiga / Sabatia",
-    "LOCATION": ["0.0815437","34.7229677"]
-  },
-  {
-    "NUMBER": 342,
-    "OFFICE": "Maragua",
-    "CODE": "10205",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Maragua",
-    "LOCATION": ["-0.794421","37.13122"]
-  },
-  {
-    "NUMBER": 343,
-    "OFFICE": "Maralal",
-    "CODE": "20600",
-    "STATUS": "Departmental",
-    "COUNTY": "Samburu",
-    "CONSTITUENCY": "Samburu West",
-    "LOCATION": ["1.0931431","36.7018311"]
-  },
-  {
-    "NUMBER": 344,
-    "OFFICE": "Marani",
-    "CODE": "40214",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Kitutu Chache North",
-    "LOCATION": ["-0.5756493","34.8016945"]
-  },
-  {
-    "NUMBER": 345,
-    "OFFICE": "Mariakani",
-    "CODE": "80113",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Kaloleni",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 346,
-    "OFFICE": "Marigat",
-    "CODE": "30403",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["0.47","35.98"]
-  },
-  {
-    "NUMBER": 347,
-    "OFFICE": "Marima",
-    "CODE": "60408",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["-0.2734491","37.6612785"]
-  },
-  {
-    "NUMBER": 348,
-    "OFFICE": "Marimanti",
-    "CODE": "60215",
-    "STATUS": "Departmental",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["-0.1570413","37.9778247"]
-  },
-  {
-    "NUMBER": 349,
-    "OFFICE": "Marmanet",
-    "CODE": "20322",
-    "STATUS": "Sub",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["0.1666667","36.2833333"]
-  },
-  {
-    "NUMBER": 350,
-    "OFFICE": "Marsabit",
-    "CODE": "60500",
-    "STATUS": "Departmental",
-    "COUNTY": "Marsabit",
-    "CONSTITUENCY": "Saku",
-    "LOCATION": ["2.333333","37.983333"]
-  },
-  {
-    "NUMBER": 351,
-    "OFFICE": "Masalani",
-    "CODE": "70105",
-    "STATUS": "Departmental",
-    "COUNTY": "Garissa",
-    "CONSTITUENCY": "Ijara",
-    "LOCATION": ["-1.698","40.122"]
-  },
-  {
-    "NUMBER": 352,
-    "OFFICE": "Maseno",
-    "CODE": "40105",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Luanda",
-    "LOCATION": ["-0.0067175","34.5985158"]
-  },
-  {
-    "NUMBER": 353,
-    "OFFICE": "Mashuru",
-    "CODE": "01103",
-    "STATUS": "Sub",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado East",
-    "LOCATION": ["-2.039246","37.1231788"]
-  },
-  {
-    "NUMBER": 354,
-    "OFFICE": "Masii",
-    "CODE": "90101",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ["-1.4604752","37.4387894"]
-  },
-  {
-    "NUMBER": 355,
-    "OFFICE": "Masinga",
-    "CODE": "90141",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Masinga",
-    "LOCATION": ["-0.9419444","37.6258333"]
-  },
-  {
-    "NUMBER": 356,
-    "OFFICE": "Matathia",
-    "CODE": "00221",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Lari",
-    "LOCATION": ["-0.9812003","36.618418"]
-  },
-  {
-    "NUMBER": 357,
-    "OFFICE": "Matete",
-    "CODE": "50136",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lugari",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 358,
-    "OFFICE": "Mathare Valley",
-    "CODE": "00611",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Mathare",
-    "LOCATION": ["-1.2625304","36.8586637"]
-  },
-  {
-    "NUMBER": 359,
-    "OFFICE": "Matiliku",
-    "CODE": "90140",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 360,
-    "OFFICE": "Matuga",
-    "CODE": "80406",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Matuga",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 361,
-    "OFFICE": "Matunda",
-    "CODE": "30205",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Soy",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 362,
-    "OFFICE": "Matuu",
-    "CODE": "90119",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Yatta/Matungulu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 363,
-    "OFFICE": "Maua",
-    "CODE": "60600",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Igembe North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 364,
-    "OFFICE": "Maungu",
-    "CODE": "80317",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Voi",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 365,
-    "OFFICE": "Mavindini",
-    "CODE": "90304",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 366,
-    "OFFICE": "Mawego",
-    "CODE": "40310",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Karachuonyo",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 367,
-    "OFFICE": "Mazeras",
-    "CODE": "80114",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi/Mombasa",
-    "CONSTITUENCY": "Kilifi/Jomvu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 368,
-    "OFFICE": "Mbagathi",
-    "CODE": "00503",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado North",
-    "LOCATION": ["-1.3100367","36.801984"]
-  },
-  {
-    "NUMBER": 369,
-    "OFFICE": "Mbiri",
-    "CODE": "10233",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kiharu",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 370,
-    "OFFICE": "Mbita",
-    "CODE": "40305",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 371,
-    "OFFICE": "Mbitini",
-    "CODE": "90214",
-    "STATUS": "Sub",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui Rural",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 372,
-    "OFFICE": "Mbiuni",
-    "CODE": "90110",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 373,
-    "OFFICE": "Mbumbuni",
-    "CODE": "90127",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Mbooni",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 374,
-    "OFFICE": "Mchumbi Road",
-    "CODE": "00504",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ["-1.3116157","36.8353483"]
-  },
-  {
-    "NUMBER": 375,
-    "OFFICE": "Mega City",
-    "CODE": "40123",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu",
-    "LOCATION": ["-0.1027973","34.7682857"]
-  },
-  {
-    "NUMBER": 376,
-    "OFFICE": "Menengai",
-    "CODE": "20104",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Nakuru Town East/Rongai",
-    "LOCATION": ["-0.2762654","36.094776"]
-  },
-  {
-    "NUMBER": 377,
-    "OFFICE": "MERU",
-    "CODE": "60200",
-    "STATUS": "Head",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti North",
-    "LOCATION": ["0.0514721","37.6456042"]
-  },
-  {
-    "NUMBER": 378,
-    "OFFICE": "Mfangano",
-    "CODE": "40319",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba North",
-    "LOCATION": ["-0.4593692","34.0084395"]
-  },
-  {
-    "NUMBER": 379,
-    "OFFICE": "Mgambonyi",
-    "CODE": "80313",
-    "STATUS": "Sub",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Wundanyi",
-    "LOCATION": ["-3.333333","38.366667"]
-  },
-  {
-    "NUMBER": 380,
-    "OFFICE": "Mgange",
-    "CODE": "80306",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Wundanyi",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 381,
-    "OFFICE": "Miathene",
-    "CODE": "60604",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Tigania West",
-    "LOCATION": ["0.1509921","37.7895203"]
-  },
-  {
-    "NUMBER": 382,
-    "OFFICE": "Migwani",
-    "CODE": "90402",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Mwingi West",
-    "LOCATION": ["-1.0999112","38.0353692"]
-  },
-  {
-    "NUMBER": 383,
-    "OFFICE": "Miharati",
-    "CODE": "20301",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Kipipiri",
-    "LOCATION": ["-0.4018323","36.4878241"]
-  },
-  {
-    "NUMBER": 384,
-    "OFFICE": "Mikinduri",
-    "CODE": "60607",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Tigania East",
-    "LOCATION": ["0.1199151","37.8379645"]
-  },
-  {
-    "NUMBER": 385,
-    "OFFICE": "Milimani",
-    "CODE": "50138",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Lurambi",
-    "LOCATION": ["-1.292189","36.81451"]
-  },
-  {
-    "NUMBER": 386,
-    "OFFICE": "Mirangine",
-    "CODE": "20124",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Ol Kalou",
-    "LOCATION": ["-0.1791548","36.2386755"]
-  },
-  {
-    "NUMBER": 387,
-    "OFFICE": "Mirogi",
-    "CODE": "40320",
-    "STATUS": "Sub",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Homa Bay",
-    "LOCATION": ["-0.7084285","34.3976676"]
-  },
-  {
-    "NUMBER": 388,
-    "OFFICE": "Misikhu",
-    "CODE": "50207",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ["0.718889","34.755"]
-  },
-  {
-    "NUMBER": 389,
-    "OFFICE": "Mitaboni",
-    "CODE": "90104",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kathiani",
-    "LOCATION": ["-1.3739663","37.2503928"]
-  },
-  {
-    "NUMBER": 390,
-    "OFFICE": "Mitunguu",
-    "CODE": "60204",
-    "STATUS": "Departmental",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Imenti South",
-    "LOCATION": ["-0.1089044","37.7848732"]
-  },
-  {
-    "NUMBER": 391,
-    "OFFICE": "Miu",
-    "CODE": "90112",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Kangundo",
-    "LOCATION": ["-1.506072","37.5638545"]
-  },
-  {
-    "NUMBER": 392,
-    "OFFICE": "Mkomani",
-    "CODE": "80106",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Nyali",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 393,
-    "OFFICE": "Mlolongo",
-    "CODE": "00519",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mavoko",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 394,
-    "OFFICE": "Mobil Plaza",
-    "CODE": "00620",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 395,
-    "OFFICE": "Modo Gashe",
-    "CODE": "70102",
-    "STATUS": "Departmental",
-    "COUNTY": "Garissa",
-    "CONSTITUENCY": "Lagdera",
-    "LOCATION": ["0.7279302","39.1777611"]
-  },
-  {
-    "NUMBER": 396,
-    "OFFICE": "Mogogosiek",
-    "CODE": "20403",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Konoin",
-    "LOCATION": ["-0.6168962","35.2735269"]
-  },
-  {
-    "NUMBER": 397,
-    "OFFICE": "Mogotio",
-    "CODE": "20105",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "MOGOTIO",
-    "LOCATION": ["-0.0207658","35.9560546"]
-  },
-  {
-    "NUMBER": 398,
-    "OFFICE": "Moi Airport",
-    "CODE": "80115",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Changamwe",
-    "LOCATION": ["-4.0330681","39.6028349"]
-  },
-  {
-    "NUMBER": 399,
-    "OFFICE": "Moi University",
-    "CODE": "30107",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Kesses",
-    "LOCATION": ["0.5111631","35.2843657"]
-  },
-  {
-    "NUMBER": 400,
-    "OFFICE": "Moi's Bridge",
-    "CODE": "30202",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Soy",
-    "LOCATION": ["0.8763538","35.1292847"]
-  },
-  {
-    "NUMBER": 401,
-    "OFFICE": "Moiben",
-    "CODE": "30104",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Moiben",
-    "LOCATION": ["0.823846","35.376381"]
-  },
-  {
-    "NUMBER": 402,
-    "OFFICE": "Mokomoni",
-    "CODE": "40510",
-    "STATUS": "Sub",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Borabu",
-    "LOCATION": ["-0.5669405","34.9341234"]
-  },
-  {
-    "NUMBER": 403,
-    "OFFICE": "Mokowe",
-    "CODE": "80502",
-    "STATUS": "Departmental",
-    "COUNTY": "Lamu",
-    "CONSTITUENCY": "Lamu West",
-    "LOCATION": ["-2.2352243","40.8487826"]
-  },
-  {
-    "NUMBER": 404,
-    "OFFICE": "Molo",
-    "CODE": "20106",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Molo",
-    "LOCATION": ["-0.2488358","35.7323709"]
-  },
-  {
-    "NUMBER": 405,
-    "OFFICE": "MOMBASA",
-    "CODE": "80100",
-    "STATUS": "General",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Mvita",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 406,
-    "OFFICE": "Mosoriot",
-    "CODE": "30307",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Chesumei",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 407,
-    "OFFICE": "Moyale",
-    "CODE": "60700",
-    "STATUS": "Departmental",
-    "COUNTY": "Marsabit",
-    "CONSTITUENCY": "Moyale",
-    "LOCATION": ["3.5399846","39.0528407"]
-  },
-  {
-    "NUMBER": 408,
-    "OFFICE": "Mpeketoni",
-    "CODE": "80503",
-    "STATUS": "Departmental",
-    "COUNTY": "Lamu",
-    "CONSTITUENCY": "Lamu West",
-    "LOCATION": ["-2.390485","40.696841"]
-  },
-  {
-    "NUMBER": 409,
-    "OFFICE": "Msambweni",
-    "CODE": "80404",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Msambweni",
-    "LOCATION": ["-4.47","39.48"]
-  },
-  {
-    "NUMBER": 410,
-    "OFFICE": "Mtitu Andei",
-    "CODE": "90128",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi East",
-    "LOCATION": ["-2.69","38.17"]
-  },
-  {
-    "NUMBER": 411,
-    "OFFICE": "Mtongwe",
-    "CODE": "80111",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Likoni",
-    "LOCATION": ["-4.0917613","39.6440744"]
-  },
-  {
-    "NUMBER": 412,
-    "OFFICE": "Mtopanga",
-    "CODE": "80117",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Kisauni",
-    "LOCATION": ["-4.0096448","39.6888938"]
-  },
-  {
-    "NUMBER": 413,
-    "OFFICE": "Mtwapa",
-    "CODE": "80109",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Malindi",
-    "LOCATION": ["-3.95","39.744444"]
-  },
-  {
-    "NUMBER": 414,
-    "OFFICE": "Mubwayo",
-    "CODE": "50423",
-    "STATUS": "Sub",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Bunyala",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 415,
-    "OFFICE": "Mugunda",
-    "CODE": "10129",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Kieni",
-    "LOCATION": ["-0.1392466","36.7132538"]
-  },
-  {
-    "NUMBER": 416,
-    "OFFICE": "Muhoroni",
-    "CODE": "40107",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Muhoroni",
-    "LOCATION": ["-0.15","35.2"]
-  },
-  {
-    "NUMBER": 417,
-    "OFFICE": "Muhuru Bay",
-    "CODE": "40409",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Nyatike",
-    "LOCATION": ["-0.9988358","34.0961553"]
-  },
-  {
-    "NUMBER": 418,
-    "OFFICE": "Mukhe",
-    "CODE": "50225",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 419,
-    "OFFICE": "Mukurweini",
-    "CODE": "10103",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Mukurweni",
-    "LOCATION": ["-0.5627089","37.0476576"]
-  },
-  {
-    "NUMBER": 420,
-    "OFFICE": "Mumias",
-    "CODE": "50102",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Mumias West",
-    "LOCATION": ["0.333333","34.483333"]
-  },
-  {
-    "NUMBER": 421,
-    "OFFICE": "MURANGA",
-    "CODE": "10200",
-    "STATUS": "Head",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Kiharu",
-    "LOCATION": ["-0.7839281","37.0400339"]
-  },
-  {
-    "NUMBER": 422,
-    "OFFICE": "Musanda",
-    "CODE": "50125",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Mumias West",
-    "LOCATION": ["-1.2828363","36.7480217"]
-  },
-  {
-    "NUMBER": 423,
-    "OFFICE": "Mutha",
-    "CODE": "90211",
-    "STATUS": "Sub",
-    "COUNTY": "Kiyu",
-    "CONSTITUENCY": "Kitui South",
-    "LOCATION": ["-1.7953859","38.4284614"]
-  },
-  {
-    "NUMBER": 424,
-    "OFFICE": "Muthaara",
-    "CODE": "60605",
-    "STATUS": "Sub",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Tigania East",
-    "LOCATION": ["-1.2860467","36.818343"]
-  },
-  {
-    "NUMBER": 425,
-    "OFFICE": "Muthaiga",
-    "CODE": "00619",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 426,
-    "OFFICE": "Muthetheni",
-    "CODE": "90113",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ["-1.5003769","37.5228462"]
-  },
-  {
-    "NUMBER": 427,
-    "OFFICE": "Mutituni",
-    "CODE": "90117",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Machakos Town",
-    "LOCATION": ["-1.5176837","37.2634146"]
-  },
-  {
-    "NUMBER": 428,
-    "OFFICE": "Mutomo",
-    "CODE": "90201",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-1.846384","38.2084547"]
-  },
-  {
-    "NUMBER": 429,
-    "OFFICE": "Mutumbu",
-    "CODE": "40628",
-    "STATUS": "Sub",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["-18.6375","32.075"]
-  },
-  {
-    "NUMBER": 430,
-    "OFFICE": "Mwala",
-    "CODE": "90102",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ["-1.3519815","37.4502563"]
-  },
-  {
-    "NUMBER": 431,
-    "OFFICE": "Mwatate",
-    "CODE": "80305",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Mwatate",
-    "LOCATION": ["-3.5032932","38.3639837"]
-  },
-  {
-    "NUMBER": 432,
-    "OFFICE": "Mweiga",
-    "CODE": "10104",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Kieni",
-    "LOCATION": ["-0.3266633","36.9026174"]
-  },
-  {
-    "NUMBER": 433,
-    "OFFICE": "Mwingi",
-    "CODE": "90400",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Mwingi West",
-    "LOCATION": ["-0.937411","38.0605006"]
-  },
-  {
-    "NUMBER": 434,
-    "OFFICE": "Myanga",
-    "CODE": "50226",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma South",
-    "LOCATION": ["0.5652908","34.390007"]
-  },
-  {
-    "NUMBER": 435,
-    "OFFICE": "Nairage Enkare",
-    "CODE": "20504",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Narok North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 436,
-    "OFFICE": "NAIROBI GPO",
-    "CODE": "00100",
-    "STATUS": "General",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 437,
-    "OFFICE": "Naitiri",
-    "CODE": "50211",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma North",
-    "LOCATION": ["1.019089","35.0023048"]
-  },
-  {
-    "NUMBER": 438,
-    "OFFICE": "Naivasha",
-    "CODE": "20117",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Naivasha",
-    "LOCATION": ["-0.720236","36.428531"]
-  },
-  {
-    "NUMBER": 439,
-    "OFFICE": "NAKURU",
-    "CODE": "20100",
-    "STATUS": "Head",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Nakuru Town East",
-    "LOCATION": ["-0.3030988","36.080026"]
-  },
-  {
-    "NUMBER": 440,
-    "OFFICE": "Namanga",
-    "CODE": "00207",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado Central",
-    "LOCATION": ["-2.5520935","36.7838976"]
-  },
-  {
-    "NUMBER": 441,
-    "OFFICE": "Nambacha",
-    "CODE": "50127",
-    "STATUS": "Sub",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Navakholo",
-    "LOCATION": ["0.3931698","34.6674186"]
-  },
-  {
-    "NUMBER": 442,
-    "OFFICE": "Nambale",
-    "CODE": "50409",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Busia",
-    "LOCATION": ["0.45","34.25"]
-  },
-  {
-    "NUMBER": 443,
-    "OFFICE": "Nandi Hills",
-    "CODE": "30301",
-    "STATUS": "Departmental",
-    "COUNTY": "Nandi",
-    "CONSTITUENCY": "Nandi Hills",
-    "LOCATION": ["0.1030731","35.176372"]
-  },
-  {
-    "NUMBER": 444,
-    "OFFICE": "Nango",
-    "CODE": "40615",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["0.3090376","34.2357335"]
-  },
-  {
-    "NUMBER": 445,
-    "OFFICE": "NANYUKI",
-    "CODE": "10400",
-    "STATUS": "Head",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia East",
-    "LOCATION": ["0.016667","37.066667"]
-  },
-  {
-    "NUMBER": 446,
-    "OFFICE": "Naro Moru",
-    "CODE": "10105",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Kieni",
-    "LOCATION": ["-0.166667","37.016667"]
-  },
-  {
-    "NUMBER": 447,
-    "OFFICE": "Narok",
-    "CODE": "20500",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Narok North",
-    "LOCATION": ["-1.083333","35.866667"]
-  },
-  {
-    "NUMBER": 448,
-    "OFFICE": "Ndalani",
-    "CODE": "90118",
-    "STATUS": "Sub",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Yatta",
-    "LOCATION": ["-1.0975304","37.4867047"]
-  },
-  {
-    "NUMBER": 449,
-    "OFFICE": "Ndalu",
-    "CODE": "50212",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma North",
-    "LOCATION": ["0.8473192","34.9951753"]
-  },
-  {
-    "NUMBER": 450,
-    "OFFICE": "Ndanai",
-    "CODE": "20404",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Sotik",
-    "LOCATION": ["-0.8395071","35.0948976"]
-  },
-  {
-    "NUMBER": 451,
-    "OFFICE": "Ndaragwa",
-    "CODE": "20306",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ndaragwa",
-    "LOCATION": ["-0.0581284","36.531071"]
-  },
-  {
-    "NUMBER": 452,
-    "OFFICE": "Nderu",
-    "CODE": "00229",
-    "STATUS": "Sub",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Limuru",
-    "LOCATION": ["-1.15","36.6"]
-  },
-  {
-    "NUMBER": 453,
-    "OFFICE": "Ndhiwa",
-    "CODE": "40302",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Ndhiwa",
-    "LOCATION": ["-0.73","34.37"]
-  },
-  {
-    "NUMBER": 454,
-    "OFFICE": "Ndithini",
-    "CODE": "01016",
-    "STATUS": "Sub",
-    "COUNTY": "Kiambu/Thika",
-    "CONSTITUENCY": "Thika /Machakos",
-    "LOCATION": ["-0.9472567","37.3346516"]
-  },
-  {
-    "NUMBER": 455,
-    "OFFICE": "Ndooa",
-    "CODE": "90202",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui East",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 456,
-    "OFFICE": "Ndori",
-    "CODE": "40602",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["-0.0717571","34.3789083"]
-  },
-  {
-    "NUMBER": 457,
-    "OFFICE": "Ndunyu Njeru",
-    "CODE": "20317",
-    "STATUS": "Sub",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["-0.5449804","36.5621393"]
-  },
-  {
-    "NUMBER": 458,
-    "OFFICE": "Ng'ambwa",
-    "CODE": "80311",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Mwatate",
-    "LOCATION": ["-3.3850796","38.3403111"]
-  },
-  {
-    "NUMBER": 459,
-    "OFFICE": "Ng'iya",
-    "CODE": "40603",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Alego Usonga",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 460,
-    "OFFICE": "NGARA ROAD",
-    "CODE": "00600",
-    "STATUS": "Head",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 461,
-    "OFFICE": "Ngecha",
-    "CODE": "00218",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Limuru",
-    "LOCATION": ["-1.1748105","36.8304102"]
-  },
-  {
-    "NUMBER": 462,
-    "OFFICE": "Ngewa",
-    "CODE": "00901",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Githunguri",
-    "LOCATION": ["-1.0962242","36.8670704"]
-  },
-  {
-    "NUMBER": 463,
-    "OFFICE": "Nginyang",
-    "CODE": "30404",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo East",
-    "LOCATION": ["0.9359015","36.0223584"]
-  },
-  {
-    "NUMBER": 464,
-    "OFFICE": "Ngong Hills",
-    "CODE": "00208",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado North",
-    "LOCATION": ["-1.4","36.6380556"]
-  },
-  {
-    "NUMBER": 465,
-    "OFFICE": "Ngong Road",
-    "CODE": "00505",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Nairobi West",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 466,
-    "OFFICE": "Nguni",
-    "CODE": "90407",
-    "STATUS": "Sub",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Mwingi East",
-    "LOCATION": ["-0.8024808","38.3139375"]
-  },
-  {
-    "NUMBER": 467,
-    "OFFICE": "Ngwata",
-    "CODE": "90129",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi East",
-    "LOCATION": ["-2.5267187","38.0538458"]
-  },
-  {
-    "NUMBER": 468,
-    "OFFICE": "Njoro",
-    "CODE": "20107",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Njoro",
-    "LOCATION": ["-0.331626","35.944938"]
-  },
-  {
-    "NUMBER": 469,
-    "OFFICE": "Nkondi",
-    "CODE": "60214",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["-0.0410713","37.959947"]
-  },
-  {
-    "NUMBER": 470,
-    "OFFICE": "Nkubu",
-    "CODE": "60202",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Imenti South",
-    "LOCATION": ["-0.066667","37.666667"]
-  },
-  {
-    "NUMBER": 471,
-    "OFFICE": "North-Kinangop",
-    "CODE": "20318",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Kinangop",
-    "LOCATION": ["-0.611546","36.7065057"]
-  },
-  {
-    "NUMBER": 472,
-    "OFFICE": "Nunguni",
-    "CODE": "90130",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kaiti",
-    "LOCATION": ["-1.7929201","37.3635538"]
-  },
-  {
-    "NUMBER": 473,
-    "OFFICE": "Nyabondo",
-    "CODE": "40124",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu East",
-    "LOCATION": ["-0.3814707","34.9795981"]
-  },
-  {
-    "NUMBER": 474,
-    "OFFICE": "NYAHURURU",
-    "CODE": "20300",
-    "STATUS": "Head",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["0.0351644","36.3642919"]
-  },
-  {
-    "NUMBER": 475,
-    "OFFICE": "Nyali",
-    "CODE": "80118",
-    "STATUS": "Departmental",
-    "COUNTY": "Mombasa",
-    "CONSTITUENCY": "Nyali",
-    "LOCATION": ["-4.0524055","39.6956699"]
-  },
-  {
-    "NUMBER": 476,
-    "OFFICE": "Nyamache",
-    "CODE": "40203",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bobasi",
-    "LOCATION": ["-0.8627965","34.8185813"]
-  },
-  {
-    "NUMBER": 477,
-    "OFFICE": "Nyamarambe",
-    "CODE": "40206",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "South Mugirango",
-    "LOCATION": ["-0.8716923","34.82099"]
-  },
-  {
-    "NUMBER": 478,
-    "OFFICE": "Nyambunwa",
-    "CODE": "40205",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bonchari",
-    "LOCATION": ["-0.9220265","34.804283"]
-  },
-  {
-    "NUMBER": 479,
-    "OFFICE": "Nyamira",
-    "CODE": "40500",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "West Mugirango",
-    "LOCATION": ["-0.5669405","34.9341234"]
-  },
-  {
-    "NUMBER": 480,
-    "OFFICE": "Nyamonye",
-    "CODE": "40632",
-    "STATUS": "Sub",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Bondo",
-    "LOCATION": ["-0.0490014","34.1403292"]
-  },
-  {
-    "NUMBER": 481,
-    "OFFICE": "Nyandhiwa",
-    "CODE": "40333",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba",
-    "LOCATION": ["-0.7256695","34.0543965"]
-  },
-  {
-    "NUMBER": 482,
-    "OFFICE": "Nyangande",
-    "CODE": "40126",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando",
-    "LOCATION": ["-0.2066329","34.8523611"]
-  },
-  {
-    "NUMBER": 483,
-    "OFFICE": "Nyangori",
-    "CODE": "40127",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 484,
-    "OFFICE": "Nyangusu",
-    "CODE": "40218",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bobasi",
-    "LOCATION": ["-0.9341491","34.8099773"]
-  },
-  {
-    "NUMBER": 485,
-    "OFFICE": "Nyangweso",
-    "CODE": "40311",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Rangwe",
-    "LOCATION": ["-0.4474988","34.5791406"]
-  },
-  {
-    "NUMBER": 486,
-    "OFFICE": "Nyansiongo",
-    "CODE": "40502",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Borabu",
-    "LOCATION": ["-0.7593575","35.0140324"]
-  },
-  {
-    "NUMBER": 487,
-    "OFFICE": "Nyaramba",
-    "CODE": "40514",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "South Mugirango",
-    "LOCATION": ["-0.5643351","34.977015"]
-  },
-  {
-    "NUMBER": 488,
-    "OFFICE": "Nyatike",
-    "CODE": "40402",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Nyatike",
-    "LOCATION": ["-0.7434952","34.6392416"]
-  },
-  {
-    "NUMBER": 489,
-    "OFFICE": "Nyayo Stadium",
-    "CODE": "00506",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Nairobi West",
-    "LOCATION": ["-1.3042392","36.8241598"]
-  },
-  {
-    "NUMBER": 490,
-    "OFFICE": "NYERI",
-    "CODE": "10100",
-    "STATUS": "Head",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri Town",
-    "LOCATION": ["-0.416667","36.95"]
-  },
-  {
-    "NUMBER": 491,
-    "OFFICE": "Nyilima",
-    "CODE": "40611",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Bondo",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 492,
-    "OFFICE": "Nzeeka",
-    "CODE": "90136",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kibwezi West",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 493,
-    "OFFICE": "Nziu",
-    "CODE": "90143",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Makueni",
-    "LOCATION": ["-1.816667","37.533333"]
-  },
-  {
-    "NUMBER": 494,
-    "OFFICE": "Ogembo",
-    "CODE": "40204",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Bomachoge Borabu",
-    "LOCATION": ["-0.8003002","34.7257313"]
-  },
-  {
-    "NUMBER": 495,
-    "OFFICE": "Ogongo",
-    "CODE": "40323",
-    "STATUS": "Sub",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba North",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 496,
-    "OFFICE": "Okia",
-    "CODE": "90301",
-    "STATUS": "Sub",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kaiti",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 497,
-    "OFFICE": "Ol-Kalou",
-    "CODE": "20303",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ol Kalou",
-    "LOCATION": ["-0.272699","36.3775152"]
-  },
-  {
-    "NUMBER": 498,
-    "OFFICE": "Olenguruone",
-    "CODE": "20152",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Kuresoi South",
-    "LOCATION": ["-0.5968149","35.6314191"]
-  },
-  {
-    "NUMBER": 499,
-    "OFFICE": "Oljoro-Orok",
-    "CODE": "20302",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ol Jorok",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 500,
-    "OFFICE": "Ololulunga",
-    "CODE": "20503",
-    "STATUS": "Departmental",
-    "COUNTY": "Narok",
-    "CONSTITUENCY": "Narok South",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 501,
-    "OFFICE": "Omogonchoro",
-    "CODE": "40221",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "Kitutu Chache South",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 502,
-    "OFFICE": "Ongata Rongai",
-    "CODE": "00511",
-    "STATUS": "Departmental",
-    "COUNTY": "Kajiado",
-    "CONSTITUENCY": "Kajiado North",
-    "LOCATION": ["-1.3938636","36.7442377"]
-  },
-  {
-    "NUMBER": 503,
-    "OFFICE": "Ortum",
-    "CODE": "30602",
-    "STATUS": "Departmental",
-    "COUNTY": "West Pokot",
-    "CONSTITUENCY": "Pokot South",
-    "LOCATION": ["1.4375133","35.3562259"]
-  },
-  {
-    "NUMBER": 504,
-    "OFFICE": "Othaya",
-    "CODE": "10106",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Othaya",
-    "LOCATION": ["-0.5517507","36.9447027"]
-  },
-  {
-    "NUMBER": 505,
-    "OFFICE": "Oyugis",
-    "CODE": "40222",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Kasipul",
-    "LOCATION": ["-0.5078963","34.7381662"]
-  },
-  {
-    "NUMBER": 506,
-    "OFFICE": "Pap-Onditi",
-    "CODE": "40111",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyakach",
-    "LOCATION": ["-0.3130753","34.9368801"]
-  },
-  {
-    "NUMBER": 507,
-    "OFFICE": "Parklands",
-    "CODE": "00623",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ["-1.26","36.818056"]
-  },
-  {
-    "NUMBER": 508,
-    "OFFICE": "Paw Akuche",
-    "CODE": "40131",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "kisumu West",
-    "LOCATION": ["-0.0977088","34.6006291"]
-  },
-  {
-    "NUMBER": 509,
-    "OFFICE": "Port victoria",
-    "CODE": "50410",
-    "STATUS": "Departmental",
-    "COUNTY": "Busia",
-    "CONSTITUENCY": "Bunyala",
-    "LOCATION": ["0.0960848","33.9781371"]
-  },
-  {
-    "NUMBER": 510,
-    "OFFICE": "Rabuor",
-    "CODE": "40132",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando",
-    "LOCATION": ["-0.1552667","34.8332685"]
-  },
-  {
-    "NUMBER": 511,
-    "OFFICE": "Ragengni",
-    "CODE": "40604",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Rarieda",
-    "LOCATION": ["-0.2805332","34.3612204"]
-  },
-  {
-    "NUMBER": 512,
-    "OFFICE": "Ranen",
-    "CODE": "40412",
-    "STATUS": "Sub",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Rongo",
-    "LOCATION": ["-0.8609355","34.5652985"]
-  },
-  {
-    "NUMBER": 513,
-    "OFFICE": "Rangwe",
-    "CODE": "40303",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Rangwe",
-    "LOCATION": ["-0.6001342","34.5839848"]
-  },
-  {
-    "NUMBER": 514,
-    "OFFICE": "Rapogi",
-    "CODE": "40403",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Uriri",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 515,
-    "OFFICE": "Ratta",
-    "CODE": "40137",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu West",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 516,
-    "OFFICE": "Reru",
-    "CODE": "40133",
-    "STATUS": "Sub",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Seme",
-    "LOCATION": ["-0.193454","34.8420627"]
-  },
-  {
-    "NUMBER": 517,
-    "OFFICE": "Rhamu",
-    "CODE": "70302",
-    "STATUS": "Departmental",
-    "COUNTY": "Mandera",
-    "CONSTITUENCY": "Mandera North",
-    "LOCATION": ["3.9318811","41.2256158"]
-  },
-  {
-    "NUMBER": 518,
-    "OFFICE": "Rigoma",
-    "CODE": "40511",
-    "STATUS": "Sub",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "Kitutu Masaba",
-    "LOCATION": ["-0.7019085","34.9172679"]
-  },
-  {
-    "NUMBER": 519,
-    "OFFICE": "Riochanda",
-    "CODE": "40512",
-    "STATUS": "Sub",
-    "COUNTY": "Nyamira",
-    "CONSTITUENCY": "West Mugirango",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 520,
-    "OFFICE": "Riosiri",
-    "CODE": "40220",
-    "STATUS": "Sub",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "South Mugirango",
-    "LOCATION": ["-0.7742509","34.637772"]
-  },
-  {
-    "NUMBER": 521,
-    "OFFICE": "Rodi Kopany",
-    "CODE": "40326",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Rangwe",
-    "LOCATION": ["-0.6256742","34.5043672"]
-  },
-  {
-    "NUMBER": 553,
-    "OFFICE": "Sindo",
-    "CODE": "40308",
-    "STATUS": "Departmental",
-    "COUNTY": "Homa Bay",
-    "CONSTITUENCY": "Suba South",
-    "LOCATION": ["-0.5417807","34.1657107"]
-  },
-  {
-    "NUMBER": 522,
-    "OFFICE": "Ronald Ngala Street",
-    "CODE": "00300",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 523,
-    "OFFICE": "Rongai",
-    "CODE": "20108",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Rongai",
-    "LOCATION": ["-0.166667","35.85"]
-  },
-  {
-    "NUMBER": 524,
-    "OFFICE": "Rongo",
-    "CODE": "40404",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Rongo",
-    "LOCATION": ["-0.7553244","34.5998996"]
-  },
-  {
-    "NUMBER": 525,
-    "OFFICE": "Roret",
-    "CODE": "20204",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Bureti",
-    "LOCATION": ["-0.3200534","35.5454439"]
-  },
-  {
-    "NUMBER": 526,
-    "OFFICE": "Ruai",
-    "CODE": "00520",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Kasarani",
-    "LOCATION": ["-1.2532868","37.0078232"]
-  },
-  {
-    "NUMBER": 527,
-    "OFFICE": "Ruaraka",
-    "CODE": "00618",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Ruaraka",
-    "LOCATION": ["-1.2456719","36.8815276"]
-  },
-  {
-    "NUMBER": 528,
-    "OFFICE": "Ruiru",
-    "CODE": "00232",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Ruiru",
-    "LOCATION": ["-1.148889","36.956944"]
-  },
-  {
-    "NUMBER": 529,
-    "OFFICE": "Rumuruti",
-    "CODE": "20321",
-    "STATUS": "Departmental",
-    "COUNTY": "Laikipia",
-    "CONSTITUENCY": "Laikipia West",
-    "LOCATION": ["0.2671366","36.539177"]
-  },
-  {
-    "NUMBER": 530,
-    "OFFICE": "Runyenjes",
-    "CODE": "60103",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Runyenjes",
-    "LOCATION": ["-0.4223518","37.5721011"]
-  },
-  {
-    "NUMBER": 531,
-    "OFFICE": "Rurii",
-    "CODE": "20313",
-    "STATUS": "Sub",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Ol Kalou",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 532,
-    "OFFICE": "Ruringu",
-    "CODE": "10133",
-    "STATUS": "Sub",
-    "COUNTY": "Nyeri",
-    "CONSTITUENCY": "Nyeri Town",
-    "LOCATION": ["-0.4357319","36.9674558"]
-  },
-  {
-    "NUMBER": 533,
-    "OFFICE": "Saba-Saba",
-    "CODE": "10208",
-    "STATUS": "Departmental",
-    "COUNTY": "Muranga",
-    "CONSTITUENCY": "Maragua",
-    "LOCATION": ["-0.8763358","37.1446201"]
-  },
-  {
-    "NUMBER": 534,
-    "OFFICE": "Sagalla",
-    "CODE": "80308",
-    "STATUS": "Sub",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Voi",
-    "LOCATION": ["-3.4961371","38.5944986"]
-  },
-  {
-    "NUMBER": 535,
-    "OFFICE": "Sagana",
-    "CODE": "10230",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Ndia",
-    "LOCATION": ["-0.6695132","37.2061138"]
-  },
-  {
-    "NUMBER": 536,
-    "OFFICE": "Samburu",
-    "CODE": "80120",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Kinango",
-    "LOCATION": ["-3.778638","39.2789"]
-  },
-  {
-    "NUMBER": 537,
-    "OFFICE": "Sare",
-    "CODE": "40405",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Rongo",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 538,
-    "OFFICE": "Sarit Centre",
-    "CODE": "00606",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ["-1.2609817","36.8020427"]
-  },
-  {
-    "NUMBER": 539,
-    "OFFICE": "Sawagongo",
-    "CODE": "40612",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["0.0765046","34.457948"]
-  },
-  {
-    "NUMBER": 540,
-    "OFFICE": "Sega",
-    "CODE": "40614",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Ugenya",
-    "LOCATION": ["0.2496358","34.2282647"]
-  },
-  {
-    "NUMBER": 541,
-    "OFFICE": "Serem",
-    "CODE": "50308",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 542,
-    "OFFICE": "Seretunin",
-    "CODE": "30407",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["0.557095","35.780251"]
-  },
-  {
-    "NUMBER": 543,
-    "OFFICE": "Shianda",
-    "CODE": "50106",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Butere",
-    "LOCATION": ["0.3193134","34.5708356"]
-  },
-  {
-    "NUMBER": 544,
-    "OFFICE": "Shimba Hills",
-    "CODE": "80407",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Matuga",
-    "LOCATION": ["-4.3622388","39.4155148"]
-  },
-  {
-    "NUMBER": 545,
-    "OFFICE": "Shimoni",
-    "CODE": "80409",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Lunga Lunga",
-    "LOCATION": ["-4.6471628","39.3804134"]
-  },
-  {
-    "NUMBER": 546,
-    "OFFICE": "Shinyalu",
-    "CODE": "50107",
-    "STATUS": "Departmental",
-    "COUNTY": "Kakamega",
-    "CONSTITUENCY": "Shinyalu",
-    "LOCATION": ["0.2827307","34.7518631"]
-  },
-  {
-    "NUMBER": 547,
-    "OFFICE": "Siakago",
-    "CODE": "60104",
-    "STATUS": "Departmental",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Mbeere North",
-    "LOCATION": ["-0.5776702","37.6404775"]
-  },
-  {
-    "NUMBER": 548,
-    "OFFICE": "SIAYA",
-    "CODE": "40600",
-    "STATUS": "Head",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Alego Usonga",
-    "LOCATION": ["0.0626293","34.2878084"]
-  },
-  {
-    "NUMBER": 549,
-    "OFFICE": "Sidindi",
-    "CODE": "40605",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Ugunja",
-    "LOCATION": ["0.154167","34.389444"]
-  },
-  {
-    "NUMBER": 550,
-    "OFFICE": "Sigomre",
-    "CODE": "40635",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Ugunja",
-    "LOCATION": ["0.2057125","34.3540764"]
-  },
-  {
-    "NUMBER": 551,
-    "OFFICE": "Sigor",
-    "CODE": "20405",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Chepalungu",
-    "LOCATION": ["1.4959744","35.4727149"]
-  },
-  {
-    "NUMBER": 552,
-    "OFFICE": "Silibwet",
-    "CODE": "20422",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Bomet Central",
-    "LOCATION": ["-0.0396752","36.2879705"]
-  },
-  {
-    "NUMBER": 554,
-    "OFFICE": "Siongiroi",
-    "CODE": "20423",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Chepalungu",
-    "LOCATION": ["-0.8933397","35.2107255"]
-  },
-  {
-    "NUMBER": 555,
-    "OFFICE": "Sirisia",
-    "CODE": "50208",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Sirisia",
-    "LOCATION": ["0.7561794","34.5057525"]
-  },
-  {
-    "NUMBER": 556,
-    "OFFICE": "SIRWA",
-    "CODE": "50305",
-    "STATUS": "Departmental",
-    "COUNTY": "",
-    "CONSTITUENCY": "",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 557,
-    "OFFICE": "Sondu",
-    "CODE": "40109",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Nyando",
-    "LOCATION": ["-0.3900075","35.0140324"]
-  },
-  {
-    "NUMBER": 558,
-    "OFFICE": "Songhor",
-    "CODE": "40110",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Muhoroni",
-    "LOCATION": ["-0.0548994","35.2098513"]
-  },
-  {
-    "NUMBER": 559,
-    "OFFICE": "Sosiot",
-    "CODE": "20205",
-    "STATUS": "Departmental",
-    "COUNTY": "Kericho",
-    "CONSTITUENCY": "Belgut",
-    "LOCATION": ["-0.3627385","35.1715614"]
-  },
-  {
-    "NUMBER": 560,
-    "OFFICE": "Sotik",
-    "CODE": "20406",
-    "STATUS": "Departmental",
-    "COUNTY": "Bomet",
-    "CONSTITUENCY": "Sotik",
-    "LOCATION": ["-0.6906735","35.1110613"]
-  },
-  {
-    "NUMBER": 561,
-    "OFFICE": "South-Kinangop",
-    "CODE": "20319",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Kinangop",
-    "LOCATION": ["-0.719112","36.650181"]
-  },
-  {
-    "NUMBER": 562,
-    "OFFICE": "Soy",
-    "CODE": "30105",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Soy",
-    "LOCATION": ["0.6776219","35.14397"]
-  },
-  {
-    "NUMBER": 563,
-    "OFFICE": "State law Office-Sheria Hse",
-    "CODE": "00102",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 564,
-    "OFFICE": "Subukia",
-    "CODE": "20109",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Subukia",
-    "LOCATION": ["-0.0018807","36.2278245"]
-  },
-  {
-    "NUMBER": 565,
-    "OFFICE": "Suguta Mar Mar",
-    "CODE": "20602",
-    "STATUS": "Departmental",
-    "COUNTY": "Samburu",
-    "CONSTITUENCY": "Samburu West",
-    "LOCATION": ["0.8231953","36.6917503"]
-  },
-  {
-    "NUMBER": 566,
-    "OFFICE": "Sulmac",
-    "CODE": "20151",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Naivasha",
-    "LOCATION": ["-0.8329039","36.6053402"]
-  },
-  {
-    "NUMBER": 567,
-    "OFFICE": "Sultan Hamud",
-    "CODE": "90132",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kilome",
-    "LOCATION": ["-2.018138","37.3771191"]
-  },
-  {
-    "NUMBER": 568,
-    "OFFICE": "Suna",
-    "CODE": "40400",
-    "STATUS": "Departmental",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Suna East",
-    "LOCATION": ["-1.0937745","34.457255"]
-  },
-  {
-    "NUMBER": 569,
-    "OFFICE": "Tabaka",
-    "CODE": "40229",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisii",
-    "CONSTITUENCY": "South Mugirango",
-    "LOCATION": ["-0.7547705","34.6607641"]
-  },
-  {
-    "NUMBER": 570,
-    "OFFICE": "Takaba",
-    "CODE": "70303",
-    "STATUS": "Departmental",
-    "COUNTY": "Mandera",
-    "CONSTITUENCY": "Mandera West",
-    "LOCATION": ["3.3963127","40.2298415"]
-  },
-  {
-    "NUMBER": 571,
-    "OFFICE": "Tala",
-    "CODE": "90131",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Matungulu",
-    "LOCATION": ["-1.2670262","37.3201328"]
-  },
-  {
-    "NUMBER": 572,
-    "OFFICE": "Tambach",
-    "CODE": "30704",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Keiyo",
-    "LOCATION": ["0.5913844","35.5231547"]
-  },
-  {
-    "NUMBER": 573,
-    "OFFICE": "Tausa",
-    "CODE": "80309",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Voi",
-    "LOCATION": ["-3.3288713","38.4740889"]
-  },
-  {
-    "NUMBER": 574,
-    "OFFICE": "Taveta",
-    "CODE": "80302",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Taveta",
-    "LOCATION": ["-3.4","37.683333"]
-  },
-  {
-    "NUMBER": 575,
-    "OFFICE": "Tawa",
-    "CODE": "90133",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Mbooni",
-    "LOCATION": ["-1.5481408","37.4668058"]
-  },
-  {
-    "NUMBER": 576,
-    "OFFICE": "Tenges",
-    "CODE": "30405",
-    "STATUS": "Departmental",
-    "COUNTY": "Baringo",
-    "CONSTITUENCY": "Baringo Central",
-    "LOCATION": ["0.3092036","35.8014151"]
-  },
-  {
-    "NUMBER": 577,
-    "OFFICE": "THIKA",
-    "CODE": "01000",
-    "STATUS": "Head",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Thika",
-    "LOCATION": ["-1.0387569","37.0833753"]
-  },
-  {
-    "NUMBER": 578,
-    "OFFICE": "Timau",
-    "CODE": "10406",
-    "STATUS": "Departmental",
-    "COUNTY": "Meru",
-    "CONSTITUENCY": "Buuri",
-    "LOCATION": ["0.0854987","37.2383506"]
-  },
-  {
-    "NUMBER": 579,
-    "OFFICE": "Timber Mills",
-    "CODE": "20110",
-    "STATUS": "Departmental",
-    "COUNTY": "Nakuru",
-    "CONSTITUENCY": "Nakuru",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 580,
-    "OFFICE": "Timboroa",
-    "CODE": "30108",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Kesses",
-    "LOCATION": ["0.0854953","35.5302127"]
-  },
-  {
-    "NUMBER": 581,
-    "OFFICE": "Tiriki",
-    "CODE": "50309",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Hamisi",
-    "LOCATION": ["0.0973454","34.8459184"]
-  },
-  {
-    "NUMBER": 582,
-    "OFFICE": "Tom Mboya Street",
-    "CODE": "00400",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Starehe",
-    "LOCATION": ["-1.2827877","36.8244125"]
-  },
-  {
-    "NUMBER": 583,
-    "OFFICE": "Tongaren",
-    "CODE": "30218",
-    "STATUS": "Sub",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Tongaren",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 584,
-    "OFFICE": "Tot",
-    "CODE": "30707",
-    "STATUS": "Departmental",
-    "COUNTY": "Elgeyo/Marakwet",
-    "CONSTITUENCY": "Marakwet",
-    "LOCATION": ["1.200411","35.6587503"]
-  },
-  {
-    "NUMBER": 585,
-    "OFFICE": "Tulia",
-    "CODE": "90203",
-    "STATUS": "Departmental",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui West",
-    "LOCATION": ["-1.186977","37.9791205"]
-  },
-  {
-    "NUMBER": 586,
-    "OFFICE": "Tunyai",
-    "CODE": "60213",
-    "STATUS": "Sub",
-    "COUNTY": "Tharaka Nithi",
-    "CONSTITUENCY": "Tharaka",
-    "LOCATION": ["-0.1569525","37.8167329"]
-  },
-  {
-    "NUMBER": 587,
-    "OFFICE": "Turbo",
-    "CODE": "30106",
-    "STATUS": "Departmental",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Turbo",
-    "LOCATION": ["0.6342241","35.0470761"]
-  },
-  {
-    "NUMBER": 588,
-    "OFFICE": "Ugunja",
-    "CODE": "40606",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Ugunja",
-    "LOCATION": ["0.18138","34.2966264"]
-  },
-  {
-    "NUMBER": 589,
-    "OFFICE": "Uhuru Gardens",
-    "CODE": "00517",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Langata",
-    "LOCATION": ["-1.3218944","36.7940684"]
-  },
-  {
-    "NUMBER": 590,
-    "OFFICE": "Ukunda",
-    "CODE": "80400",
-    "STATUS": "Departmental",
-    "COUNTY": "Kwale",
-    "CONSTITUENCY": "Msambweni",
-    "LOCATION": ["-4.283333","9.566667"]
-  },
-  {
-    "NUMBER": 591,
-    "OFFICE": "Ukwala",
-    "CODE": "40607",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Ugenya",
-    "LOCATION": ["-1.2849951","36.8262234"]
-  },
-  {
-    "NUMBER": 592,
-    "OFFICE": "Uplands",
-    "CODE": "00222",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Lari",
-    "LOCATION": ["-1.069374","36.6997658"]
-  },
-  {
-    "NUMBER": 593,
-    "OFFICE": "Uranga",
-    "CODE": "40608",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem / Alego Usonga",
-    "LOCATION": ["0.116667","34.15"]
-  },
-  {
-    "NUMBER": 594,
-    "OFFICE": "Uriri",
-    "CODE": "40228",
-    "STATUS": "Sub",
-    "COUNTY": "Migori",
-    "CONSTITUENCY": "Uriri",
-    "LOCATION": ["-0.9688889","34.5083333"]
-  },
-  {
-    "NUMBER": 595,
-    "OFFICE": "Usenge",
-    "CODE": "40609",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Bondo",
-    "LOCATION": ["-0.0676755","34.0557887"]
-  },
-  {
-    "NUMBER": 596,
-    "OFFICE": "Uthiru",
-    "CODE": "00605",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Dagoretti South",
-    "LOCATION": ["-1.2718874","36.7038098"]
-  },
-  {
-    "NUMBER": 597,
-    "OFFICE": "Victoria",
-    "CODE": "40142",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 598,
-    "OFFICE": "Vihiga",
-    "CODE": "50310",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Vihiga",
-    "LOCATION": ["0.0921041","34.7298765"]
-  },
-  {
-    "NUMBER": 599,
-    "OFFICE": "Village Market",
-    "CODE": "00621",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 600,
-    "OFFICE": "Vipingo",
-    "CODE": "80119",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Kilifi South",
-    "LOCATION": ["-4.0434771","39.6682065"]
-  },
-  {
-    "NUMBER": 601,
-    "OFFICE": "Viwandani",
-    "CODE": "00507",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Makadara",
-    "LOCATION": ["-1.3080663","36.8566754"]
-  },
-  {
-    "NUMBER": 602,
-    "OFFICE": "VOI",
-    "CODE": "80300",
-    "STATUS": "Head",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Voi",
-    "LOCATION": ["-3.3973104","38.5559336"]
-  },
-  {
-    "NUMBER": 603,
-    "OFFICE": "Wachoro",
-    "CODE": "60121",
-    "STATUS": "Sub",
-    "COUNTY": "Embu",
-    "CONSTITUENCY": "Mbeere South",
-    "LOCATION": ["-0.759936","37.2742204"]
-  },
-  {
-    "NUMBER": 604,
-    "OFFICE": "WAJIR",
-    "CODE": "70200",
-    "STATUS": "Head",
-    "COUNTY": "Wajir",
-    "CONSTITUENCY": "Wajir East",
-    "LOCATION": ["1.7488388","1.7488388"]
-  },
-  {
-    "NUMBER": 605,
-    "OFFICE": "Wamba",
-    "CODE": "20603",
-    "STATUS": "Departmental",
-    "COUNTY": "Samburu",
-    "CONSTITUENCY": "Samburu East",
-    "LOCATION": ["0.983333","37.316667"]
-  },
-  {
-    "NUMBER": 606,
-    "OFFICE": "Wamunyu",
-    "CODE": "90103",
-    "STATUS": "Departmental",
-    "COUNTY": "Machakos",
-    "CONSTITUENCY": "Mwala",
-    "LOCATION": ["-1.413408","37.6240242"]
-  },
-  {
-    "NUMBER": 607,
-    "OFFICE": "Wangige",
-    "CODE": "00614",
-    "STATUS": "Departmental",
-    "COUNTY": "Kiambu",
-    "CONSTITUENCY": "Kabete",
-    "LOCATION": ["-1.2202532","36.7132449"]
-  },
-  {
-    "NUMBER": 608,
-    "OFFICE": "Wanguru",
-    "CODE": "10303",
-    "STATUS": "Departmental",
-    "COUNTY": "Kirinyaga",
-    "CONSTITUENCY": "Mwea",
-    "LOCATION": ["-0.5873196","37.0610806"]
-  },
-  {
-    "NUMBER": 609,
-    "OFFICE": "Wanjohi",
-    "CODE": "20305",
-    "STATUS": "Departmental",
-    "COUNTY": "Nyandarua",
-    "CONSTITUENCY": "Kipipiri",
-    "LOCATION": ["-0.6536831","36.5693771"]
-  },
-  {
-    "NUMBER": 610,
-    "OFFICE": "Watamu",
-    "CODE": "80202",
-    "STATUS": "Departmental",
-    "COUNTY": "Kilifi",
-    "CONSTITUENCY": "Kilifi North",
-    "LOCATION": ["-3.35","40.016667"]
-  },
-  {
-    "NUMBER": 611,
-    "OFFICE": "Webuye",
-    "CODE": "50205",
-    "STATUS": "Departmental",
-    "COUNTY": "Bungoma",
-    "CONSTITUENCY": "Bungoma East",
-    "LOCATION": ["0.616667","34.766667"]
-  },
-  {
-    "NUMBER": 612,
-    "OFFICE": "Wei-Wei",
-    "CODE": "30603",
-    "STATUS": "Departmental",
-    "COUNTY": "West Pokot",
-    "CONSTITUENCY": "Sigor",
-    "LOCATION": ["1.4856057","35.47196"]
-  },
-  {
-    "NUMBER": 613,
-    "OFFICE": "Werugha",
-    "CODE": "80303",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Wundanyi",
-    "LOCATION": ["-3.4004592","38.3647299"]
-  },
-  {
-    "NUMBER": 614,
-    "OFFICE": "Westlands",
-    "CODE": "00800",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Westlands",
-    "LOCATION": ["-1.2682643","36.8111214"]
-  },
-  {
-    "NUMBER": 615,
-    "OFFICE": "Winam (Kisumu GPO Extn.)",
-    "CODE": "40141",
-    "STATUS": "Departmental",
-    "COUNTY": "Kisumu",
-    "CONSTITUENCY": "Kisumu",
-    "LOCATION": ["-0.0982663","34.7508381"]
-  },
-  {
-    "NUMBER": 616,
-    "OFFICE": "Witu",
-    "CODE": "80504",
-    "STATUS": "Departmental",
-    "COUNTY": "Lamu",
-    "CONSTITUENCY": "Lamu West",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 617,
-    "OFFICE": "Wodanga",
-    "CODE": "50311",
-    "STATUS": "Departmental",
-    "COUNTY": "Vihiga",
-    "CONSTITUENCY": "Sabatia",
-    "LOCATION": ""
-  },
-  {
-    "NUMBER": 618,
-    "OFFICE": "Wundanyi",
-    "CODE": "80304",
-    "STATUS": "Departmental",
-    "COUNTY": "Taita Taveta",
-    "CONSTITUENCY": "Wundanyi",
-    "LOCATION": ["-3.4047218","38.3657384"]
-  },
-  {
-    "NUMBER": 619,
-    "OFFICE": "Yala",
-    "CODE": "40610",
-    "STATUS": "Departmental",
-    "COUNTY": "Siaya",
-    "CONSTITUENCY": "Gem",
-    "LOCATION": ["0.1","34.533333"]
-  },
-  {
-    "NUMBER": 620,
-    "OFFICE": "Yaya Towers",
-    "CODE": "00508",
-    "STATUS": "Departmental",
-    "COUNTY": "Nairobi",
-    "CONSTITUENCY": "Nairobi West",
-    "LOCATION": ["-1.2920659","36.8219462"]
-  },
-  {
-    "NUMBER": 621,
-    "OFFICE": "Yoani",
-    "CODE": "90134",
-    "STATUS": "Departmental",
-    "COUNTY": "Makueni",
-    "CONSTITUENCY": "Kitui South",
-    "LOCATION": ["-1.8528635","37.2594666"]
-  },
-  {
-    "NUMBER": 622,
-    "OFFICE": "Ziwa",
-    "CODE": "30214",
-    "STATUS": "Sub",
-    "COUNTY": "Uasin Gishu",
-    "CONSTITUENCY": "Soy",
-    "LOCATION": ["0.8342805","35.246438"]
-  },
-  {
-    "NUMBER": 623,
-    "OFFICE": "Zombe",
-    "CODE": "90213",
-    "STATUS": "Sub",
-    "COUNTY": "Kitui",
-    "CONSTITUENCY": "Kitui East",
-    "LOCATION": ["-1.4524714","38.234841"]
-  }]
+"codes":[
+{
+"n":2,
+"o":"Ahero",
+"c":"40101",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Nyando/Muhoroni",
+"l":["-0.1744386","34.9203383"]
+},
+{
+"n":3,
+"o":"Ainabkoi",
+"c":"30101",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Ainabkoi",
+"l":["0.1883986","35.5302127"]
+},
+{
+"n":4,
+"o":"Akala",
+"c":"40139",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem",
+"l":["-0.066667","34.433333"]
+},
+{
+"n":5,
+"o":"Amagoro",
+"c":"50244",
+"s":"Departmental",
+"y":"Busia",
+"t":"Teso",
+"l":["0.627871","34.332576"]
+},
+{
+"n":6,
+"o":"Amalo",
+"c":"20424",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Bomet East",
+"l":["-0.5929936","35.6855464"]
+},
+{
+"n":7,
+"o":"Amukura",
+"c":"50403",
+"s":"Departmental",
+"y":"Busia",
+"t":"Teso",
+"l":["0.5623429","34.2733526"]
+},
+{
+"n":8,
+"o":"Asumbi",
+"c":"40309",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Rangwe",
+"l":["-0.61972","34.6133903"]
+},
+{
+"n":9,
+"o":"Athi River",
+"c":"00204",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Mavoko",
+"l":["-1.4577245","36.9785033"]
+},
+{
+"n":10,
+"o":"Awasi",
+"c":"40122",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Nyando",
+"l":["-0.1616445","35.0732265"]
+},
+{
+"n":11,
+"o":"Bahati",
+"c":"20113",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Bahati",
+"l":["-1.2916424","36.8586637"]
+},
+{
+"n":12,
+"o":"Bamba",
+"c":"80211",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Ganze",
+"l":""
+},
+{
+"n":13,
+"o":"Bamburi",
+"c":"80101",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Kisauni",
+"l":["-4","39.716667"]
+},
+{
+"n":14,
+"o":"Banja",
+"c":"50316",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Hamisi",
+"l":["-1.2920659","36.8219462"]
+},
+{
+"n":15,
+"o":"Baragoi",
+"c":"20601",
+"s":"Departmental",
+"y":"Samburu",
+"t":"Samburu North",
+"l":["1.783333","36.783333"]
+},
+{
+"n":16,
+"o":"Baraton",
+"c":"30306",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Chesumei",
+"l":["0.5162002","35.2733847"]
+},
+{
+"n":17,
+"o":"Baricho",
+"c":"10302",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Ndia",
+"l":["-1.3017641","36.8262145"]
+},
+{
+"n":18,
+"o":"Bissel",
+"c":"01101",
+"s":"Sub",
+"y":"Kajiado",
+"t":"Kajiado Central",
+"l":""
+},
+{
+"n":19,
+"o":"Bokoli",
+"c":"50206",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":["0.7069788","34.6645984"]
+},
+{
+"n":20,
+"o":"Bomet",
+"c":"20400",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Bomet East",
+"l":["-0.782104","35.3408601"]
+},
+{
+"n":21,
+"o":"Bondeni",
+"c":"20101",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Nakuru",
+"l":["-1.2920659","36.8219462"]
+},
+{
+"n":22,
+"o":"Bondo",
+"c":"40601",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Bondo",
+"l":["-1.3050429","36.8321335"]
+},
+{
+"n":23,
+"o":"Booker",
+"c":"50137",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Mumias",
+"l":["0.3541674","34.5035398"]
+},
+{
+"n":24,
+"o":"Boro",
+"c":"40620",
+"s":"Sub",
+"y":"Siaya",
+"t":"Alego Usonga",
+"l":["2.6288889","37.7994444"]
+},
+{
+"n":25,
+"o":"Brigadier",
+"c":"50245",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":["-1.2920659","36.8219462"]
+},
+{
+"n":26,
+"o":"Bukura",
+"c":"50105",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Lurambi",
+"l":["0.2986781","34.626987"]
+},
+{
+"n":27,
+"o":"Bulimbo",
+"c":"50109",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Matungu",
+"l":["0.4383662","34.5116397"]
+},
+{
+"n":28,
+"o":"Bumala",
+"c":"50404",
+"s":"Departmental",
+"y":"Busia",
+"t":"Busia",
+"l":["0.3","34.2"]
+},
+{
+"n":29,
+"o":"BUNGOMA",
+"c":"50200",
+"s":"Head",
+"y":"Bungoma",
+"t":"Bungoma South",
+"l":["0.5695252","34.5583766"]
+},
+{
+"n":30,
+"o":"Bura Tana",
+"c":"70104",
+"s":"Departmental",
+"y":"Tana River",
+"t":"Bura",
+"l":["-1.5","40.033333"]
+},
+{
+"n":31,
+"o":"Burnt Forest",
+"c":"30102",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Ainabkoi",
+"l":["0.21803","35.43075"]
+},
+{
+"n":32,
+"o":"Buru Buru",
+"c":"00515",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Makadara",
+"l":["-1.2823645","36.8787984"]
+},
+{
+"n":33,
+"o":"BUSIA",
+"c":"50400",
+"s":"Head",
+"y":"Busia",
+"t":"Busia",
+"l":["0.4607691","34.1114621"]
+},
+{
+"n":34,
+"o":"Butere",
+"c":"50101",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Butere",
+"l":["0.216667","34.5"]
+},
+{
+"n":35,
+"o":"Butula",
+"c":"50405",
+"s":"Departmental",
+"y":"Busia",
+"t":"Busia",
+"l":["0.3416124","34.3352003"]
+},
+{
+"n":36,
+"o":"Buyofu",
+"c":"50210",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Bungoma South",
+"l":["0.4819594","34.386886"]
+},
+{
+"n":37,
+"o":"Chamakanga",
+"c":"50302",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Sabatia",
+"l":["0.1457269","34.7963485"]
+},
+{
+"n":38,
+"o":"Changamwe",
+"c":"80102",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Changamwe",
+"l":["-4.026111","39.630556"]
+},
+{
+"n":39,
+"o":"Chavakali",
+"c":"50317",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Sabatia",
+"l":["0.1166116","34.731949"]
+},
+{
+"n":40,
+"o":"Chebiemit",
+"c":"30706",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Marakwet",
+"l":["0.85822","35.488392"]
+},
+{
+"n":41,
+"o":"Cheborge",
+"c":"20215",
+"s":"Sub",
+"y":"Kericho",
+"t":"Bureti",
+"l":["-0.3688967","35.286286"]
+},
+{
+"n":42,
+"o":"Chebunyo",
+"c":"20401",
+"s":"Sub",
+"y":"Bomet",
+"t":"Chepalungu",
+"l":["-0.7836045","35.3383954"]
+},
+{
+"n":43,
+"o":"Chemelil",
+"c":"40116",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Muhoroni",
+"l":["-0.083333","35.133333"]
+},
+{
+"n":44,
+"o":"Chepareria",
+"c":"30605",
+"s":"Departmental",
+"y":"West Pokot",
+"t":"Pokot South",
+"l":["1.3081095","35.2066038"]
+},
+{
+"n":45,
+"o":"Chepkoilel",
+"c":"30133",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Moiben",
+"l":["0.5784297","35.3020364"]
+},
+{
+"n":46,
+"o":"Chepkorio",
+"c":"30129",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Keiyo",
+"l":["0.383333","35.533333"]
+},
+{
+"n":47,
+"o":"Cheptais",
+"c":"50201",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Mt. Elgon",
+"l":["0.8083481","34.4540906"]
+},
+{
+"n":48,
+"o":"Chesinendet",
+"c":"20217",
+"s":"Sub",
+"y":"Kericho",
+"t":"Kipkelion East",
+"l":["-0.2645936","35.4807222"]
+},
+{
+"n":49,
+"o":"Chiakariga",
+"c":"60409",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["0.0514721","37.6456042"]
+},
+{
+"n":50,
+"o":"Chogoria",
+"c":"60401",
+"s":"Departmental",
+"y":"Tharaka Nithi",
+"t":"Maara",
+"l":["-0.2279535","37.6306782"]
+},
+{
+"n":51,
+"o":"Chuka",
+"c":"60400",
+"s":"Departmental",
+"y":"Tharaka Nithi",
+"t":"Chuka/Igambang'ombe",
+"l":["-0.2925655","37.6184093"]
+},
+{
+"n":52,
+"o":"Chumvi",
+"c":"90147",
+"s":"Sub",
+"y":"Machakos",
+"t":"Machakos",
+"l":["0.1674554","37.2473323"]
+},
+{
+"n":53,
+"o":"Chumvini",
+"c":"80314",
+"s":"Sub",
+"y":"Taita Taveta",
+"t":"Taveta",
+"l":["-3.2094559","37.7078184"]
+},
+{
+"n":54,
+"o":"Chwele",
+"c":"50202",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Sirisia",
+"l":["0.7358836","34.5777565"]
+},
+{
+"n":55,
+"o":"CITY SQUARE",
+"c":"00200",
+"s":"Head",
+"y":"Nairobi",
+"t":"Starehe",
+"l":["-1.2863609","36.8263731"]
+},
+{
+"n":56,
+"o":"Coast Gen. Hospital",
+"c":"80103",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Mvita",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":57,
+"o":"Dadaab",
+"c":"70103",
+"s":"Departmental",
+"y":"Garissa",
+"t":"Dadaab",
+"l":["0.051","40.314"]
+},
+{
+"n":58,
+"o":"Dago",
+"c":"40112",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Kisumu West",
+"l":["-0.0129028","34.7239356"]
+},
+{
+"n":59,
+"o":"Dandora",
+"c":"00516",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Embakasi North",
+"l":["-1.25","36.9"]
+},
+{
+"n":60,
+"o":"Daraja Mbili",
+"c":"40117",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Kisumu Central",
+"l":["-1.0037626","35.6335752"]
+},
+{
+"n":61,
+"o":"Daystar",
+"c":"90145",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Machakos",
+"l":["-1.44173","37.04612"]
+},
+{
+"n":62,
+"o":"Diani Beach",
+"c":"80401",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Msambweni",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":63,
+"o":"Docks",
+"c":"80104",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Mvita",
+"l":["-4.0592668","39.6490896"]
+},
+{
+"n":64,
+"o":"Doldol",
+"c":"10401",
+"s":"Sub",
+"y":"Laikipia",
+"t":"Laikipia North/East",
+"l":["1.2833333","36.7166667"]
+},
+{
+"n":65,
+"o":"Donyosabuk",
+"c":"01027",
+"s":"Sub",
+"y":"Machakos",
+"t":"Kangundo",
+"l":["-1.0847064","37.2530884"]
+},
+{
+"n":66,
+"o":"Eastleigh",
+"c":"00610",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Kamkunji",
+"l":["-1.266667","36.85"]
+},
+{
+"n":67,
+"o":"Egerton",
+"c":"20115",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Njoro",
+"l":["-0.331626","35.944938"]
+},
+{
+"n":68,
+"o":"Ekalakala",
+"c":"90139",
+"s":"Sub",
+"y":"Machakos",
+"t":"Masinga",
+"l":["-0.9687381","37.472141"]
+},
+{
+"n":69,
+"o":"Elburgon",
+"c":"20102",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Molo",
+"l":["-0.3","35.816667"]
+},
+{
+"n":70,
+"o":"Eldama Ravine",
+"c":"20103",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Eldama Ravine",
+"l":["0.05","35.716667"]
+},
+{
+"n":71,
+"o":"ELDORET",
+"c":"30100",
+"s":"Head",
+"y":"Uasin Gishu",
+"t":"Kapseret",
+"l":["0.516667","35.283333"]
+},
+{
+"n":72,
+"o":"Elwak",
+"c":"70301",
+"s":"Departmental",
+"y":"Mandera",
+"t":"Mandera South",
+"l":["2.816667","40.933333"]
+},
+{
+"n":73,
+"o":"Emali",
+"c":"90121",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kibwezi West/Makueni",
+"l":["-2.079689","37.4731352"]
+},
+{
+"n":74,
+"o":"Embakasi Village",
+"c":"00521",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Embakasi East",
+"l":["-1.3","36.916667"]
+},
+{
+"n":75,
+"o":"EMBU",
+"c":"60100",
+"s":"Head",
+"y":"Embu",
+"t":"Manyatta",
+"l":["-0.5388381","37.4596409"]
+},
+{
+"n":76,
+"o":"Emuhaya",
+"c":"50314",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Emuhaya",
+"l":["0.0358944","34.6269965"]
+},
+{
+"n":77,
+"o":"Endarasha",
+"c":"10107",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Kieni",
+"l":["-0.3100511","36.7933416"]
+},
+{
+"n":78,
+"o":"Endebess",
+"c":"30201",
+"s":"Departmental",
+"y":"Trans Nzoia",
+"t":"Endebess",
+"l":["1.0677188","34.8596574"]
+},
+{
+"n":79,
+"o":"Enterprise Road",
+"c":"00500",
+"s":"Head",
+"y":"Nairobi",
+"t":"Makadara",
+"l":["-1.3188059","36.8646598"]
+},
+{
+"n":80,
+"o":"Etago",
+"c":"40208",
+"s":"Sub",
+"y":"Kisii",
+"t":"South Mugirango",
+"l":["-0.9166667","34.6666667"]
+},
+{
+"n":81,
+"o":"Faza",
+"c":"80501",
+"s":"Departmental",
+"y":"Lamu",
+"t":"Lamu East",
+"l":["-2.06","41.11"]
+},
+{
+"n":82,
+"o":"Fort Ternan",
+"c":"20209",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Kipkelion West",
+"l":["-0.2205489","35.2958607"]
+},
+{
+"n":83,
+"o":"Funyula",
+"c":"50406",
+"s":"Departmental",
+"y":"Busia",
+"t":"Bunyala",
+"l":["0.279642","34.1177232"]
+},
+{
+"n":84,
+"o":"Gacharage-ini",
+"c":"10210",
+"s":"Sub",
+"y":"Muranga",
+"t":"Kigumo /Kandara",
+"l":["-0.7226404","36.8652597"]
+},
+{
+"n":85,
+"o":"Gaitu",
+"c":"60209",
+"s":"Sub",
+"y":"Meru",
+"t":"Imenti Central",
+"l":["-0.0181961","37.7335095"]
+},
+{
+"n":86,
+"o":"Gakere Road",
+"c":"10109",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Nyeri South",
+"l":["-0.4240027","36.9540501"]
+},
+{
+"n":87,
+"o":"Gakindu",
+"c":"10111",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Mukurweni",
+"l":["-0.5640702","36.9995499"]
+},
+{
+"n":88,
+"o":"Gakungu",
+"c":"10232",
+"s":"Sub",
+"y":"Muranga",
+"t":"Maragua",
+"l":""
+},
+{
+"n":89,
+"o":"Gambogi",
+"c":"50318",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Hamisi",
+"l":["0.0010125","34.7409864"]
+},
+{
+"n":90,
+"o":"Garba Tulla",
+"c":"60301",
+"s":"Departmental",
+"y":"Isiolo",
+"t":"Isiolo South",
+"l":["0.533333","38.516667"]
+},
+{
+"n":91,
+"o":"GARISSA",
+"c":"70100",
+"s":"Head",
+"y":"Garissa",
+"t":"Dujis",
+"l":["-0.4532293","39.6460988"]
+},
+{
+"n":92,
+"o":"Garsen",
+"c":"80201",
+"s":"Departmental",
+"y":"Tana River",
+"t":"Garsen",
+"l":["-2.268333","40.110833"]
+},
+{
+"n":93,
+"o":"Gathugu",
+"c":"00240",
+"s":"Sub",
+"y":"Kiambu",
+"t":"Githunguri",
+"l":["-0.9003188","36.9720063"]
+},
+{
+"n":94,
+"o":"Gatitu",
+"c":"10114",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Nyeri Town",
+"l":["-0.894142","37.03957"]
+},
+{
+"n":95,
+"o":"Gatukuyu",
+"c":"01028",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Gatundu North",
+"l":["-0.983208","36.9662502"]
+},
+{
+"n":96,
+"o":"Gatundu",
+"c":"01030",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Gatundu",
+"l":["-1.0130645","36.9050566"]
+},
+{
+"n":97,
+"o":"Gatunga",
+"c":"60404",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["-0.101202","38.0075815"]
+},
+{
+"n":98,
+"o":"Gatura",
+"c":"01013",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Gatanga",
+"l":["-0.5387694","37.0373502"]
+},
+{
+"n":99,
+"o":"Gede",
+"c":"80208",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Ganze",
+"l":["-3.305644","40.011802"]
+},
+{
+"n":100,
+"o":"Gesima",
+"c":"40503",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"Kitutu Masaba",
+"l":["-0.7091781","34.992827"]
+},
+{
+"n":101,
+"o":"Gesusu",
+"c":"40201",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Nyaribari Masaba",
+"l":["-0.8333333","34.65"]
+},
+{
+"n":102,
+"o":"Giakanja",
+"c":"10108",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Tetu / Nyeri Town",
+"l":["-0.4582234","36.9490691"]
+},
+{
+"n":103,
+"o":"Gigiri",
+"c":"00601",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":["-1.2323282","36.8075304"]
+},
+{
+"n":104,
+"o":"Gikoe",
+"c":"10213",
+"s":"Sub",
+"y":"Muranga",
+"t":"Mathioya",
+"l":""
+},
+{
+"n":105,
+"o":"Gilgil",
+"c":"20116",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Gilgil",
+"l":["-0.4922735","36.3172993"]
+},
+{
+"n":106,
+"o":"Gitemene",
+"c":"60212",
+"s":"Sub",
+"y":"Meru",
+"t":"Imenti North",
+"l":""
+},
+{
+"n":107,
+"o":"Githongo",
+"c":"60205",
+"s":"Departmental",
+"y":"Meru",
+"t":"Meru Central",
+"l":["-0.0083256","37.5924897"]
+},
+{
+"n":108,
+"o":"Githunguri",
+"c":"00216",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Githunguri",
+"l":["-1.0589995","36.7747995"]
+},
+{
+"n":109,
+"o":"Gituamba",
+"c":"01003",
+"s":"Sub",
+"y":"Muranga/Kiambu",
+"t":"Gatanga/Gatundu North/Lari",
+"l":""
+},
+{
+"n":110,
+"o":"Gitugi",
+"c":"10209",
+"s":"Sub",
+"y":"Muranga",
+"t":"Mathioya",
+"l":""
+},
+{
+"n":111,
+"o":"Gongoni",
+"c":"80206",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Magarini",
+"l":["-3.03399","40.14069"]
+},
+{
+"n":112,
+"o":"Griftu",
+"c":"70202",
+"s":"Departmental",
+"y":"Wajir",
+"t":"Eldas",
+"l":["2.0060326","39.750917"]
+},
+{
+"n":113,
+"o":"Habaswein",
+"c":"70201",
+"s":"Departmental",
+"y":"Wajir",
+"t":"Wajir South",
+"l":["1.0168475","39.4929916"]
+},
+{
+"n":114,
+"o":"Hamisi",
+"c":"50312",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Hamisi",
+"l":""
+},
+{
+"n":115,
+"o":"Hawinga",
+"c":"40640",
+"s":"Sub",
+"y":"Siaya",
+"t":"Alego Usonga",
+"l":["0.0789857","34.1529241"]
+},
+{
+"n":116,
+"o":"Hola",
+"c":"70101",
+"s":"Departmental",
+"y":"Tana River",
+"t":"Galole",
+"l":["-1.5","40.033333"]
+},
+{
+"n":117,
+"o":"HOMA BAY",
+"c":"40300",
+"s":"Head",
+"y":"Homa Bay",
+"t":"Homa Bay Town",
+"l":["-0.5350427","34.4530968"]
+},
+{
+"n":118,
+"o":"Huruma",
+"c":"30109",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Turbo",
+"l":["-1.2564898","36.8721139"]
+},
+{
+"n":119,
+"o":"Igare",
+"c":"40209",
+"s":"Sub",
+"y":"Kisii",
+"t":"Bobasi",
+"l":["-0.8069713","34.8033606"]
+},
+{
+"n":120,
+"o":"Igoji",
+"c":"60402",
+"s":"Departmental",
+"y":"Meru",
+"t":"South Imenti",
+"l":["-0.1813733","37.6759087"]
+},
+{
+"n":121,
+"o":"Igwamiti",
+"c":"20307",
+"s":"Departmental",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["-0.0246871","36.2769949"]
+},
+{
+"n":122,
+"o":"Iiani",
+"c":"90120",
+"s":"Sub",
+"y":"Machakos",
+"t":"Masinga",
+"l":["-1.0179118","37.4260184"]
+},
+{
+"n":123,
+"o":"Ikalaasa",
+"c":"90135",
+"s":"Sub",
+"y":"Machakos",
+"t":"Mwala",
+"l":["-1.53","37.67"]
+},
+{
+"n":124,
+"o":"Ikonge",
+"c":"40501",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"North Mugirango",
+"l":["-0.5305884","35.0240934"]
+},
+{
+"n":125,
+"o":"Ikutha",
+"c":"90207",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Kitui South",
+"l":["-2.07","38.18"]
+},
+{
+"n":126,
+"o":"Ikuu",
+"c":"60405",
+"s":"Sub",
+"y":"Meru",
+"t":"Igembe South",
+"l":["-0.3750881","37.6727331"]
+},
+{
+"n":127,
+"o":"Ishiara",
+"c":"60102",
+"s":"Departmental",
+"y":"Embu",
+"t":"Siakago",
+"l":["-0.4547835","37.7848732"]
+},
+{
+"n":128,
+"o":"Isibania",
+"c":"40414",
+"s":"Departmental",
+"y":"Migori",
+"t":"Kuria West",
+"l":["-1.2448469","34.4766572"]
+},
+{
+"n":129,
+"o":"Isiolo",
+"c":"60300",
+"s":"Departmental",
+"y":"Isiolo",
+"t":"Isiolo",
+"l":["0.355636","37.5833061"]
+},
+{
+"n":130,
+"o":"Iten",
+"c":"30700",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Keiyo",
+"l":["0.673056","35.508333"]
+},
+{
+"n":131,
+"o":"Ithanga",
+"c":"01015",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Gatanga",
+"l":["-0.9333333","37.35"]
+},
+{
+"n":132,
+"o":"JAMIA",
+"c":"00101",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Starehe",
+"l":["-1.2830177","36.8205037"]
+},
+{
+"n":133,
+"o":"JKIA",
+"c":"00501",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Embakasi East",
+"l":["-1.3227102","36.9260693"]
+},
+{
+"n":134,
+"o":"Kabarak",
+"c":"20157",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["-1.2853254","36.8225046"]
+},
+{
+"n":135,
+"o":"Kabarnet",
+"c":"30400",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["0.492755","35.7445567"]
+},
+{
+"n":136,
+"o":"Kabartonjo",
+"c":"30401",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo North",
+"l":["0.633333","35.8"]
+},
+{
+"n":137,
+"o":"Kabati",
+"c":"90205",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Kitui",
+"l":["-0.95","37.1"]
+},
+{
+"n":138,
+"o":"Kabazi",
+"c":"20114",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Subukia",
+"l":["-0.0330019","36.199522"]
+},
+{
+"n":139,
+"o":"Kabianga",
+"c":"20201",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Belgut",
+"l":["-0.4460549","35.1378554"]
+},
+{
+"n":140,
+"o":"Kabiyet",
+"c":"30303",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Mosop",
+"l":["0.413503","35.075451"]
+},
+{
+"n":141,
+"o":"Kacheliba",
+"c":"30601",
+"s":"Departmental",
+"y":"West Pokot",
+"t":"Kacheliba",
+"l":["1.2901836","35.0797319"]
+},
+{
+"n":142,
+"o":"Kadongo",
+"c":"40223",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Rachuonyo",
+"l":["-0.4477504","34.8913824"]
+},
+{
+"n":143,
+"o":"Kagio",
+"c":"10306",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Ndia",
+"l":["-0.62515","37.2530686"]
+},
+{
+"n":144,
+"o":"Kagumo",
+"c":"10307",
+"s":"Sub",
+"y":"Kirinyaga",
+"t":"Kirinyaga Central",
+"l":["-0.4765097","37.2363434"]
+},
+{
+"n":145,
+"o":"Kagundu-ini",
+"c":"01033",
+"s":"Sub",
+"y":"Muranga",
+"t":"Kandara",
+"l":["-0.416667","36.95"]
+},
+{
+"n":146,
+"o":"Kagwe",
+"c":"00223",
+"s":"Sub",
+"y":"Kiambu",
+"t":"Lari",
+"l":["-1.0038717","36.7439009"]
+},
+{
+"n":147,
+"o":"Kaheho",
+"c":"20304",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Ndaragwa",
+"l":["-1.4577245","36.9785033"]
+},
+{
+"n":148,
+"o":"Kahuhia",
+"c":"10206",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kiharu",
+"l":["-0.7134403","37.0373502"]
+},
+{
+"n":149,
+"o":"Kahuro",
+"c":"10201",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kiharu",
+"l":["-1.1748105","36.8304102"]
+},
+{
+"n":150,
+"o":"Kaimosi",
+"c":"50305",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Hamisi",
+"l":["0.1255761","34.8444805"]
+},
+{
+"n":151,
+"o":"Kajiado",
+"c":"01100",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado Central",
+"l":["-1.8420731","36.7918599"]
+},
+{
+"n":152,
+"o":"KAKAMEGA",
+"c":"50100",
+"s":"Head",
+"y":"Kakamega",
+"t":"Lurambi",
+"l":["0.2827307","34.7518631"]
+},
+{
+"n":153,
+"o":"Kakuma",
+"c":"30501",
+"s":"Departmental",
+"y":"Turkana",
+"t":"Turkana West",
+"l":["3.7067943","34.8665552"]
+},
+{
+"n":154,
+"o":"Kakunga",
+"c":"50115",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Malava",
+"l":["3.7067943","37.524138"]
+},
+{
+"n":155,
+"o":"Kalamba",
+"c":"90122",
+"s":"Sub",
+"y":"Makueni",
+"t":"Makueni",
+"l":["-1.8792614","37.524138"]
+},
+{
+"n":156,
+"o":"Kalimoni",
+"c":"01001",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Juja",
+"l":["-1.1170691","37.0091656"]
+},
+{
+"n":157,
+"o":"Kalokol",
+"c":"30502",
+"s":"Departmental",
+"y":"Turkana",
+"t":"Turkana Central",
+"l":["3.5341467","35.8593486"]
+},
+{
+"n":158,
+"o":"Kaloleni",
+"c":"80105",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Kaloleni",
+"l":["-1.2950104","36.8447113"]
+},
+{
+"n":159,
+"o":"Kamakwa Rd",
+"c":"10141",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Nyeri Town",
+"l":""
+},
+{
+"n":160,
+"o":"Kambiri",
+"c":"50116",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Shinyalu",
+"l":""
+},
+{
+"n":161,
+"o":"Kambiti",
+"c":"10226",
+"s":"Sub",
+"y":"Muranga",
+"t":"Maragua",
+"l":""
+},
+{
+"n":162,
+"o":"Kamiti",
+"c":"00607",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kiambu",
+"l":""
+},
+{
+"n":163,
+"o":"Kampi-Ya-Samaki",
+"c":"30406",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["0.7781044","34.7892687"]
+},
+{
+"n":164,
+"o":"Kamukuywa",
+"c":"50216",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma North",
+"l":["0.7781044","34.7892687"]
+},
+{
+"n":165,
+"o":"Kamuriai",
+"c":"50408",
+"s":"Departmental",
+"y":"Busia",
+"t":"Teso",
+"l":["0.6621409","34.2980343"]
+},
+{
+"n":166,
+"o":"Kamuwongo",
+"c":"90403",
+"s":"Sub",
+"y":"Kitui",
+"t":"Mwingi North",
+"l":["-0.7110725","38.0763683"]
+},
+{
+"n":167,
+"o":"Kandara",
+"c":"01034",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kandara",
+"l":["-0.8964137","37.0021177"]
+},
+{
+"n":168,
+"o":"Kandiege",
+"c":"40304",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Karachuonyo",
+"l":["-0.4289063","34.5524926"]
+},
+{
+"n":169,
+"o":"Kangari",
+"c":"10218",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kigumo",
+"l":["-0.7857493","36.9111145"]
+},
+{
+"n":170,
+"o":"Kangema",
+"c":"10202",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kangema",
+"l":["-0.68461","36.9635102"]
+},
+{
+"n":171,
+"o":"Kangemi",
+"c":"00625",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":""
+},
+{
+"n":172,
+"o":"Kangundo",
+"c":"90115",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Kangundo",
+"l":["-1.3055671","37.3453215"]
+},
+{
+"n":173,
+"o":"Kanja",
+"c":"60118",
+"s":"Sub",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-0.3902947","37.5440459"]
+},
+{
+"n":174,
+"o":"Kanjuku",
+"c":"01004",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Gatundu North",
+"l":["-1.1748105","36.8304102"]
+},
+{
+"n":175,
+"o":"Kanyakine",
+"c":"60206",
+"s":"Departmental",
+"y":"Meru",
+"t":"Imenti South",
+"l":["-0.1266649","37.6745788"]
+},
+{
+"n":176,
+"o":"Kapcheno",
+"c":"30304",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Aldai",
+"l":["-0.1266649","37.6745788"]
+},
+{
+"n":177,
+"o":"Kapcherop",
+"c":"30204",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Marakwet",
+"l":["1.0156135","35.2709091"]
+},
+{
+"n":178,
+"o":"Kapenguria",
+"c":"30600",
+"s":"Departmental",
+"y":"West Pokot",
+"t":"Kapenguria",
+"l":["1.2527278","35.0869203"]
+},
+{
+"n":179,
+"o":"Kapkatet",
+"c":"20214",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Bureti",
+"l":["0.202957","35.0978385"]
+},
+{
+"n":180,
+"o":"Kapsabet",
+"c":"30300",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Emgwen",
+"l":["-1.6201688","34.1993904"]
+},
+{
+"n":181,
+"o":"Kapsoit",
+"c":"20211",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Ainamoi",
+"l":["-0.3206518","35.2189682"]
+},
+{
+"n":182,
+"o":"Kapsokwony",
+"c":"50203",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Mt. Elgon",
+"l":["0.852222","34.701944"]
+},
+{
+"n":183,
+"o":"Kapsowar",
+"c":"30705",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Marakwet",
+"l":["0.948567","35.5084609"]
+},
+{
+"n":184,
+"o":"Kaptagat",
+"c":"30114",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Ainabkoi",
+"l":["0.436426","35.451241"]
+},
+{
+"n":185,
+"o":"Kaptarakwa",
+"c":"30701",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Keiyo",
+"l":["0.0816022","36.2267129"]
+},
+{
+"n":186,
+"o":"Karaba",
+"c":"60105",
+"s":"Departmental",
+"y":"Embu",
+"t":"Mbeere North",
+"l":["-0.7700832","37.3680322"]
+},
+{
+"n":187,
+"o":"Karandi",
+"c":"20328",
+"s":"Sub",
+"y":"Nyandarua",
+"t":"Ndaragwa",
+"l":["0.2771382","36.3176381"]
+},
+{
+"n":188,
+"o":"Karatina",
+"c":"10101",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Mathira",
+"l":["-0.483158","37.1273549"]
+},
+{
+"n":189,
+"o":"Karen",
+"c":"00502",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Langata",
+"l":["-1.3117524","36.6985978"]
+},
+{
+"n":190,
+"o":"Karungu",
+"c":"40401",
+"s":"Departmental",
+"y":"Migori",
+"t":"Nyatike",
+"l":["-0.8433537","34.1573669"]
+},
+{
+"n":191,
+"o":"Karuri",
+"c":"00219",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kiambaa/Gatundu North",
+"l":["-0.7134403","37.0373502"]
+},
+{
+"n":192,
+"o":"Karurumo",
+"c":"60117",
+"s":"Sub",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-0.466667","37.65"]
+},
+{
+"n":193,
+"o":"Kasikeu",
+"c":"90123",
+"s":"Sub",
+"y":"Makueni",
+"t":"Kilome",
+"l":["-1.9495159","37.3853943"]
+},
+{
+"n":194,
+"o":"Katangi",
+"c":"90106",
+"s":"Sub",
+"y":"Machakos",
+"t":"Yatta",
+"l":["-1.4092763","37.6892062"]
+},
+{
+"n":195,
+"o":"Kathiani",
+"c":"90105",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Kathiani",
+"l":["-1.4116892","37.3312907"]
+},
+{
+"n":196,
+"o":"Kathonzweni",
+"c":"90302",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Makueni",
+"l":["-1.9131016","37.7317411"]
+},
+{
+"n":197,
+"o":"Kathwana",
+"c":"60406",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Chuka/Igambang'ombe",
+"l":["-0.3273618","37.8663808"]
+},
+{
+"n":198,
+"o":"Katito",
+"c":"40118",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Nyakach",
+"l":["-0.2692901","34.9697855"]
+},
+{
+"n":199,
+"o":"Kaviani",
+"c":"90107",
+"s":"Sub",
+"y":"Machakos",
+"t":"Kathiani",
+"l":["-1.4724849","37.3091503"]
+},
+{
+"n":200,
+"o":"Kayole",
+"c":"00518",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Embakasi Central",
+"l":["-1.2761617","36.913794"]
+},
+{
+"n":201,
+"o":"Kebirigo",
+"c":"40506",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"West Mugirango",
+"l":["-0.6027575","34.9603088"]
+},
+{
+"n":202,
+"o":"Kedowa",
+"c":"20220",
+"s":"Sub",
+"y":"Kericho",
+"t":"Kipkelion East",
+"l":["-0.2097179","35.5706298"]
+},
+{
+"n":203,
+"o":"Keekorok",
+"c":"20501",
+"s":"Departmental",
+"y":"Narok",
+"t":"Narok South",
+"l":["-1.5876339","35.2361379"]
+},
+{
+"n":204,
+"o":"Kehancha",
+"c":"40413",
+"s":"Departmental",
+"y":"Migori",
+"t":"Kuria West / East",
+"l":["-1.1939843","34.6165033"]
+},
+{
+"n":205,
+"o":"Kendu Bay",
+"c":"40301",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Karachuonyo",
+"l":["-0.366667","34.65"]
+},
+{
+"n":206,
+"o":"Kengeleni",
+"c":"80122",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Kisauni",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":207,
+"o":"Kenol",
+"c":"01020",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Maragua",
+"l":["-1.3690902","37.2256372"]
+},
+{
+"n":208,
+"o":"Kenyatta Hospital",
+"c":"00202",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Nairobi West",
+"l":["-1.3010129","36.8071939"]
+},
+{
+"n":209,
+"o":"Kenyatta University",
+"c":"00609",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Roysambu",
+"l":["-1.1822338","36.9247055"]
+},
+{
+"n":210,
+"o":"Kenyenya",
+"c":"40211",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Bomachoge Borabu",
+"l":["-0.8914659","34.7307229"]
+},
+{
+"n":211,
+"o":"KERICHO",
+"c":"20200",
+"s":"Head",
+"y":"Kericho",
+"t":"Ainamoi",
+"l":["-0.3688967","35.286286"]
+},
+{
+"n":212,
+"o":"Keringet",
+"c":"20131",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Kuresoi South",
+"l":["-0.4260762","35.6901698"]
+},
+{
+"n":213,
+"o":"Keroka",
+"c":"40202",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"Kitutu Masaba",
+"l":["-0.7771138","34.9458389"]
+},
+{
+"n":214,
+"o":"KERUGOYA",
+"c":"10300",
+"s":"Head",
+"y":"Kirinyaga",
+"t":"Kirinyaga Central",
+"l":["-0.5","37.283333"]
+},
+{
+"n":215,
+"o":"Kesogon",
+"c":"30215",
+"s":"Sub",
+"y":"Trans Nzoia",
+"t":"Trans Nzoia",
+"l":["1.164846","35.1133561"]
+},
+{
+"n":216,
+"o":"Keumbu",
+"c":"40212",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Nyaribari Chache",
+"l":["-0.734444","34.8499997"]
+},
+{
+"n":217,
+"o":"Khayega",
+"c":"50104",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Shinyalu",
+"l":["0.2067389","34.7719431"]
+},
+{
+"n":218,
+"o":"Khwisero",
+"c":"50135",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Khwisero",
+"l":["0.1799594","34.6346638"]
+},
+{
+"n":219,
+"o":"Kiamariga",
+"c":"10122",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Mathira",
+"l":["-0.3833333","37.2333333"]
+},
+{
+"n":220,
+"o":"Kiambu",
+"c":"00900",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kiambu",
+"l":["-0.8914659","34.7307229"]
+},
+{
+"n":221,
+"o":"Kiamutugu",
+"c":"10309",
+"s":"Sub",
+"y":"Kirinyaga",
+"t":"Gichugu",
+"l":["-0.3688967","35.286286"]
+},
+{
+"n":222,
+"o":"Kianjai",
+"c":"60602",
+"s":"Departmental",
+"y":"Meru",
+"t":"Tigania West",
+"l":["-0.4260762","35.6901698"]
+},
+{
+"n":223,
+"o":"Kianjokoma",
+"c":"60122",
+"s":"Sub",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-0.7771138","34.9458389"]
+},
+{
+"n":224,
+"o":"Kianyaga",
+"c":"10301",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Gichugu",
+"l":["-0.5","37.283333"]
+},
+{
+"n":225,
+"o":"Kibirichia",
+"c":"60201",
+"s":"Departmental",
+"y":"Meru",
+"t":"Meru Central",
+"l":["1.164846","35.1133561"]
+},
+{
+"n":226,
+"o":"Kibwezi",
+"c":"90137",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kibwezi East/West",
+"l":["-0.734444","34.8499997"]
+},
+{
+"n":227,
+"o":"Kiganjo",
+"c":"10102",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Nyeri Town",
+"l":["0.2067389","34.7719431"]
+},
+{
+"n":228,
+"o":"Kigumo",
+"c":"10203",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kigumo",
+"l":["0.1799594","34.6346638"]
+},
+{
+"n":229,
+"o":"Kihoya",
+"c":"10207",
+"s":"Sub",
+"y":"Muranga",
+"t":"Kangema",
+"l":["-0.3833333","37.2333333"]
+},
+{
+"n":230,
+"o":"Kiirua",
+"c":"60207",
+"s":"Sub",
+"y":"Meru",
+"t":"Imenti North",
+"l":["0.1085543","37.5607753"]
+},
+{
+"n":231,
+"o":"Kijabe",
+"c":"00220",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Lari",
+"l":["-0.945","36.595"]
+},
+{
+"n":232,
+"o":"Kikima",
+"c":"90125",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Mbooni",
+"l":["-1.6613849","37.4491525"]
+},
+{
+"n":233,
+"o":"Kikoneni",
+"c":"80410",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Lunga lunga",
+"l":["-4.45","39.3"]
+},
+{
+"n":234,
+"o":"Kikuyu",
+"c":"00902",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kikuyu",
+"l":["-1.2543366","36.681661"]
+},
+{
+"n":235,
+"o":"Kilala",
+"c":"90305",
+"s":"Sub",
+"y":"Makueni",
+"t":"Kaiti",
+"l":["-1.7666667","37.5333333"]
+},
+{
+"n":236,
+"o":"Kilgoris",
+"c":"40700",
+"s":"Departmental",
+"y":"Narok",
+"t":"Kilgoris",
+"l":["-1.006268","34.8789697"]
+},
+{
+"n":237,
+"o":"Kilifi",
+"c":"80108",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Kilifi",
+"l":["-3.5106508","39.9093269"]
+},
+{
+"n":238,
+"o":"Kilindini",
+"c":"80107",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Kilindini",
+"l":["0.1245038","34.6796027"]
+},
+{
+"n":239,
+"o":"Kilingili",
+"c":"50315",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Vihiga",
+"l":["-0.4266473","36.9631815"]
+},
+{
+"n":240,
+"o":"Kimbimbi",
+"c":"10310",
+"s":"Sub",
+"y":"Kirinyaga",
+"t":"Mwea",
+"l":["-0.6204365","37.3653607"]
+},
+{
+"n":241,
+"o":"Kimilili",
+"c":"50204",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Kimilili",
+"l":["0.783333","34.716667"]
+},
+{
+"n":242,
+"o":"Kiminini",
+"c":"30209",
+"s":"Departmental",
+"y":"Trans Nzoia/Bun",
+"t":"Kiminini",
+"l":["0.8935153","34.9258526"]
+},
+{
+"n":243,
+"o":"Kimulot",
+"c":"20225",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Konoin",
+"l":["-0.5354095","35.2563935"]
+},
+{
+"n":244,
+"o":"Kimwarer",
+"c":"30128",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Keiyo",
+"l":["0.316667","35.633333"]
+},
+{
+"n":245,
+"o":"KINALE / Kinari",
+"c":"00227",
+"s":"Sub",
+"y":"Kiambu",
+"t":"Kiambu East",
+"l":""
+},
+{
+"n":246,
+"o":"Kinamba",
+"c":"20320",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Naivasha",
+"l":["0.4131607","36.3213639"]
+},
+{
+"n":247,
+"o":"Kinango",
+"c":"80405",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Kinango",
+"l":""
+},
+{
+"n":248,
+"o":"Kindaruma",
+"c":"01031",
+"s":"Departmental",
+"y":"Embu",
+"t":"Mbeere South",
+"l":["-0.8","37.8166667"]
+},
+{
+"n":249,
+"o":"Kinoru",
+"c":"60216",
+"s":"Departmental",
+"y":"Meru",
+"t":"Imenti North",
+"l":["0.0538184","37.6369989"]
+},
+{
+"n":250,
+"o":"Kionyo",
+"c":"60211",
+"s":"Sub",
+"y":"Meru",
+"t":"Imenti South",
+"l":["-0.1179934","37.5961509"]
+},
+{
+"n":251,
+"o":"Kipkabus",
+"c":"30103",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Ainabkoi",
+"l":["0.3022349","35.489269"]
+},
+{
+"n":252,
+"o":"Kipkarren River",
+"c":"50241",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Lugari",
+"l":["0.617437","34.96064"]
+},
+{
+"n":253,
+"o":"Kipkelion",
+"c":"20202",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Kipkelion West",
+"l":["-0.207704","35.4480605"]
+},
+{
+"n":254,
+"o":"Kiptagich",
+"c":"30402",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Kuresoi South",
+"l":""
+},
+{
+"n":255,
+"o":"Kiptere",
+"c":"20213",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Belgut",
+"l":["-0.4","35.1"]
+},
+{
+"n":256,
+"o":"Kiptugumo",
+"c":"20208",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Sigowet",
+"l":["-0.2943014","35.1564029"]
+},
+{
+"n":257,
+"o":"Kiriaini",
+"c":"10204",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Mathioya",
+"l":["-0.6019027","36.9478936"]
+},
+{
+"n":258,
+"o":"Kiritiri",
+"c":"60113",
+"s":"Departmental",
+"y":"Embu",
+"t":"Mbeere South",
+"l":["-0.6859545","37.6479757"]
+},
+{
+"n":259,
+"o":"Kiritu",
+"c":"50313",
+"s":"Sub",
+"y":"Vihiga",
+"t":"Vihiga",
+"l":["0.1046005","34.7578462"]
+},
+{
+"n":260,
+"o":"Kirwara",
+"c":"01018",
+"s":"Sub",
+"y":"Muranga",
+"t":"Gatanga",
+"l":["-0.743488","37.2982072"]
+},
+{
+"n":261,
+"o":"Kiserian",
+"c":"00206",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado North",
+"l":["-1.5036722","38.0300772"]
+},
+{
+"n":262,
+"o":"KISII",
+"c":"40200",
+"s":"Head",
+"y":"Kisii",
+"t":"Kitutu Chache South",
+"l":["-1.4251869","36.6936512"]
+},
+{
+"n":263,
+"o":"Kisumu",
+"c":"40100",
+"s":"Head",
+"y":"Kisumu",
+"t":"Kisumu",
+"l":["-0.0917016","34.7679568"]
+},
+{
+"n":264,
+"o":"KITALE",
+"c":"30200",
+"s":"Head",
+"y":"Trans Nzoia",
+"t":"Saboti",
+"l":["1.019089","35.0023048"]
+},
+{
+"n":265,
+"o":"Kitengela",
+"c":"00241",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado East",
+"l":["-1.4752891","36.9620104"]
+},
+{
+"n":266,
+"o":"Kithimani",
+"c":"90124",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Yatta/Matungulu",
+"l":["-1.1840152","37.4461281"]
+},
+{
+"n":267,
+"o":"Kithimu",
+"c":"60114",
+"s":"Sub",
+"y":"Embu",
+"t":"Manyatta",
+"l":""
+},
+{
+"n":268,
+"o":"Kithyoko",
+"c":"90144",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Masinga",
+"l":["-1.0480513","37.8412813"]
+},
+{
+"n":269,
+"o":"Kitise",
+"c":"90303",
+"s":"Sub",
+"y":"Makueni",
+"t":"Makueni",
+"l":["-2.0590828","37.8800766"]
+},
+{
+"n":270,
+"o":"KITUI",
+"c":"90200",
+"s":"Head",
+"y":"Kitui",
+"t":"Kitui Central",
+"l":["-1.3750813","37.9952144"]
+},
+{
+"n":271,
+"o":"Kivunga",
+"c":"90111",
+"s":"Sub",
+"y":"Machakos",
+"t":"Kithimani",
+"l":["-1.7454601","41.4887787"]
+},
+{
+"n":272,
+"o":"Kobujoi",
+"c":"30305",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Aldai",
+"l":["0.1056648","34.9660159"]
+},
+{
+"n":273,
+"o":"Kola",
+"c":"90108",
+"s":"Sub",
+"y":"Machakos",
+"t":"Machakos Town",
+"l":["-1.704507","37.34933"]
+},
+{
+"n":274,
+"o":"Kombewa",
+"c":"40102",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Seme",
+"l":["-0.1035198","34.5184046"]
+},
+{
+"n":275,
+"o":"Kondele",
+"c":"40103",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Kisumu Central",
+"l":["-0.0786108","34.7768412"]
+},
+{
+"n":276,
+"o":"Kora",
+"c":"10244",
+"s":"Sub",
+"y":"Muranga",
+"t":"Mathioya",
+"l":["-0.1047222","38.7583333"]
+},
+{
+"n":277,
+"o":"Koru",
+"c":"40104",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Muhoroni",
+"l":["-0.183333","35.266667"]
+},
+{
+"n":278,
+"o":"Kosele",
+"c":"40332",
+"s":"Sub",
+"y":"Homa Bay",
+"t":"Kasipul/Kabondo Kasipul",
+"l":["-0.4274687","34.689798"]
+},
+{
+"n":279,
+"o":"Koyonzo",
+"c":"50117",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Matungu",
+"l":["0.4190794","34.4267571"]
+},
+{
+"n":280,
+"o":"Kubu Kubu",
+"c":"60125",
+"s":"Departmental",
+"y":"Embu",
+"t":"Embu",
+"l":""
+},
+{
+"n":281,
+"o":"Kutus",
+"c":"10304",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Kirinyaga Central",
+"l":["-0.5735225","37.3252767"]
+},
+{
+"n":282,
+"o":"Kwale",
+"c":"80403",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Matuga",
+"l":["-4.166667","39.45"]
+},
+{
+"n":283,
+"o":"Kyatune",
+"c":"90220",
+"s":"Sub",
+"y":"Kitui",
+"t":"Kitui South",
+"l":["-1.7791237","38.1144798"]
+},
+{
+"n":284,
+"o":"Kyeni",
+"c":"90209",
+"s":"Departmental",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-0.4035665","37.5827551"]
+},
+{
+"n":285,
+"o":"Kyuso",
+"c":"90401",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Mwingi North",
+"l":["-0.5488252","38.219794"]
+},
+{
+"n":286,
+"o":"Laare",
+"c":"60601",
+"s":"Departmental",
+"y":"Meru",
+"t":"Igembe South",
+"l":["0.3299945","37.9374004"]
+},
+{
+"n":287,
+"o":"Lafey",
+"c":"70304",
+"s":"Departmental",
+"y":"Mandera",
+"t":"Lafey",
+"l":""
+},
+{
+"n":288,
+"o":"Laikipia Campus",
+"c":"20330",
+"s":"Departmental",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["0.033136","36.276134"]
+},
+{
+"n":289,
+"o":"Laisamis",
+"c":"60502",
+"s":"Sub",
+"y":"Marsabit",
+"t":"Laisamis",
+"l":["1.6","37.8"]
+},
+{
+"n":290,
+"o":"Lamu",
+"c":"80500",
+"s":"Departmental",
+"y":"Lamu",
+"t":"Lamu East",
+"l":["-2.2695575","40.9006408"]
+},
+{
+"n":291,
+"o":"Lanet",
+"c":"20112",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Bahati",
+"l":["-0.2891843","36.1537013"]
+},
+{
+"n":292,
+"o":"Langas",
+"c":"30112",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Kapseret",
+"l":["0.4763464","35.255668"]
+},
+{
+"n":293,
+"o":"Langata Hardy",
+"c":"00509",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Langata",
+"l":["-1.366667","36.733333"]
+},
+{
+"n":294,
+"o":"Lavington",
+"c":"00603",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Dagoretti North",
+"l":["-1.280556","36.769444"]
+},
+{
+"n":295,
+"o":"Lessos",
+"c":"30302",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Tinderet",
+"l":["0.1850216","35.3383954"]
+},
+{
+"n":296,
+"o":"Likoni",
+"c":"80110",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Likoni",
+"l":["-4.0929017","39.6614446"]
+},
+{
+"n":297,
+"o":"Limuru",
+"c":"00217",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Limuru",
+"l":["-1.1069305","36.6431267"]
+},
+{
+"n":298,
+"o":"Litein",
+"c":"20210",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Bureti",
+"l":["-0.582624","35.1901151"]
+},
+{
+"n":299,
+"o":"Lodwar",
+"c":"30500",
+"s":"Departmental",
+"y":"Turkana",
+"t":"Turkana Central",
+"l":["3.116667","35.6"]
+},
+{
+"n":300,
+"o":"Loitokitok",
+"c":"00209",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado South",
+"l":["-2.900974","37.518197"]
+},
+{
+"n":301,
+"o":"Loiyangalani",
+"c":"60501",
+"s":"Sub",
+"y":"Marsabit",
+"t":"Laisamis",
+"l":["2.7603913","36.7199836"]
+},
+{
+"n":302,
+"o":"Lokichoggio",
+"c":"30503",
+"s":"Departmental",
+"y":"Turkana",
+"t":"Turkana West",
+"l":["4.2","34.35"]
+},
+{
+"n":303,
+"o":"Lokitaung",
+"c":"30504",
+"s":"Departmental",
+"y":"Turkana",
+"t":"Turkana North",
+"l":["4.27","35.75"]
+},
+{
+"n":304,
+"o":"Lolgorian",
+"c":"40701",
+"s":"Departmental",
+"y":"Narok",
+"t":"Kilgoris",
+"l":["-1.2848861","34.9270588"]
+},
+{
+"n":305,
+"o":"Londiani",
+"c":"20203",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Kipkelion East",
+"l":["-0.0985693","35.729768"]
+},
+{
+"n":306,
+"o":"Longisa",
+"c":"20402",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Bomet East",
+"l":["-0.8666667","35.3833333"]
+},
+{
+"n":307,
+"o":"Lower Kabete",
+"c":"00604",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kabete",
+"l":["-1.2427691","36.7617496"]
+},
+{
+"n":308,
+"o":"Luanda",
+"c":"50307",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Luanda",
+"l":["0.0240007","34.5874448"]
+},
+{
+"n":309,
+"o":"Lubao",
+"c":"50118",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Shinyalu",
+"l":["0.3343331","34.8134283"]
+},
+{
+"n":310,
+"o":"Lugari",
+"c":"50108",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Lugari",
+"l":["0.6511579","34.8762111"]
+},
+{
+"n":311,
+"o":"Lugulu",
+"c":"50218",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":""
+},
+{
+"n":312,
+"o":"Luhano",
+"c":"40623",
+"s":"Sub",
+"y":"Siaya",
+"t":"Siaya",
+"l":["0.1769914","34.1684918"]
+},
+{
+"n":313,
+"o":"Lukusi",
+"c":"50230",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":["0.5695252","34.5583766"]
+},
+{
+"n":314,
+"o":"Lumakanda",
+"c":"50242",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Lugari",
+"l":["0.6365917","35.0122243"]
+},
+{
+"n":315,
+"o":"Lunga Lunga",
+"c":"80402",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Lunga Lunga",
+"l":["-4.55","39.12"]
+},
+{
+"n":316,
+"o":"Lunza",
+"c":"50119",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Butere",
+"l":["0.2386301","34.5533538"]
+},
+{
+"n":317,
+"o":"Lwakhakha",
+"c":"50220",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma West",
+"l":["0.7892193","34.3794299"]
+},
+{
+"n":318,
+"o":"Mabusi",
+"c":"50235",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma North",
+"l":["0.5139228","34.4081611"]
+},
+{
+"n":319,
+"o":"MACHAKOS",
+"c":"90100",
+"s":"Head",
+"y":"Machakos",
+"t":"Machakos Town",
+"l":["-1.5176837","37.2634146"]
+},
+{
+"n":320,
+"o":"Madaraka",
+"c":"01002",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Thika",
+"l":["-1.307222","36.815278"]
+},
+{
+"n":321,
+"o":"Madiany",
+"c":"40613",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Bondo / Rarieda",
+"l":["-0.2840917","34.3211482"]
+},
+{
+"n":322,
+"o":"Madina",
+"c":"80207",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Magarini",
+"l":["-1.326153","36.8359609"]
+},
+{
+"n":323,
+"o":"Magadi",
+"c":"00205",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado West",
+"l":["-1.8996701","36.301039"]
+},
+{
+"n":324,
+"o":"Magena",
+"c":"40516",
+"s":"Sub",
+"y":"Kisii",
+"t":"Bomachoge Borabu",
+"l":["-0.8995464","34.7965591"]
+},
+{
+"n":325,
+"o":"Mago",
+"c":"50325",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Vihiga",
+"l":["0.1155301","34.8175692"]
+},
+{
+"n":326,
+"o":"Magombo",
+"c":"40507",
+"s":"Sub",
+"y":"Nyamira",
+"t":"Kitutu Masaba",
+"l":["-0.5669405","34.9341234"]
+},
+{
+"n":1,
+"o":"Magunga",
+"c":"40307",
+"s":"Sub",
+"y":"Homa Bay",
+"t":"Suba South",
+"l":""
+},
+{
+"n":327,
+"o":"Magumoni",
+"c":"60403",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Chuka/Igambang'ombe",
+"l":""
+},
+{
+"n":328,
+"o":"Magutuni",
+"c":"60407",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Maara",
+"l":""
+},
+{
+"n":329,
+"o":"Magwagwa",
+"c":"40508",
+"s":"Sub",
+"y":"Nyamira",
+"t":"North Mugirango",
+"l":""
+},
+{
+"n":330,
+"o":"Mai Mahiu",
+"c":"20147",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Naivasha",
+"l":["-0.7190438","36.4342515"]
+},
+{
+"n":331,
+"o":"Makadara",
+"c":"00522",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Makadara",
+"l":""
+},
+{
+"n":332,
+"o":"Makindu",
+"c":"90138",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kibwezi West",
+"l":""
+},
+{
+"n":333,
+"o":"Makongeni",
+"c":"00510",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Makadara",
+"l":["-1.2976047","36.8505924"]
+},
+{
+"n":334,
+"o":"Makueni",
+"c":"90300",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Makueni",
+"l":""
+},
+{
+"n":335,
+"o":"Makupa",
+"c":"80112",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Mvita",
+"l":["-4.0375984","39.6556872"]
+},
+{
+"n":336,
+"o":"Malakisi",
+"c":"50209",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Sirisia",
+"l":""
+},
+{
+"n":337,
+"o":"Malava",
+"c":"50103",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Malava",
+"l":""
+},
+{
+"n":338,
+"o":"MALINDI",
+"c":"80200",
+"s":"Head",
+"y":"Kilifi",
+"t":"Malindi",
+"l":["-3.2191864","40.1168906"]
+},
+{
+"n":339,
+"o":"MANDERA",
+"c":"70300",
+"s":"Head",
+"y":"Mandera",
+"t":"Mandera East",
+"l":""
+},
+{
+"n":340,
+"o":"Manyatta",
+"c":"60101",
+"s":"Departmental",
+"y":"Embu",
+"t":"Manyatta",
+"l":""
+},
+{
+"n":341,
+"o":"Maragoli",
+"c":"50300",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Vihiga / Sabatia",
+"l":["0.0815437","34.7229677"]
+},
+{
+"n":342,
+"o":"Maragua",
+"c":"10205",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Maragua",
+"l":["-0.794421","37.13122"]
+},
+{
+"n":343,
+"o":"Maralal",
+"c":"20600",
+"s":"Departmental",
+"y":"Samburu",
+"t":"Samburu West",
+"l":["1.0931431","36.7018311"]
+},
+{
+"n":344,
+"o":"Marani",
+"c":"40214",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Kitutu Chache North",
+"l":["-0.5756493","34.8016945"]
+},
+{
+"n":345,
+"o":"Mariakani",
+"c":"80113",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Kaloleni",
+"l":""
+},
+{
+"n":346,
+"o":"Marigat",
+"c":"30403",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["0.47","35.98"]
+},
+{
+"n":347,
+"o":"Marima",
+"c":"60408",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["-0.2734491","37.6612785"]
+},
+{
+"n":348,
+"o":"Marimanti",
+"c":"60215",
+"s":"Departmental",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["-0.1570413","37.9778247"]
+},
+{
+"n":349,
+"o":"Marmanet",
+"c":"20322",
+"s":"Sub",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["0.1666667","36.2833333"]
+},
+{
+"n":350,
+"o":"Marsabit",
+"c":"60500",
+"s":"Departmental",
+"y":"Marsabit",
+"t":"Saku",
+"l":["2.333333","37.983333"]
+},
+{
+"n":351,
+"o":"Masalani",
+"c":"70105",
+"s":"Departmental",
+"y":"Garissa",
+"t":"Ijara",
+"l":["-1.698","40.122"]
+},
+{
+"n":352,
+"o":"Maseno",
+"c":"40105",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Luanda",
+"l":["-0.0067175","34.5985158"]
+},
+{
+"n":353,
+"o":"Mashuru",
+"c":"01103",
+"s":"Sub",
+"y":"Kajiado",
+"t":"Kajiado East",
+"l":["-2.039246","37.1231788"]
+},
+{
+"n":354,
+"o":"Masii",
+"c":"90101",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Mwala",
+"l":["-1.4604752","37.4387894"]
+},
+{
+"n":355,
+"o":"Masinga",
+"c":"90141",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Masinga",
+"l":["-0.9419444","37.6258333"]
+},
+{
+"n":356,
+"o":"Matathia",
+"c":"00221",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Lari",
+"l":["-0.9812003","36.618418"]
+},
+{
+"n":357,
+"o":"Matete",
+"c":"50136",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Lugari",
+"l":""
+},
+{
+"n":358,
+"o":"Mathare Valley",
+"c":"00611",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Mathare",
+"l":["-1.2625304","36.8586637"]
+},
+{
+"n":359,
+"o":"Matiliku",
+"c":"90140",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Makueni",
+"l":""
+},
+{
+"n":360,
+"o":"Matuga",
+"c":"80406",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Matuga",
+"l":""
+},
+{
+"n":361,
+"o":"Matunda",
+"c":"30205",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Soy",
+"l":""
+},
+{
+"n":362,
+"o":"Matuu",
+"c":"90119",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Yatta/Matungulu",
+"l":""
+},
+{
+"n":363,
+"o":"Maua",
+"c":"60600",
+"s":"Departmental",
+"y":"Meru",
+"t":"Igembe North",
+"l":""
+},
+{
+"n":364,
+"o":"Maungu",
+"c":"80317",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Voi",
+"l":""
+},
+{
+"n":365,
+"o":"Mavindini",
+"c":"90304",
+"s":"Sub",
+"y":"Makueni",
+"t":"Makueni",
+"l":""
+},
+{
+"n":366,
+"o":"Mawego",
+"c":"40310",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Karachuonyo",
+"l":""
+},
+{
+"n":367,
+"o":"Mazeras",
+"c":"80114",
+"s":"Departmental",
+"y":"Kilifi/Mombasa",
+"t":"Kilifi/Jomvu",
+"l":""
+},
+{
+"n":368,
+"o":"Mbagathi",
+"c":"00503",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado North",
+"l":["-1.3100367","36.801984"]
+},
+{
+"n":369,
+"o":"Mbiri",
+"c":"10233",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Kiharu",
+"l":""
+},
+{
+"n":370,
+"o":"Mbita",
+"c":"40305",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Suba North",
+"l":""
+},
+{
+"n":371,
+"o":"Mbitini",
+"c":"90214",
+"s":"Sub",
+"y":"Kitui",
+"t":"Kitui Rural",
+"l":""
+},
+{
+"n":372,
+"o":"Mbiuni",
+"c":"90110",
+"s":"Sub",
+"y":"Machakos",
+"t":"Mwala",
+"l":""
+},
+{
+"n":373,
+"o":"Mbumbuni",
+"c":"90127",
+"s":"Sub",
+"y":"Makueni",
+"t":"Mbooni",
+"l":""
+},
+{
+"n":374,
+"o":"Mchumbi Road",
+"c":"00504",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Starehe",
+"l":["-1.3116157","36.8353483"]
+},
+{
+"n":375,
+"o":"Mega City",
+"c":"40123",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Kisumu",
+"l":["-0.1027973","34.7682857"]
+},
+{
+"n":376,
+"o":"Menengai",
+"c":"20104",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Nakuru Town East/Rongai",
+"l":["-0.2762654","36.094776"]
+},
+{
+"n":377,
+"o":"MERU",
+"c":"60200",
+"s":"Head",
+"y":"Meru",
+"t":"Imenti North",
+"l":["0.0514721","37.6456042"]
+},
+{
+"n":378,
+"o":"Mfangano",
+"c":"40319",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Suba North",
+"l":["-0.4593692","34.0084395"]
+},
+{
+"n":379,
+"o":"Mgambonyi",
+"c":"80313",
+"s":"Sub",
+"y":"Taita Taveta",
+"t":"Wundanyi",
+"l":["-3.333333","38.366667"]
+},
+{
+"n":380,
+"o":"Mgange",
+"c":"80306",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Wundanyi",
+"l":""
+},
+{
+"n":381,
+"o":"Miathene",
+"c":"60604",
+"s":"Sub",
+"y":"Meru",
+"t":"Tigania West",
+"l":["0.1509921","37.7895203"]
+},
+{
+"n":382,
+"o":"Migwani",
+"c":"90402",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Mwingi West",
+"l":["-1.0999112","38.0353692"]
+},
+{
+"n":383,
+"o":"Miharati",
+"c":"20301",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Kipipiri",
+"l":["-0.4018323","36.4878241"]
+},
+{
+"n":384,
+"o":"Mikinduri",
+"c":"60607",
+"s":"Departmental",
+"y":"Meru",
+"t":"Tigania East",
+"l":["0.1199151","37.8379645"]
+},
+{
+"n":385,
+"o":"Milimani",
+"c":"50138",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Lurambi",
+"l":["-1.292189","36.81451"]
+},
+{
+"n":386,
+"o":"Mirangine",
+"c":"20124",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Ol Kalou",
+"l":["-0.1791548","36.2386755"]
+},
+{
+"n":387,
+"o":"Mirogi",
+"c":"40320",
+"s":"Sub",
+"y":"Homa Bay",
+"t":"Homa Bay",
+"l":["-0.7084285","34.3976676"]
+},
+{
+"n":388,
+"o":"Misikhu",
+"c":"50207",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":["0.718889","34.755"]
+},
+{
+"n":389,
+"o":"Mitaboni",
+"c":"90104",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Kathiani",
+"l":["-1.3739663","37.2503928"]
+},
+{
+"n":390,
+"o":"Mitunguu",
+"c":"60204",
+"s":"Departmental",
+"y":"Tharaka Nithi",
+"t":"Imenti South",
+"l":["-0.1089044","37.7848732"]
+},
+{
+"n":391,
+"o":"Miu",
+"c":"90112",
+"s":"Sub",
+"y":"Machakos",
+"t":"Kangundo",
+"l":["-1.506072","37.5638545"]
+},
+{
+"n":392,
+"o":"Mkomani",
+"c":"80106",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Nyali",
+"l":""
+},
+{
+"n":393,
+"o":"Mlolongo",
+"c":"00519",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Mavoko",
+"l":""
+},
+{
+"n":394,
+"o":"Mobil Plaza",
+"c":"00620",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":""
+},
+{
+"n":395,
+"o":"Modo Gashe",
+"c":"70102",
+"s":"Departmental",
+"y":"Garissa",
+"t":"Lagdera",
+"l":["0.7279302","39.1777611"]
+},
+{
+"n":396,
+"o":"Mogogosiek",
+"c":"20403",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Konoin",
+"l":["-0.6168962","35.2735269"]
+},
+{
+"n":397,
+"o":"Mogotio",
+"c":"20105",
+"s":"Departmental",
+"y":"Baringo",
+"t":"MOGOTIO",
+"l":["-0.0207658","35.9560546"]
+},
+{
+"n":398,
+"o":"Moi Airport",
+"c":"80115",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Changamwe",
+"l":["-4.0330681","39.6028349"]
+},
+{
+"n":399,
+"o":"Moi University",
+"c":"30107",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Kesses",
+"l":["0.5111631","35.2843657"]
+},
+{
+"n":400,
+"o":"Moi's Bridge",
+"c":"30202",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Soy",
+"l":["0.8763538","35.1292847"]
+},
+{
+"n":401,
+"o":"Moiben",
+"c":"30104",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Moiben",
+"l":["0.823846","35.376381"]
+},
+{
+"n":402,
+"o":"Mokomoni",
+"c":"40510",
+"s":"Sub",
+"y":"Nyamira",
+"t":"Borabu",
+"l":["-0.5669405","34.9341234"]
+},
+{
+"n":403,
+"o":"Mokowe",
+"c":"80502",
+"s":"Departmental",
+"y":"Lamu",
+"t":"Lamu West",
+"l":["-2.2352243","40.8487826"]
+},
+{
+"n":404,
+"o":"Molo",
+"c":"20106",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Molo",
+"l":["-0.2488358","35.7323709"]
+},
+{
+"n":405,
+"o":"MOMBASA",
+"c":"80100",
+"s":"General",
+"y":"Mombasa",
+"t":"Mvita",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":406,
+"o":"Mosoriot",
+"c":"30307",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Chesumei",
+"l":""
+},
+{
+"n":407,
+"o":"Moyale",
+"c":"60700",
+"s":"Departmental",
+"y":"Marsabit",
+"t":"Moyale",
+"l":["3.5399846","39.0528407"]
+},
+{
+"n":408,
+"o":"Mpeketoni",
+"c":"80503",
+"s":"Departmental",
+"y":"Lamu",
+"t":"Lamu West",
+"l":["-2.390485","40.696841"]
+},
+{
+"n":409,
+"o":"Msambweni",
+"c":"80404",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Msambweni",
+"l":["-4.47","39.48"]
+},
+{
+"n":410,
+"o":"Mtitu Andei",
+"c":"90128",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kibwezi East",
+"l":["-2.69","38.17"]
+},
+{
+"n":411,
+"o":"Mtongwe",
+"c":"80111",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Likoni",
+"l":["-4.0917613","39.6440744"]
+},
+{
+"n":412,
+"o":"Mtopanga",
+"c":"80117",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Kisauni",
+"l":["-4.0096448","39.6888938"]
+},
+{
+"n":413,
+"o":"Mtwapa",
+"c":"80109",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Malindi",
+"l":["-3.95","39.744444"]
+},
+{
+"n":414,
+"o":"Mubwayo",
+"c":"50423",
+"s":"Sub",
+"y":"Busia",
+"t":"Bunyala",
+"l":""
+},
+{
+"n":415,
+"o":"Mugunda",
+"c":"10129",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Kieni",
+"l":["-0.1392466","36.7132538"]
+},
+{
+"n":416,
+"o":"Muhoroni",
+"c":"40107",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Muhoroni",
+"l":["-0.15","35.2"]
+},
+{
+"n":417,
+"o":"Muhuru Bay",
+"c":"40409",
+"s":"Departmental",
+"y":"Migori",
+"t":"Nyatike",
+"l":["-0.9988358","34.0961553"]
+},
+{
+"n":418,
+"o":"Mukhe",
+"c":"50225",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma North",
+"l":""
+},
+{
+"n":419,
+"o":"Mukurweini",
+"c":"10103",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Mukurweni",
+"l":["-0.5627089","37.0476576"]
+},
+{
+"n":420,
+"o":"Mumias",
+"c":"50102",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Mumias West",
+"l":["0.333333","34.483333"]
+},
+{
+"n":421,
+"o":"MURANGA",
+"c":"10200",
+"s":"Head",
+"y":"Muranga",
+"t":"Kiharu",
+"l":["-0.7839281","37.0400339"]
+},
+{
+"n":422,
+"o":"Musanda",
+"c":"50125",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Mumias West",
+"l":["-1.2828363","36.7480217"]
+},
+{
+"n":423,
+"o":"Mutha",
+"c":"90211",
+"s":"Sub",
+"y":"Kiyu",
+"t":"Kitui South",
+"l":["-1.7953859","38.4284614"]
+},
+{
+"n":424,
+"o":"Muthaara",
+"c":"60605",
+"s":"Sub",
+"y":"Meru",
+"t":"Tigania East",
+"l":["-1.2860467","36.818343"]
+},
+{
+"n":425,
+"o":"Muthaiga",
+"c":"00619",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":""
+},
+{
+"n":426,
+"o":"Muthetheni",
+"c":"90113",
+"s":"Sub",
+"y":"Machakos",
+"t":"Mwala",
+"l":["-1.5003769","37.5228462"]
+},
+{
+"n":427,
+"o":"Mutituni",
+"c":"90117",
+"s":"Sub",
+"y":"Machakos",
+"t":"Machakos Town",
+"l":["-1.5176837","37.2634146"]
+},
+{
+"n":428,
+"o":"Mutomo",
+"c":"90201",
+"s":"Departmental",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-1.846384","38.2084547"]
+},
+{
+"n":429,
+"o":"Mutumbu",
+"c":"40628",
+"s":"Sub",
+"y":"Siaya",
+"t":"Gem",
+"l":["-18.6375","32.075"]
+},
+{
+"n":430,
+"o":"Mwala",
+"c":"90102",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Mwala",
+"l":["-1.3519815","37.4502563"]
+},
+{
+"n":431,
+"o":"Mwatate",
+"c":"80305",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Mwatate",
+"l":["-3.5032932","38.3639837"]
+},
+{
+"n":432,
+"o":"Mweiga",
+"c":"10104",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Kieni",
+"l":["-0.3266633","36.9026174"]
+},
+{
+"n":433,
+"o":"Mwingi",
+"c":"90400",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Mwingi West",
+"l":["-0.937411","38.0605006"]
+},
+{
+"n":434,
+"o":"Myanga",
+"c":"50226",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Bungoma South",
+"l":["0.5652908","34.390007"]
+},
+{
+"n":435,
+"o":"Nairage Enkare",
+"c":"20504",
+"s":"Departmental",
+"y":"Narok",
+"t":"Narok North",
+"l":""
+},
+{
+"n":436,
+"o":"NAIROBI GPO",
+"c":"00100",
+"s":"General",
+"y":"Nairobi",
+"t":"Starehe",
+"l":""
+},
+{
+"n":437,
+"o":"Naitiri",
+"c":"50211",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Bungoma North",
+"l":["1.019089","35.0023048"]
+},
+{
+"n":438,
+"o":"Naivasha",
+"c":"20117",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Naivasha",
+"l":["-0.720236","36.428531"]
+},
+{
+"n":439,
+"o":"NAKURU",
+"c":"20100",
+"s":"Head",
+"y":"Nakuru",
+"t":"Nakuru Town East",
+"l":["-0.3030988","36.080026"]
+},
+{
+"n":440,
+"o":"Namanga",
+"c":"00207",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado Central",
+"l":["-2.5520935","36.7838976"]
+},
+{
+"n":441,
+"o":"Nambacha",
+"c":"50127",
+"s":"Sub",
+"y":"Kakamega",
+"t":"Navakholo",
+"l":["0.3931698","34.6674186"]
+},
+{
+"n":442,
+"o":"Nambale",
+"c":"50409",
+"s":"Departmental",
+"y":"Busia",
+"t":"Busia",
+"l":["0.45","34.25"]
+},
+{
+"n":443,
+"o":"Nandi Hills",
+"c":"30301",
+"s":"Departmental",
+"y":"Nandi",
+"t":"Nandi Hills",
+"l":["0.1030731","35.176372"]
+},
+{
+"n":444,
+"o":"Nango",
+"c":"40615",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem",
+"l":["0.3090376","34.2357335"]
+},
+{
+"n":445,
+"o":"NANYUKI",
+"c":"10400",
+"s":"Head",
+"y":"Laikipia",
+"t":"Laikipia East",
+"l":["0.016667","37.066667"]
+},
+{
+"n":446,
+"o":"Naro Moru",
+"c":"10105",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Kieni",
+"l":["-0.166667","37.016667"]
+},
+{
+"n":447,
+"o":"Narok",
+"c":"20500",
+"s":"Departmental",
+"y":"Narok",
+"t":"Narok North",
+"l":["-1.083333","35.866667"]
+},
+{
+"n":448,
+"o":"Ndalani",
+"c":"90118",
+"s":"Sub",
+"y":"Machakos",
+"t":"Yatta",
+"l":["-1.0975304","37.4867047"]
+},
+{
+"n":449,
+"o":"Ndalu",
+"c":"50212",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Bungoma North",
+"l":["0.8473192","34.9951753"]
+},
+{
+"n":450,
+"o":"Ndanai",
+"c":"20404",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Sotik",
+"l":["-0.8395071","35.0948976"]
+},
+{
+"n":451,
+"o":"Ndaragwa",
+"c":"20306",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Ndaragwa",
+"l":["-0.0581284","36.531071"]
+},
+{
+"n":452,
+"o":"Nderu",
+"c":"00229",
+"s":"Sub",
+"y":"Kiambu",
+"t":"Limuru",
+"l":["-1.15","36.6"]
+},
+{
+"n":453,
+"o":"Ndhiwa",
+"c":"40302",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Ndhiwa",
+"l":["-0.73","34.37"]
+},
+{
+"n":454,
+"o":"Ndithini",
+"c":"01016",
+"s":"Sub",
+"y":"Kiambu/Thika",
+"t":"Thika /Machakos",
+"l":["-0.9472567","37.3346516"]
+},
+{
+"n":455,
+"o":"Ndooa",
+"c":"90202",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Kitui East",
+"l":""
+},
+{
+"n":456,
+"o":"Ndori",
+"c":"40602",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem",
+"l":["-0.0717571","34.3789083"]
+},
+{
+"n":457,
+"o":"Ndunyu Njeru",
+"c":"20317",
+"s":"Sub",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["-0.5449804","36.5621393"]
+},
+{
+"n":458,
+"o":"Ng'ambwa",
+"c":"80311",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Mwatate",
+"l":["-3.3850796","38.3403111"]
+},
+{
+"n":459,
+"o":"Ng'iya",
+"c":"40603",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Alego Usonga",
+"l":""
+},
+{
+"n":460,
+"o":"NGARA ROAD",
+"c":"00600",
+"s":"Head",
+"y":"Nairobi",
+"t":"Starehe",
+"l":""
+},
+{
+"n":461,
+"o":"Ngecha",
+"c":"00218",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Limuru",
+"l":["-1.1748105","36.8304102"]
+},
+{
+"n":462,
+"o":"Ngewa",
+"c":"00901",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Githunguri",
+"l":["-1.0962242","36.8670704"]
+},
+{
+"n":463,
+"o":"Nginyang",
+"c":"30404",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo East",
+"l":["0.9359015","36.0223584"]
+},
+{
+"n":464,
+"o":"Ngong Hills",
+"c":"00208",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado North",
+"l":["-1.4","36.6380556"]
+},
+{
+"n":465,
+"o":"Ngong Road",
+"c":"00505",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Nairobi West",
+"l":""
+},
+{
+"n":466,
+"o":"Nguni",
+"c":"90407",
+"s":"Sub",
+"y":"Kitui",
+"t":"Mwingi East",
+"l":["-0.8024808","38.3139375"]
+},
+{
+"n":467,
+"o":"Ngwata",
+"c":"90129",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kibwezi East",
+"l":["-2.5267187","38.0538458"]
+},
+{
+"n":468,
+"o":"Njoro",
+"c":"20107",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Njoro",
+"l":["-0.331626","35.944938"]
+},
+{
+"n":469,
+"o":"Nkondi",
+"c":"60214",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["-0.0410713","37.959947"]
+},
+{
+"n":470,
+"o":"Nkubu",
+"c":"60202",
+"s":"Departmental",
+"y":"Meru",
+"t":"Imenti South",
+"l":["-0.066667","37.666667"]
+},
+{
+"n":471,
+"o":"North-Kinangop",
+"c":"20318",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Kinangop",
+"l":["-0.611546","36.7065057"]
+},
+{
+"n":472,
+"o":"Nunguni",
+"c":"90130",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kaiti",
+"l":["-1.7929201","37.3635538"]
+},
+{
+"n":473,
+"o":"Nyabondo",
+"c":"40124",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Kisumu East",
+"l":["-0.3814707","34.9795981"]
+},
+{
+"n":474,
+"o":"NYAHURURU",
+"c":"20300",
+"s":"Head",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["0.0351644","36.3642919"]
+},
+{
+"n":475,
+"o":"Nyali",
+"c":"80118",
+"s":"Departmental",
+"y":"Mombasa",
+"t":"Nyali",
+"l":["-4.0524055","39.6956699"]
+},
+{
+"n":476,
+"o":"Nyamache",
+"c":"40203",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Bobasi",
+"l":["-0.8627965","34.8185813"]
+},
+{
+"n":477,
+"o":"Nyamarambe",
+"c":"40206",
+"s":"Departmental",
+"y":"Kisii",
+"t":"South Mugirango",
+"l":["-0.8716923","34.82099"]
+},
+{
+"n":478,
+"o":"Nyambunwa",
+"c":"40205",
+"s":"Sub",
+"y":"Kisii",
+"t":"Bonchari",
+"l":["-0.9220265","34.804283"]
+},
+{
+"n":479,
+"o":"Nyamira",
+"c":"40500",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"West Mugirango",
+"l":["-0.5669405","34.9341234"]
+},
+{
+"n":480,
+"o":"Nyamonye",
+"c":"40632",
+"s":"Sub",
+"y":"Siaya",
+"t":"Bondo",
+"l":["-0.0490014","34.1403292"]
+},
+{
+"n":481,
+"o":"Nyandhiwa",
+"c":"40333",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Suba",
+"l":["-0.7256695","34.0543965"]
+},
+{
+"n":482,
+"o":"Nyangande",
+"c":"40126",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Nyando",
+"l":["-0.2066329","34.8523611"]
+},
+{
+"n":483,
+"o":"Nyangori",
+"c":"40127",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Nyando",
+"l":""
+},
+{
+"n":484,
+"o":"Nyangusu",
+"c":"40218",
+"s":"Sub",
+"y":"Kisii",
+"t":"Bobasi",
+"l":["-0.9341491","34.8099773"]
+},
+{
+"n":485,
+"o":"Nyangweso",
+"c":"40311",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Rangwe",
+"l":["-0.4474988","34.5791406"]
+},
+{
+"n":486,
+"o":"Nyansiongo",
+"c":"40502",
+"s":"Departmental",
+"y":"Nyamira",
+"t":"Borabu",
+"l":["-0.7593575","35.0140324"]
+},
+{
+"n":487,
+"o":"Nyaramba",
+"c":"40514",
+"s":"Sub",
+"y":"Kisii",
+"t":"South Mugirango",
+"l":["-0.5643351","34.977015"]
+},
+{
+"n":488,
+"o":"Nyatike",
+"c":"40402",
+"s":"Departmental",
+"y":"Migori",
+"t":"Nyatike",
+"l":["-0.7434952","34.6392416"]
+},
+{
+"n":489,
+"o":"Nyayo Stadium",
+"c":"00506",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Nairobi West",
+"l":["-1.3042392","36.8241598"]
+},
+{
+"n":490,
+"o":"NYERI",
+"c":"10100",
+"s":"Head",
+"y":"Nyeri",
+"t":"Nyeri Town",
+"l":["-0.416667","36.95"]
+},
+{
+"n":491,
+"o":"Nyilima",
+"c":"40611",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Bondo",
+"l":""
+},
+{
+"n":492,
+"o":"Nzeeka",
+"c":"90136",
+"s":"Sub",
+"y":"Makueni",
+"t":"Kibwezi West",
+"l":""
+},
+{
+"n":493,
+"o":"Nziu",
+"c":"90143",
+"s":"Sub",
+"y":"Makueni",
+"t":"Makueni",
+"l":["-1.816667","37.533333"]
+},
+{
+"n":494,
+"o":"Ogembo",
+"c":"40204",
+"s":"Departmental",
+"y":"Kisii",
+"t":"Bomachoge Borabu",
+"l":["-0.8003002","34.7257313"]
+},
+{
+"n":495,
+"o":"Ogongo",
+"c":"40323",
+"s":"Sub",
+"y":"Homa Bay",
+"t":"Suba North",
+"l":""
+},
+{
+"n":496,
+"o":"Okia",
+"c":"90301",
+"s":"Sub",
+"y":"Makueni",
+"t":"Kaiti",
+"l":""
+},
+{
+"n":497,
+"o":"Ol-Kalou",
+"c":"20303",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Ol Kalou",
+"l":["-0.272699","36.3775152"]
+},
+{
+"n":498,
+"o":"Olenguruone",
+"c":"20152",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Kuresoi South",
+"l":["-0.5968149","35.6314191"]
+},
+{
+"n":499,
+"o":"Oljoro-Orok",
+"c":"20302",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Ol Jorok",
+"l":""
+},
+{
+"n":500,
+"o":"Ololulunga",
+"c":"20503",
+"s":"Departmental",
+"y":"Narok",
+"t":"Narok South",
+"l":""
+},
+{
+"n":501,
+"o":"Omogonchoro",
+"c":"40221",
+"s":"Sub",
+"y":"Kisii",
+"t":"Kitutu Chache South",
+"l":""
+},
+{
+"n":502,
+"o":"Ongata Rongai",
+"c":"00511",
+"s":"Departmental",
+"y":"Kajiado",
+"t":"Kajiado North",
+"l":["-1.3938636","36.7442377"]
+},
+{
+"n":503,
+"o":"Ortum",
+"c":"30602",
+"s":"Departmental",
+"y":"West Pokot",
+"t":"Pokot South",
+"l":["1.4375133","35.3562259"]
+},
+{
+"n":504,
+"o":"Othaya",
+"c":"10106",
+"s":"Departmental",
+"y":"Nyeri",
+"t":"Othaya",
+"l":["-0.5517507","36.9447027"]
+},
+{
+"n":505,
+"o":"Oyugis",
+"c":"40222",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Kasipul",
+"l":["-0.5078963","34.7381662"]
+},
+{
+"n":506,
+"o":"Pap-Onditi",
+"c":"40111",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Nyakach",
+"l":["-0.3130753","34.9368801"]
+},
+{
+"n":507,
+"o":"Parklands",
+"c":"00623",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":["-1.26","36.818056"]
+},
+{
+"n":508,
+"o":"Paw Akuche",
+"c":"40131",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Kisumu West",
+"l":["-0.0977088","34.6006291"]
+},
+{
+"n":509,
+"o":"Port victoria",
+"c":"50410",
+"s":"Departmental",
+"y":"Busia",
+"t":"Bunyala",
+"l":["0.0960848","33.9781371"]
+},
+{
+"n":510,
+"o":"Rabuor",
+"c":"40132",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Nyando",
+"l":["-0.1552667","34.8332685"]
+},
+{
+"n":511,
+"o":"Ragengni",
+"c":"40604",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Rarieda",
+"l":["-0.2805332","34.3612204"]
+},
+{
+"n":512,
+"o":"Ranen",
+"c":"40412",
+"s":"Sub",
+"y":"Migori",
+"t":"Rongo",
+"l":["-0.8609355","34.5652985"]
+},
+{
+"n":513,
+"o":"Rangwe",
+"c":"40303",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Rangwe",
+"l":["-0.6001342","34.5839848"]
+},
+{
+"n":514,
+"o":"Rapogi",
+"c":"40403",
+"s":"Departmental",
+"y":"Migori",
+"t":"Uriri",
+"l":""
+},
+{
+"n":515,
+"o":"Ratta",
+"c":"40137",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Kisumu West",
+"l":""
+},
+{
+"n":516,
+"o":"Reru",
+"c":"40133",
+"s":"Sub",
+"y":"Kisumu",
+"t":"Seme",
+"l":["-0.193454","34.8420627"]
+},
+{
+"n":517,
+"o":"Rhamu",
+"c":"70302",
+"s":"Departmental",
+"y":"Mandera",
+"t":"Mandera North",
+"l":["3.9318811","41.2256158"]
+},
+{
+"n":518,
+"o":"Rigoma",
+"c":"40511",
+"s":"Sub",
+"y":"Nyamira",
+"t":"Kitutu Masaba",
+"l":["-0.7019085","34.9172679"]
+},
+{
+"n":519,
+"o":"Riochanda",
+"c":"40512",
+"s":"Sub",
+"y":"Nyamira",
+"t":"West Mugirango",
+"l":""
+},
+{
+"n":520,
+"o":"Riosiri",
+"c":"40220",
+"s":"Sub",
+"y":"Kisii",
+"t":"South Mugirango",
+"l":["-0.7742509","34.637772"]
+},
+{
+"n":521,
+"o":"Rodi Kopany",
+"c":"40326",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Rangwe",
+"l":["-0.6256742","34.5043672"]
+},
+{
+"n":553,
+"o":"Sindo",
+"c":"40308",
+"s":"Departmental",
+"y":"Homa Bay",
+"t":"Suba South",
+"l":["-0.5417807","34.1657107"]
+},
+{
+"n":522,
+"o":"Ronald Ngala Street",
+"c":"00300",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Starehe",
+"l":""
+},
+{
+"n":523,
+"o":"Rongai",
+"c":"20108",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Rongai",
+"l":["-0.166667","35.85"]
+},
+{
+"n":524,
+"o":"Rongo",
+"c":"40404",
+"s":"Departmental",
+"y":"Migori",
+"t":"Rongo",
+"l":["-0.7553244","34.5998996"]
+},
+{
+"n":525,
+"o":"Roret",
+"c":"20204",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Bureti",
+"l":["-0.3200534","35.5454439"]
+},
+{
+"n":526,
+"o":"Ruai",
+"c":"00520",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Kasarani",
+"l":["-1.2532868","37.0078232"]
+},
+{
+"n":527,
+"o":"Ruaraka",
+"c":"00618",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Ruaraka",
+"l":["-1.2456719","36.8815276"]
+},
+{
+"n":528,
+"o":"Ruiru",
+"c":"00232",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Ruiru",
+"l":["-1.148889","36.956944"]
+},
+{
+"n":529,
+"o":"Rumuruti",
+"c":"20321",
+"s":"Departmental",
+"y":"Laikipia",
+"t":"Laikipia West",
+"l":["0.2671366","36.539177"]
+},
+{
+"n":530,
+"o":"Runyenjes",
+"c":"60103",
+"s":"Departmental",
+"y":"Embu",
+"t":"Runyenjes",
+"l":["-0.4223518","37.5721011"]
+},
+{
+"n":531,
+"o":"Rurii",
+"c":"20313",
+"s":"Sub",
+"y":"Nyandarua",
+"t":"Ol Kalou",
+"l":""
+},
+{
+"n":532,
+"o":"Ruringu",
+"c":"10133",
+"s":"Sub",
+"y":"Nyeri",
+"t":"Nyeri Town",
+"l":["-0.4357319","36.9674558"]
+},
+{
+"n":533,
+"o":"Saba-Saba",
+"c":"10208",
+"s":"Departmental",
+"y":"Muranga",
+"t":"Maragua",
+"l":["-0.8763358","37.1446201"]
+},
+{
+"n":534,
+"o":"Sagalla",
+"c":"80308",
+"s":"Sub",
+"y":"Taita Taveta",
+"t":"Voi",
+"l":["-3.4961371","38.5944986"]
+},
+{
+"n":535,
+"o":"Sagana",
+"c":"10230",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Ndia",
+"l":["-0.6695132","37.2061138"]
+},
+{
+"n":536,
+"o":"Samburu",
+"c":"80120",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Kinango",
+"l":["-3.778638","39.2789"]
+},
+{
+"n":537,
+"o":"Sare",
+"c":"40405",
+"s":"Departmental",
+"y":"Migori",
+"t":"Rongo",
+"l":""
+},
+{
+"n":538,
+"o":"Sarit Centre",
+"c":"00606",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":["-1.2609817","36.8020427"]
+},
+{
+"n":539,
+"o":"Sawagongo",
+"c":"40612",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem",
+"l":["0.0765046","34.457948"]
+},
+{
+"n":540,
+"o":"Sega",
+"c":"40614",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Ugenya",
+"l":["0.2496358","34.2282647"]
+},
+{
+"n":541,
+"o":"Serem",
+"c":"50308",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Hamisi",
+"l":""
+},
+{
+"n":542,
+"o":"Seretunin",
+"c":"30407",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["0.557095","35.780251"]
+},
+{
+"n":543,
+"o":"Shianda",
+"c":"50106",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Butere",
+"l":["0.3193134","34.5708356"]
+},
+{
+"n":544,
+"o":"Shimba Hills",
+"c":"80407",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Matuga",
+"l":["-4.3622388","39.4155148"]
+},
+{
+"n":545,
+"o":"Shimoni",
+"c":"80409",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Lunga Lunga",
+"l":["-4.6471628","39.3804134"]
+},
+{
+"n":546,
+"o":"Shinyalu",
+"c":"50107",
+"s":"Departmental",
+"y":"Kakamega",
+"t":"Shinyalu",
+"l":["0.2827307","34.7518631"]
+},
+{
+"n":547,
+"o":"Siakago",
+"c":"60104",
+"s":"Departmental",
+"y":"Embu",
+"t":"Mbeere North",
+"l":["-0.5776702","37.6404775"]
+},
+{
+"n":548,
+"o":"SIAYA",
+"c":"40600",
+"s":"Head",
+"y":"Siaya",
+"t":"Alego Usonga",
+"l":["0.0626293","34.2878084"]
+},
+{
+"n":549,
+"o":"Sidindi",
+"c":"40605",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Ugunja",
+"l":["0.154167","34.389444"]
+},
+{
+"n":550,
+"o":"Sigomre",
+"c":"40635",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Ugunja",
+"l":["0.2057125","34.3540764"]
+},
+{
+"n":551,
+"o":"Sigor",
+"c":"20405",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Chepalungu",
+"l":["1.4959744","35.4727149"]
+},
+{
+"n":552,
+"o":"Silibwet",
+"c":"20422",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Bomet Central",
+"l":["-0.0396752","36.2879705"]
+},
+{
+"n":554,
+"o":"Siongiroi",
+"c":"20423",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Chepalungu",
+"l":["-0.8933397","35.2107255"]
+},
+{
+"n":555,
+"o":"Sirisia",
+"c":"50208",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Sirisia",
+"l":["0.7561794","34.5057525"]
+},
+{
+"n":556,
+"o":"SIRWA",
+"c":"50305",
+"s":"Departmental",
+"y":"",
+"t":"",
+"l":""
+},
+{
+"n":557,
+"o":"Sondu",
+"c":"40109",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Nyando",
+"l":["-0.3900075","35.0140324"]
+},
+{
+"n":558,
+"o":"Songhor",
+"c":"40110",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Muhoroni",
+"l":["-0.0548994","35.2098513"]
+},
+{
+"n":559,
+"o":"Sosiot",
+"c":"20205",
+"s":"Departmental",
+"y":"Kericho",
+"t":"Belgut",
+"l":["-0.3627385","35.1715614"]
+},
+{
+"n":560,
+"o":"Sotik",
+"c":"20406",
+"s":"Departmental",
+"y":"Bomet",
+"t":"Sotik",
+"l":["-0.6906735","35.1110613"]
+},
+{
+"n":561,
+"o":"South-Kinangop",
+"c":"20319",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Kinangop",
+"l":["-0.719112","36.650181"]
+},
+{
+"n":562,
+"o":"Soy",
+"c":"30105",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Soy",
+"l":["0.6776219","35.14397"]
+},
+{
+"n":563,
+"o":"State law Office-Sheria Hse",
+"c":"00102",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Starehe",
+"l":""
+},
+{
+"n":564,
+"o":"Subukia",
+"c":"20109",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Subukia",
+"l":["-0.0018807","36.2278245"]
+},
+{
+"n":565,
+"o":"Suguta Mar Mar",
+"c":"20602",
+"s":"Departmental",
+"y":"Samburu",
+"t":"Samburu West",
+"l":["0.8231953","36.6917503"]
+},
+{
+"n":566,
+"o":"Sulmac",
+"c":"20151",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Naivasha",
+"l":["-0.8329039","36.6053402"]
+},
+{
+"n":567,
+"o":"Sultan Hamud",
+"c":"90132",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kilome",
+"l":["-2.018138","37.3771191"]
+},
+{
+"n":568,
+"o":"Suna",
+"c":"40400",
+"s":"Departmental",
+"y":"Migori",
+"t":"Suna East",
+"l":["-1.0937745","34.457255"]
+},
+{
+"n":569,
+"o":"Tabaka",
+"c":"40229",
+"s":"Departmental",
+"y":"Kisii",
+"t":"South Mugirango",
+"l":["-0.7547705","34.6607641"]
+},
+{
+"n":570,
+"o":"Takaba",
+"c":"70303",
+"s":"Departmental",
+"y":"Mandera",
+"t":"Mandera West",
+"l":["3.3963127","40.2298415"]
+},
+{
+"n":571,
+"o":"Tala",
+"c":"90131",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Matungulu",
+"l":["-1.2670262","37.3201328"]
+},
+{
+"n":572,
+"o":"Tambach",
+"c":"30704",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Keiyo",
+"l":["0.5913844","35.5231547"]
+},
+{
+"n":573,
+"o":"Tausa",
+"c":"80309",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Voi",
+"l":["-3.3288713","38.4740889"]
+},
+{
+"n":574,
+"o":"Taveta",
+"c":"80302",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Taveta",
+"l":["-3.4","37.683333"]
+},
+{
+"n":575,
+"o":"Tawa",
+"c":"90133",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Mbooni",
+"l":["-1.5481408","37.4668058"]
+},
+{
+"n":576,
+"o":"Tenges",
+"c":"30405",
+"s":"Departmental",
+"y":"Baringo",
+"t":"Baringo Central",
+"l":["0.3092036","35.8014151"]
+},
+{
+"n":577,
+"o":"THIKA",
+"c":"01000",
+"s":"Head",
+"y":"Kiambu",
+"t":"Thika",
+"l":["-1.0387569","37.0833753"]
+},
+{
+"n":578,
+"o":"Timau",
+"c":"10406",
+"s":"Departmental",
+"y":"Meru",
+"t":"Buuri",
+"l":["0.0854987","37.2383506"]
+},
+{
+"n":579,
+"o":"Timber Mills",
+"c":"20110",
+"s":"Departmental",
+"y":"Nakuru",
+"t":"Nakuru",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":580,
+"o":"Timboroa",
+"c":"30108",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Kesses",
+"l":["0.0854953","35.5302127"]
+},
+{
+"n":581,
+"o":"Tiriki",
+"c":"50309",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Hamisi",
+"l":["0.0973454","34.8459184"]
+},
+{
+"n":582,
+"o":"Tom Mboya Street",
+"c":"00400",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Starehe",
+"l":["-1.2827877","36.8244125"]
+},
+{
+"n":583,
+"o":"Tongaren",
+"c":"30218",
+"s":"Sub",
+"y":"Bungoma",
+"t":"Tongaren",
+"l":""
+},
+{
+"n":584,
+"o":"Tot",
+"c":"30707",
+"s":"Departmental",
+"y":"Elgeyo/Marakwet",
+"t":"Marakwet",
+"l":["1.200411","35.6587503"]
+},
+{
+"n":585,
+"o":"Tulia",
+"c":"90203",
+"s":"Departmental",
+"y":"Kitui",
+"t":"Kitui West",
+"l":["-1.186977","37.9791205"]
+},
+{
+"n":586,
+"o":"Tunyai",
+"c":"60213",
+"s":"Sub",
+"y":"Tharaka Nithi",
+"t":"Tharaka",
+"l":["-0.1569525","37.8167329"]
+},
+{
+"n":587,
+"o":"Turbo",
+"c":"30106",
+"s":"Departmental",
+"y":"Uasin Gishu",
+"t":"Turbo",
+"l":["0.6342241","35.0470761"]
+},
+{
+"n":588,
+"o":"Ugunja",
+"c":"40606",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Ugunja",
+"l":["0.18138","34.2966264"]
+},
+{
+"n":589,
+"o":"Uhuru Gardens",
+"c":"00517",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Langata",
+"l":["-1.3218944","36.7940684"]
+},
+{
+"n":590,
+"o":"Ukunda",
+"c":"80400",
+"s":"Departmental",
+"y":"Kwale",
+"t":"Msambweni",
+"l":["-4.283333","9.566667"]
+},
+{
+"n":591,
+"o":"Ukwala",
+"c":"40607",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Ugenya",
+"l":["-1.2849951","36.8262234"]
+},
+{
+"n":592,
+"o":"Uplands",
+"c":"00222",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Lari",
+"l":["-1.069374","36.6997658"]
+},
+{
+"n":593,
+"o":"Uranga",
+"c":"40608",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem / Alego Usonga",
+"l":["0.116667","34.15"]
+},
+{
+"n":594,
+"o":"Uriri",
+"c":"40228",
+"s":"Sub",
+"y":"Migori",
+"t":"Uriri",
+"l":["-0.9688889","34.5083333"]
+},
+{
+"n":595,
+"o":"Usenge",
+"c":"40609",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Bondo",
+"l":["-0.0676755","34.0557887"]
+},
+{
+"n":596,
+"o":"Uthiru",
+"c":"00605",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Dagoretti South",
+"l":["-1.2718874","36.7038098"]
+},
+{
+"n":597,
+"o":"Victoria",
+"c":"40142",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"",
+"l":""
+},
+{
+"n":598,
+"o":"Vihiga",
+"c":"50310",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Vihiga",
+"l":["0.0921041","34.7298765"]
+},
+{
+"n":599,
+"o":"Village Market",
+"c":"00621",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":""
+},
+{
+"n":600,
+"o":"Vipingo",
+"c":"80119",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Kilifi South",
+"l":["-4.0434771","39.6682065"]
+},
+{
+"n":601,
+"o":"Viwandani",
+"c":"00507",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Makadara",
+"l":["-1.3080663","36.8566754"]
+},
+{
+"n":602,
+"o":"VOI",
+"c":"80300",
+"s":"Head",
+"y":"Taita Taveta",
+"t":"Voi",
+"l":["-3.3973104","38.5559336"]
+},
+{
+"n":603,
+"o":"Wachoro",
+"c":"60121",
+"s":"Sub",
+"y":"Embu",
+"t":"Mbeere South",
+"l":["-0.759936","37.2742204"]
+},
+{
+"n":604,
+"o":"WAJIR",
+"c":"70200",
+"s":"Head",
+"y":"Wajir",
+"t":"Wajir East",
+"l":["1.7488388","1.7488388"]
+},
+{
+"n":605,
+"o":"Wamba",
+"c":"20603",
+"s":"Departmental",
+"y":"Samburu",
+"t":"Samburu East",
+"l":["0.983333","37.316667"]
+},
+{
+"n":606,
+"o":"Wamunyu",
+"c":"90103",
+"s":"Departmental",
+"y":"Machakos",
+"t":"Mwala",
+"l":["-1.413408","37.6240242"]
+},
+{
+"n":607,
+"o":"Wangige",
+"c":"00614",
+"s":"Departmental",
+"y":"Kiambu",
+"t":"Kabete",
+"l":["-1.2202532","36.7132449"]
+},
+{
+"n":608,
+"o":"Wanguru",
+"c":"10303",
+"s":"Departmental",
+"y":"Kirinyaga",
+"t":"Mwea",
+"l":["-0.5873196","37.0610806"]
+},
+{
+"n":609,
+"o":"Wanjohi",
+"c":"20305",
+"s":"Departmental",
+"y":"Nyandarua",
+"t":"Kipipiri",
+"l":["-0.6536831","36.5693771"]
+},
+{
+"n":610,
+"o":"Watamu",
+"c":"80202",
+"s":"Departmental",
+"y":"Kilifi",
+"t":"Kilifi North",
+"l":["-3.35","40.016667"]
+},
+{
+"n":611,
+"o":"Webuye",
+"c":"50205",
+"s":"Departmental",
+"y":"Bungoma",
+"t":"Bungoma East",
+"l":["0.616667","34.766667"]
+},
+{
+"n":612,
+"o":"Wei-Wei",
+"c":"30603",
+"s":"Departmental",
+"y":"West Pokot",
+"t":"Sigor",
+"l":["1.4856057","35.47196"]
+},
+{
+"n":613,
+"o":"Werugha",
+"c":"80303",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Wundanyi",
+"l":["-3.4004592","38.3647299"]
+},
+{
+"n":614,
+"o":"Westlands",
+"c":"00800",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Westlands",
+"l":["-1.2682643","36.8111214"]
+},
+{
+"n":615,
+"o":"Winam (Kisumu GPO Extn.)",
+"c":"40141",
+"s":"Departmental",
+"y":"Kisumu",
+"t":"Kisumu",
+"l":["-0.0982663","34.7508381"]
+},
+{
+"n":616,
+"o":"Witu",
+"c":"80504",
+"s":"Departmental",
+"y":"Lamu",
+"t":"Lamu West",
+"l":""
+},
+{
+"n":617,
+"o":"Wodanga",
+"c":"50311",
+"s":"Departmental",
+"y":"Vihiga",
+"t":"Sabatia",
+"l":""
+},
+{
+"n":618,
+"o":"Wundanyi",
+"c":"80304",
+"s":"Departmental",
+"y":"Taita Taveta",
+"t":"Wundanyi",
+"l":["-3.4047218","38.3657384"]
+},
+{
+"n":619,
+"o":"Yala",
+"c":"40610",
+"s":"Departmental",
+"y":"Siaya",
+"t":"Gem",
+"l":["0.1","34.533333"]
+},
+{
+"n":620,
+"o":"Yaya Towers",
+"c":"00508",
+"s":"Departmental",
+"y":"Nairobi",
+"t":"Nairobi West",
+"l":["-1.2920659","36.8219462"]
+},
+{
+"n":621,
+"o":"Yoani",
+"c":"90134",
+"s":"Departmental",
+"y":"Makueni",
+"t":"Kitui South",
+"l":["-1.8528635","37.2594666"]
+},
+{
+"n":622,
+"o":"Ziwa",
+"c":"30214",
+"s":"Sub",
+"y":"Uasin Gishu",
+"t":"Soy",
+"l":["0.8342805","35.246438"]
+},
+{
+"n":623,
+"o":"Zombe",
+"c":"90213",
+"s":"Sub",
+"y":"Kitui",
+"t":"Kitui East",
+"l":["-1.4524714","38.234841"]
+}]
 }];
